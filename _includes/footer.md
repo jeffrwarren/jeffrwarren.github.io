@@ -6,7 +6,7 @@
       <li><a href="http://www.cambridge.org/gb/academic/subjects/music/music-criticism/music-and-ethical-responsibility?format=HB#bY237iL1ixXfsPwS.97" class="icon fa-twitter"><span class="label">Music and Ethical Responsibility</span></a></li>
     </ul>
     <ul class="copyright">
-      <li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+      <li>&copy; Jeff Warren</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
     </ul>
   </footer>
 
