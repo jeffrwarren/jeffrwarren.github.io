@@ -9,3 +9,5 @@ title: Hank Quinlan, Horrible Cop
 
 # now for some markdown
 Here it is.
+
+{% include footer.md %}
