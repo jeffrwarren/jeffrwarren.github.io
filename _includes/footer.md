@@ -1,8 +1,4 @@
-{% columns 4,4,4 %}
-
 {% sitemap %}
-
-{% column %}
 
 __Jeff R Warren, PhD__    
 professor of music and humanities    
