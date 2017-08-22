@@ -15,5 +15,4 @@ squamish, bc
 
   ga('create', 'UA-52449045-1', 'auto');
   ga('send', 'pageview');
-
 </script>
