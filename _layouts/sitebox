@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>{{ page.title }} - {{ site.name }}</title>
+
+    <meta name='description' content='{{ page.description }}'>
+    <meta name='author' content='{{ page.author }}'>
+
+    {{ include 'compatibility', '1.0' }}
+    {{ include 'dependencies',  '1.0' }}
+
+    {{ stylesheet 'style' }}
+  </head>
+  <body>
+    <header>
+      <div class='navbar navbar-default'>
+        <div class='container'>
+          <div class='navbar-header'>
+            <button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>
+              <span class='sr-only'>Toggle navigation</span>
+              {{ 3.times }}<span class='icon-bar'></span>{{ end }}
+            </button>
+
+            <a class='navbar-brand' href='{{ site.path }}'>{{ site.name }}</a>
+          </div>
+
+          <div class='navbar-collapse collapse'>
+            <ul class='nav navbar-nav navbar-right'>{{ menu }}</ul>
+          </div>
+        </div>
+      </div>
+
+      <div class='heading'{{ if page.image }} style='background-image: url({{ page.image }})'{{ end }}>
+        <div class='container'>
+          {{ if page.title }}<h1><span>{{ page.title }}</span></h1>{{ end }}
+          {{ if page.subtitle }}<h2><span>{{ page.subtitle }}</span></h2>{{ end }}
+        </div>
+      </div>
+    </header>
+
+    <section>
+      <div class='container'>
+        {{ content }}
+      </div>
+    </section>
+
+    <footer>
+      <div class='container'>
+        {{ partial 'footer' }}
+        {{ include 'branding', '1.0' }}
+      </div>
+    </footer>
+  </body>
+</html>
