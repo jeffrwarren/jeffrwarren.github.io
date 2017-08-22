@@ -19,7 +19,6 @@
 			{{ content }}
 			
 			</div><!-- /.container -->
-{% include footer.md %}
 			<footer>
 	    		<ul>
 	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
@@ -28,5 +27,5 @@
 				</ul>
 			</footer>
 		</body>
-	</html>
 {% include footer.md %}
+	</html>
