@@ -1,5 +1,5 @@
 ---
-layout: Splash
+layout: default
 title: This is something
 ---
 
