@@ -3,7 +3,7 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/style.css">
+			<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
 		</head>
 		<body>
 			<nav>
@@ -15,9 +15,9 @@
 	    		</ul>
 			</nav>
 			<div class="container">
-			
+
 			{{ content }}
-			
+
 			</div><!-- /.container -->
 			<footer>
 	    		<ul>
@@ -25,6 +25,7 @@
 	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
 				<li><a href="https://jeffrwarren.github.com/blog/atom.xml">rss</a></li>
 				</ul>
+
 __Jeff R Warren, PhD__    
 professor of music and humanities    
 quest university canada     
