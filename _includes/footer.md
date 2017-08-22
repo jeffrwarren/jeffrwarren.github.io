@@ -1,11 +1,14 @@
-__Jeff R Warren, PhD__    
-professor of music and humanities    
-quest university canada     
-squamish, bc
-
-[email](mailto:jeff.warren@questu.ca) | [twitter](http://www.twitter.com/drjeffrwarren)
-
-[![Book cover](http://ecx.images-amazon.com/images/I/614vCEgsbBL._SY344_BO1,204,203,200_.jpg)](http://jeffrwarren.sitebox.io/research/music-and-ethical-responsibility)
+<!-- Footer -->
+  <footer id="footer">
+    <ul class="icons">
+      <li><a href="http://www.twitter.com/drjeffrwarren" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+      <li><a href="mailto:jeff.warren@questu.ca" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+      <li><a href="http://www.cambridge.org/gb/academic/subjects/music/music-criticism/music-and-ethical-responsibility?format=HB#bY237iL1ixXfsPwS.97" class="icon fa-twitter"><span class="label">Music and Ethical Responsibility</span></a></li>
+    </ul>
+    <ul class="copyright">
+      <li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+    </ul>
+  </footer>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
