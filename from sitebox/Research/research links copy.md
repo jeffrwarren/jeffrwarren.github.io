@@ -1,0 +1,1617 @@
+title: Research sources
+subtitle: some links and some sources Jeff has read (or is planning to read) and likely has access to
+image: //upload.wikimedia.org/wikipedia/commons/0/09/Eroica_Beethoven_title.jpg
+
+# Jeff’s research bibliography
+- AAC&U. Liberal Education Outcomes: A Preliminary Report on Student Achievement in College. Washington, DC: Association of American Colleges and Universities, 2005. [Link](http://www.aacu.org/advocacy/pdfs/LEAP_Report_FINAL.pdf)
+- ———. Communicating Commitment to Liberal Education: A Self-Study Guide for Institutions. Washington, DC: Association of American Colleges and Universities, 2006. [Link](http://www.aacu.org/leap/documents/LEAPCommComm_Final.pdf)
+- ———. The Leap Vision for Learning: Outcomes, Practices, Impact, and Employers’ Views. Washington, DC: Association of American Colleges and Universities, 2011. [Link](http://www.aacu.org/leap/documents/leap_vision_summary.pdf)
+- Council, Ad Hoc Committee on Program Definition and General. Program Definition and General Education for Degree Programs At Mount Royal College. Calgary: Mount Royal College, 2006. 
+- Shatz, Adam. ““Adam Shatz Remembers Ornette Coleman”.” London Review of Books. [Link](http://www.lrb.co.uk/v37/n14/adam-shatz/diary)
+- Adams, Douglas. The Hitchhiker’s Guide to the Galaxy. 1st American ed. ed., New York: Harmony Books, 1980. 
+- Adams, Laurie. Art Across Time. Boston: McGraw Hill College, 1999. 
+- Ades, Hawley. Choral Arranging. [1st ed.] ed., Delaware Water Gap, Pa.: Shawnee Press, 1966. 
+- Adorno, Theodor, and Max Horkheimer. Towards a New Manifesto. 1 ed., Verso, 2011. [Link](http://www.amazon.com/Towards-New-Manifesto-Theodor-Adorno/dp/1844678199%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1844678199)
+- Adorno, Theodor W. “On Popular Music.” (1941) [Link](http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/On_popular_music_1.shtml)
+- ———. The Jargon of Authenticity. Evanston, Ill.: Northwestern University Press, 1973. [Link](http://www.loc.gov/catdir/enhancements/fy1310/72096701-b.html
+http://www.loc.gov/catdir/enhancements/fy1310/72096701-d.html
+http://www.loc.gov/catdir/enhancements/fy1412/72096701-t.html)
+- ———. Prisms. Cambridge, Mass.: MIT Press, 1981. [Link](http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Some_writings_of_Adorno.shtml)
+- ———. “Music, Language, and Composition.” The Musical Quarterly Vol. 77, No. 3 (1993): 401-14. [Link](http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Some_writings_of_Adorno.shtml)
+- ———. Aesthetic Theory. Minneapolis: University of Minnesota Press, 1997. [Link](http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Some_writings_of_Adorno.shtml)
+- ———. Problems of Moral Philosophy. 1st. ed., Stanford, CA: Stanford University Press, 2001. [Link](http://www.loc.gov/catdir/description/cam022/2001090736.html
+http://www.loc.gov/catdir/enhancements/fy0710/2001090736-b.html)
+- ———. Towards a Theory of Musical Reproduction: Notes, a Draft and Two Schemata. Cambridge: Polity Press, 2006. [Link](http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Some_writings_of_Adorno.shtml)
+- ———. History and Freedom: Lectures 1964-1965. 1 ed., Polity Press, 2006. [Link](https://fswg.files.wordpress.com/2013/08/adorno-history-freedom-lectures-1-4.pdf)
+- Adorno, Theodor W., Richard D. Leppert, and Susan H. Gillespie. Essays on Music / Theodor W. Adorno ; Selected, With Introduction, Commentary, and Notes By Richard Leppert ; New Translations By Susan H. Gillespie. Berkeley, Calif.: University of California Press, 2002. [Link](http://www.loc.gov/catdir/bios/ucal052/2001044601.html
+http://www.loc.gov/catdir/toc/ucal041/2001044601.html
+http://www.loc.gov/catdir/description/ucal042/2001044601.html)
+- Adorno, Theodor W., Anne G. Mitchell, and Wesley V. Blomster. Philosophy of Modern Music. Vol. Athlone contemporary European thinkers New York: Continuum, 2003. 
+- Adorno, Theodor W. & Eisler, Hanns. “The Politics of Hearing.” Audio Culture: Readings in Modern Music. Ed. Christoph & Warner Cox, Daniel. New York: Continuum, 2004. 73-75. [Link](http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Some_writings_of_Adorno.shtml)
+- Adorno, Theodor W. & Horkeimer, Max. Dialectic of Enlightenment. New York: Continuum, 1999. [Link](http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Some_writings_of_Adorno.shtml)
+- Adorno, Theodor W. & Rabinbach, Anson G. “Culture Industry Reconsidered.” New German Critique No. 6 (1975): pp. 12-19. [Link](http://www.icce.rug.nl/~soundscapes/DATABASES/SWA/Some_writings_of_Adorno.shtml)
+- Aeschylus. The Oresteia Trilogy: Agamemnon, the Libation-Bearers, and the Furies. New York: Dover Publications, 1996. 
+- Agawu, Kofi. “The Challenge of Semiotics.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 138-60. 
+- ———. “Contesting Difference: A Critique of Africanist Ethnomusicology.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Albersheim, Gerhard. “Overtones and Music Theory.” Bulletin of the American Musicological Society Sept.11/12/13 (1948): 69-71. [Link](http://www.jstor.org/stable/829299)
+- Aldwell, Edward., and Carl. Schachter. Harmony & Voice Leading. 3rd ed. ed., Australia ; United States: Thomson/Schirmer, 2003. [Link](http://www.loc.gov/catdir/enhancements/fy1102/2002537209-b.html
+http://www.loc.gov/catdir/enhancements/fy1102/2002537209-d.html
+http://www.loc.gov/catdir/enhancements/fy1102/2002537209-t.html)
+- Aldwell, Edward., Carl. Schachter, and Allen Clayton. Cadwallader. Harmony & Voice Leading. 4th ed. ed., Boston, MA: Schirmer/Cengage Learning, 2011. 
+- Alexander, Edward P. Museums in Motion : An Introduction to the History and Functions of Museums. Nashville: American Association for State and Local History, 1979. 
+- Alford, C. Fred. Levinas, the Frankfurt School and Psychoíanalysis. Middletown, Connecticut: Wesleyan University Press, 2002. 
+- Allen, et. al. “Ecomusicology Colloquy.” Journal of the American Musicological Society 64.2 (2011) [Link](http://www.jstor.org/stable/10.1525/jams.2011.64.2.toc)
+- Allen, Reginald E., ed. Greek Philosophy: Thales to Aristotle, 2nd Edition. New York: The Free Press, 1985. 
+- Allen, Sarah. The Philosophical Sense of Transcendence: Levinas and Plato on Loving Beyond Being. Duquesne UP, 2009. 
+- Allen, Woody. “God.” The Hbj Anthology of Literature. Ed. Jon C. Stott et al. Toronto: Harcourt Brace Jovanovich Canada Inc, 1993. 
+- Allt, W. Greenhouse. “‘A Twentieth Century Folk Mass’.” The Musical Times Vol. 99, No. 1379 (1958): 40. 
+- Sen, Amartya. “The Economic Consequences of Austerity.” New Statesman (2015) [Link](http://www.newstatesman.com/politics/2015/06/amartya-sen-economic-consequences-austerity)
+- American Psychiatric Association, eds. Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision. Arlington, Virginia: American Psychiatric Association, 2000. 
+- Amico, Stephen. “‘I Want Muscles’: House Music, Homosexuality and Masculine Signification.” Popular Music 20 (2001): 359-78. [Link](http://www.jstor.org/stable/853627)
+- Britton, Amy. louderthanwar.com (2012)
+- Goodburn, Amy. “Chapter 11 Peer Review of Teaching At the University of Nebraska-Lincoln.” 
+- Anderson, Jennifer L. “Japanese Tea Ritual: Religion in Practice.” Man 22 (1987): 475-98. 
+- Anderson, Julian. “A Provisional History of Spectal Music.” Contemporary Music Review Vol 19 (2000): 7-22. 
+- ———. “Timbre, Process and Accords Fixes: Dutilleux and His Younger French Contemporaries.” Contemporary Music Review Vol 29, No. 5 (2010): 447-61. 
+- Anderson, Richard L. American Muse: Anthropological Excursions Into Art and Aesthetics. New York: Prentice Hall, 1999. 
+- Andreatta, M, and C Agon. “Structure and Symmetry in Iannis Xenakis’Nomos Alpha for Cello Solo.” Colloque Form and Symmetry (2007) [Link](http://recherche.ircam.fr/equipes/repmus/moreno/SymmetryXenakis.pdf)
+- Feenberg, Andrew. “The May 1968 Archives: A Presentation of the Anti-Technocratic Struggle in May 1968 .” 
+- McClellan, Andrew L. “The Musée Du Louvre as Revolutionary Metaphor During the Terror.” The Art Bulletin Vol. 70, No. 2 (1988): 300-13. 
+- Andriessen, Louis. “Improvisation.” Contemporary Music Review Vol. 25, Nos. 5/6 (2006): 541-48. 
+- Herzog, Annabel. “Review of Claire Elise Katz, Levinas and the Crisis of Humanism.”  [Link](http://ndpr.nd.edu/news/41250-levinas-and-the-crisis-of-humanism/)
+- Goldgar, Anne. “The British Museum and the Virtual Representation of Culture in the Eighteenth Century.” Albion: A Quarterly Journal Concerned with British Studies Vol. 32, No. 2 (2000): 195-231. 
+- Vink, Annemiek. “Living Apart Together: A Relationship Between Music Psychology and Music Therapy.”  [Link](http://www.mir.uncc.edu/docs/papers/others/Vink_Annemiek_music_and_emotion.htm)
+- ———. “Music and Emotion Living Apart Together: A Relationship Between Music Psychology and Music Therapy.” Nordic Journal of Music Therapy Vol. 10, No. 2 : 144-58. 
+- Beavers, Anthony F. “Introducing Levinas to Undergraduate Philosophers.”  [Link](http://faculty.evansville.edu/tb2/PDFs/UndergradPhil.pdf)
+- Apel, Willi, and Ralph T. Daniel. The Harvard Brief Dictionary of Music. Cambridge: Harvard University Press, 1960. 
+- Appell, Glenn., David Hemphill, and Matt Vanderwoude. North American Popular Music. Nelson, 2006. [Link](http://www.loc.gov/catdir/enhancements/fy1102/2005927069-d.html
+http://www.loc.gov/catdir/enhancements/fy1102/2005927069-t.html)
+- Arendt, Hannah. “The Crisis in Education.”  [Link](http://la.utexas.edu/users/hcleaver/330T/350kPEEArendtCrisisInEdTable.pdf)
+- Aristotle. On Man in the Universe: Metaphysics, Parts of Animals, Ethics, Politics, Poetics. New York: Walter J. Black, Inc., 1943. 
+- ———. “Politics.” Source Readings in Music History. Ed. Oliver Strunk. New York: W.W. Norton & Co., 1950. 
+- ———. Poetics. New York: Dover Publications, 1997. 
+- Aristotle., and J. A. K. Thomson. The Ethics of Aristotle: The Nicomachean Ethics. Harmondsworth: Penguin, 1967. [Link](http://classics.mit.edu/Aristotle/nicomachaen.html)
+- Arnason, H. Harvard., and Marla. Prather. History of Modern Art : Painting, Sculpture, Architecture, Photography. 4th ed. ed., New York: Harry N. Abrams, Inc., 1998. 
+- Arthos, John. The Inner Word in Gadamer’s Hermeneutics. New York: U of Notre Dame Press, 2009. 
+- Arthur, John. Morality and Moral Controversies : Readings in Moral, Social, and Political Philosophy. 7th ed. ed., Upper Saddle River, N.J.: Pearson Prentice Hall, 2005. [Link](http://www.loc.gov/catdir/toc/ecip0416/2004006737.html)
+- Asmar, C., and T. Peseta. “Figuring Things Out From My Friends’: Encouraging Collaboration Among First Year Students At Undergraduate and Postgraduate Level.” Unpublished paper presented at the Australian Association for Research in Education Conference, Fremantle WA. 2001. [Link](http://www.aare.edu.au/01pap/asm01362.htm)
+- Atack, Margaret. May 68 in French Fiction and Film : Rethinking Society, Rethinking Representation. Vol. Oxford studies in modern European culture Oxford ; New York: Oxford University Press, 1999. [Link](http://www.loc.gov/catdir/enhancements/fy0611/00698470-d.html
+http://www.loc.gov/catdir/enhancements/fy0611/00698470-t.html)
+- Attali, Jacques. Noise : The Political Economy of Music. Minneapolis: University of Minnesota Press, 1985. [Link](http://monoskop.org/images/6/67/Attali_Jacques_Noise_The_Political_Economy_of_Music.pdf)
+- Atterton, Peter. “Levinas and Our Moral Responsibility Toward Other Animals.” Inquiry Vol. 54, No. 6 (2011): 633-49. 
+- Atterton, Peter, and Matthew Calarco, eds. Radicalizing Levinas. Albany: State University of New York Press, 2010. 
+- AUCC. Trends in Higher Education, Vol. 1 - Enrollment. Ottawa: The Association of Universities and Colleges of Canada, 2011. [Link](www.aucc.ca)
+- Augoyard, Jean François, Andra. McCartney et al. Sonic Experience : A Guide to Everyday Sounds. Montreal ; Ithaca: McGill-Queen’s University Press, 2006. 
+- Steinbeck, August Sheehy and Paul. “Introduction: Theorizing Improvisation (Musically).” Journal of Music Theory 
+- Augustine. “From the Confessions.” Source Readings in Music History. Ed. Oliver Strunk. New York: W.W. Norton and Co., 1950. 73-78. 
+- ———. Writings of St. Augustine, Volume 2. New York: The Catholic University of America Press, 1977. 
+- Augustine, St. The Confessions of St. Augustine. New York: Grosset and Dunlap, 1957. 
+- ———. The Confessions of St. Augustine. New York: Dover Publications, 2002. 
+- Aulich, John. “Power, Agency, Deference and Difference: Examining the Politics of Composer–Performer Relationships in the Wake of Recent Innovations.” Fields: journal of Huddersfield student research 2.1 (2016) [Link](http://dx.doi.org/10.5920/fields.2016.2116)
+- Auner, Joseph Henry, and Arnold Schoenberg. A Schoenberg Reader : Documents of a Life. New Haven: Yale University Press, 2003. 
+- Ayala, C., and A. Striplen. “A Career Introduction Model for First-Generation College Freshmen Students.” Thriving in Challenging and Uncertain Times, ed. Garry R. Walz, Counseling and Student Services (2002) [Link](http://eric.ed.gov/ERICWebPortal/recordDetail?accno=ED469996)
+- Aylesworth, Gary E. “Lyotard, Gadamer, and the Relation Between Ethics and Aesthetics.” Lyotard: Philosophy, Politics, and the Sublime. New York: Routledge, 2002. 
+- Babbitt, Milton. “Who Cares if You Listen.” High Fidelity February (1958): 38-40, 126. 
+- Bachelard, Gaston. The Poetics of Space. New York: Orion Press, 1964. 
+- Backman, Jussi. Complicated Presence : Heidegger and the Postmetaphysical Unity of Being., 2015. 
+- Backus, John. The Acoustical Foundations of Music. New York: W.W. Norton & Company, 1969. 
+- Backus, John. The Acoustical Foundations of Music. 2nd ed. ed., New York: Norton, 1977. 
+- Badiou, Alain. “Art & Philosophy.” lacanian ink Vol. 17 (2000) [Link](http://www.egs.edu/faculty/alain-badiou/articles/art-and-philosophy/)
+- ———. Ethics : An Essay on the Understanding of Evil. London: Verso, 2001. [Link](https://unmtheorygroup.files.wordpress.com/2010/08/badiou-ethics-an-essay-on-the-understanding-of-evil.pdf)
+- ———. “The Scene of Two.” Lacanian Ink Vol. 22 (2003) [Link](http://www.lacan.com/frameXXI3.htm)
+- ———. Handbook of Inaesthetics. Standford: Stanford University Press, 2005. 
+- Badiou, Alain, and Nicolas. Truong. In Praise of Love. New York: New Press, 2012. 
+- Badiou, Alain. Saint Paul : The Foundation of Universalism. Stanford, Calif.: Stanford University Press, 2003. 
+- ———. Being and Event. London ; New York: Continuum, 2005. 
+- ———. Conditions. London ; New York: Continuum, 2008. [Link](http://www.loc.gov/catdir/toc/fy0904/2008017483.html)
+- ———. Theory of the Subject. London ; New York: Continuum, 2009. [Link](http://www.loc.gov/catdir/enhancements/fy1116/2008046203-b.html
+http://www.loc.gov/catdir/enhancements/fy1116/2008046203-t.html
+http://www.loc.gov/catdir/enhancements/fy1213/2008046203-d.html)
+- ———. Five Lessons on Wagner. London ; New York: Verso, 2010. 
+- ———. The Communist Hypothesis. London ; New York: Verso, 2010. 
+- ———. The Rebirth of History. London ; New York: Verso, 2012. 
+- Badiou, Alain., and Bruno. Bosteels. Philosophy for Militants. English-language ed. ed., London ; New York: Verso, 2012. 
+- ———. The Adventure of French Philosophy. London ; Brooklyn, NY: Verso, 2012. 
+- Baily, John S. “Ethnomusicology, Intermusability, and Performance Practice.” The New (Ethno)musicologies. Ed. ed. Henry Stobart. Scarecrow Press, 2007. 121-38. 
+- Bain, Carl E., Jerome Beaty, and J. Paul Hunter. The Norton Introduction to Literature. 6th ed. ed., New York: Norton, 1995. 
+- Baird, Forrest E. & Walter Kaufmann, eds. Twentieth Century Philosophy 2nd Edition. New Jersey: Prentice Hall, 2000. 
+- Bakhtin, M. M. The Dialogic Imagination. Austin: University of Texas Press, 1981. 
+- ———. Rabelais and His World. Bloomington: Indiana University Press, 1984. 
+- ———. Problems of Dostoevsky’s Poetics. Minneapolis: University of Minnesota Press, 1984. 
+- ———. Speech Genres and Other Late Essays. Austin: University of Texas Press, 1986. 
+- ———. “Characteristics of Genre and Plot Composition in Dostoevsky’s Works.” Fantastic Literature : A Critical Reader. Ed. David Sandner. Oxford: Praeger; Harcourt Education, 2004. 116-32. 
+- Baldacchino, Lewis. A Study in Kant’s Metaphysics of Aesthetic Experience. New York: Edwin Mellen Press, 1991. 
+- Bannister, Peter. “The Necessity of Grace.” (2008)
+- Baraka, Amiri. Blues People; Negro Music in White America. New York: W. Morrow, 1963. 
+- ———. “Sounding.” Black American Literature Forum Vol. 16, Autumn.3 (1982): 103-5. [Link](http://www.jstor.org/stable/2904345)
+- ———. “The “blues Aesthetic” and the “black Aesthetic”: Aesthetics as the Continuing Political History of a Culture.” Black Music Research Journal 11 (1991): 101-9. [Link](http://www.jstor.org/stable/779261)
+- ———. “Jazz and the White Critic.” Riffs and Choruses : A New Jazz Anthology. Ed. Andrew Clark. London: Continuum, 2001. 91-95. 
+- Barasch, Moshe. Theories of Art From Plato to Winckelmann. New York: New York University Press, 1985. 
+- Winkler, Barbara Scott. “Review of Theory and Resistance in Education: A Pedagogy for the Opposition By Henry a. Giroux.” Phenomenology + Pedagogy Vol 2, No 2 (1984)
+- Barber, Michael. “Alfred Schutz.” The Stanford Encyclopedia of Philosophy. Eds. Edward N. Zalta, and % The Stanford Encyclopedia of Philosophy. Fall 2008 ed. C URL = http://plato.stanford.edu/archives/fall2008/entries/schutz/: Stanford University, 2008. [Link](http://plato.stanford.edu/archives/fall2008/entries/schutz/)
+- Barkley, Elizabeth F., K. Patricia Cross, and Claire Howell. Major. Collaborative Learning Techniques : A Handbook for College Faculty. 1st ed. ed., Vol. The Jossey-Bass higher and adult education series San Francisco: Jossey-Bass, 2005. [Link](http://www.loc.gov/catdir/description/wiley042/2004015337.html
+http://www.loc.gov/catdir/toc/wiley041/2004015337.html
+http://www.loc.gov/catdir/enhancements/fy0616/2004015337-b.html)
+- Barnard, Stephen. Rock : An Illustrated History. New York: Schirmer Books, 1986. 
+- Barthes, Roland. “The Grain of the Voice (1977).” On Record: Rock, Pop, and the Written Word. Ed. Simon & Good Frith, Andrew. New York: Pantheon Books, 1990. 293-300. 
+- Barz, Gregory F. “Meaning in Benga Music of Western Kenya.” British Journal of Ethnomusicology Vol. 10.1 (2001): 107-15. [Link](http://www.jstor.org/stable/3060774)
+- Basil, St. “Republic.” Source Readings in Music History. Ed. Oliver Strunk. New York: W.W. Norton & Co., 1950. 
+- Bass, Alice. The Creative Life. Illinois: Intervarsity Press, 2001. 
+- Basso, Keith H. “Wisdom Sits in Places.” Senses of Place. Eds. Steven. Feld, and Keith H. Basso. 1st ed. ed. Santa Fe, N.M. [Seattle]: School of American Research Press Distributed by the University of Washington Press, 1996. viii, 293. [Link](http://www.asu.edu/courses/aph294/total-readings/basso%20--%20sensesofplace.pdf)
+- Battcock, Gregory, ed. Breaking the Sound Barrier: A Critical Anthology of the New Music. New York: E.P. Dutton, 1981. 
+- Baudrillard, Jean. Simulacra and Simulation. Ann Arbor: University of Michigan Press, 1994. 
+- Bazeley, P., Kemp, L., Stevens, K., Asmar, C., Grbich, C., Marsh, H., Bhatal, R. “Waiting in the Wings: A Study of Early Career Academic Researchers in Australia.” NBEET commissioned report (1996)
+- BBC. “Vote for the World’s Saddest Music.” (2004) [Link](http://www.bbc.co.uk/radio4/today/reports/arts/saddestmusic_vote.shtml)
+- Beauvoir, Simone de, and Bernard Frechtman. The Ethics of Ambiguity. New York, Philosophical Library, 1949. 
+- Beckett, Samuel. Endgame, a Play in One Act, Followed By Act Without Words, a Mime for One Player. New York: Grove Press, 1958. 
+- Beckett, Samuel, and Dellas. Henke. Waiting for Godot. Iowa City: [D. Henke, 1979. 
+- Beckles Willson, Rachel. “Whose Utopia? Perspectives on the West-Eastern Divan Orchestra.” Music and Politics Vol. 3, No. 2 (2009): 1-21. [Link](https://quod.lib.umich.edu/m/mp/9460447.0003.201/--whose-utopia-perspectives-on-the-west-eastern-divan?rgn=main;view=fulltext)
+- Begbie, Jeremy. Theology, Music, and Time. Cambridge: Cambridge University Press, 2000. 
+- ———. “The Powers of Music in Worship.” Imagination and Interpretation: Christian Perspectives. Ed. Hans Boersma. Vancouver: Regent College Publishing, 2005. 109-27. 
+- ———. Resounding Truth : Christian Wisdom in the World of Music. Grand Rapids, MI: Baker Academic, 2007. 
+- Begbie, Jeremy S. Resonant Witness: Conversations Between Music and Theology. Wm. B. Eerdmans Publishing Company, 2011. [Link](http://www.amazon.com/Resonant-Witness-Conversations-Institute-Liturgical/dp/0802862772%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0802862772)
+- Begbie, Jeremy. Music, Modernity, and God : Essays in Listening. First edition. ed., 2013. 
+- Belasco, Warren. Food: The Key Concepts. Berg Publishers, 2008. [Link](http://www.amazon.com/Food-The-Concepts-Warren-Belasco/dp/1845206738%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1845206738)
+- Belcher. “Writing the Academic Book Review.” 
+- Bell, Carla Huston. Olivier Messiaen. Boston, Mass.: Twayne Publishers, 1984. 
+- Bendix, Reinhard. Max Weber: An Intellectual Portrait. New York: Doubleday, 1962. 
+- Benedict XVI, Pope. “Christmas Eve Midnight Mass At St. Peter’s Basilica in the Vatican.” (2009)
+- Benjamin, Walter. “Surrealism: The Last Snapshot of the European Intelligentsia.” (1929) [Link](http://www.generation-online.org/c/fcsurrealism.htm)
+- ———. “The Work of Art in the Age of Mechanical Reproduction.” The Nature of Art: An Anthology. Ed. Thomas Wartenberg. New York: Harcourt College Publishers, 2001. 172-81. 
+- Benso, Silvia. “The Breathing of the Air: Presocratic Echoes in Levinas.” Levinas and the Ancients. Ed. Brian Schroeder. Bloomington : Indiana University Press, 2008. 9-23. [Link](http://www.loc.gov/catdir/toc/ecip088/2008000606.html
+https://books.google.ca/books?id=VRMNE_1babgC&printsec=frontcover#v=onepage&q&f=false)
+- Benson, Bruce Ellis. Graven Ideologies: Nietzsche, Derrida & Marion on Modern Idolatry. IVP Academic, 2002. 
+- ———. The Improvisation of Musical Dialogue : A Phenomenology of Music Making. Cambridge: Cambridge University Press, 2003. 
+- ———. “In the Beginning, There Was Improvisation: Responding to the Call.” Verge: a journal of the arts and Christian faith Vol. 1, No. 1 (2011): 6-22. 
+- Evangelicals and Empire. ed. Bruce Ellis & Peter Goodwin Heltzel Benson, eds., Grand Rapids, MI: Brazos Press, 2008. 
+- Berg, Shelton. Jazz Improvisation: The Goal Note Method. New York: Lou Fischer Music, 1992. 
+- Berger, John. Ways of Seeing. [Link](http://waysofseeingwaysofseeing.com/ways-of-seeing-john-berger-5.7.pdf)
+- Berglund, Birgitta, Thomas Lindvall Dietrich H Schwela. Guidelines for Community Noise. Geneva: World Health Organization, 1999. [Link](http://www.who.int/docstore/peh/noise/guidelines2.html)
+- Bettina, Bergo. “The Trace in Derrida and Lévinas.” 
+- Bergo, Bettina. “Emmanuel Levinas.” The Stanford Encyclopedia of Philosophy. Eds. Edward N. Zalta, and % The Stanford Encyclopedia of Philosophy. Fall 2008 ed. C URL = http://plato.stanford.edu/archives/fall2008/entries/levinas/: Stanford University, 2008. [Link](http://plato.stanford.edu/archives/fall2008/entries/levinas/)
+- Bergo, Bettina. Levinas Between Ethics and Politics : For the Beauty That Adorns the Earth. Vol. Phaenomenologica ; 152 Dordrecht ; Boston: Kluwer Academic, 1999. 
+- Bergson, Henri. An Introduction to Metaphysics. London: Macmillan and Co., Limited, 1913. 
+- ———. The Two Sources of Morality and Religion. Notre Dame: University of Notre Dame Press, 1935. 
+- ———. Matter and Memory. New York: Dover Publications, 2004. 
+- Bergstein, Barry. “Miles Davis and Karlheinz Stockhausen: A Reciprocal Relationship.” The Musical Quarterly Vol. 76, Winter.4 (1992): 502-25. [Link](http://www.jstor.org/stable/742474)
+- Berkowitz, Aaron L. & Ansaric, Daniel. “Generation of Novel Motor Sequences: The Neural Correlates of Musical Improvisation.” NeuroImage Vol. 41 (2008): 535- 543. 
+- Berleant, Arnold. “Review of Thomas Clifton’s Music as Heard.” The Journal of Aesthetics and Art Criticism Vol. 42, Spring.3 (1984): 345-47. [Link](http://www.jstor.org/stable/429723)
+- Berliner, Paul F. Thinking in Jazz: The Infinite Art of Improvisation. Chicago: University of Chicago Press, 1994. 
+- Shaw, Bernard. “Shaw on Music.” 
+- Richardson, Berthold Rittberger & Jeremy. “What Happens When We Do Not Defend Academic Freedom.” Journal of European Public Policy (2017) [Link](10.1080/13501763.2017.1316946)
+- Besant, Walter. The History of London. London: Longmans, Green, and Co., 1894. 
+- Best, Harold M. Music Through the Eyes of Faith. San Francisco: HarperSanFrancisco, 1993. 
+- Biddle, Ian. “Of Mice and Dogs: Music, Gender, and Sexuality At the Long Fin De Siecle.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- ———. “Love Thy Neighbour? The Political Economy of Musical Neighbours.” Radical Musicology, Vol. 2 (2007): 49 pars. [Link](http://www.radical-musicology.org.uk)
+- ———. “Visitors, or the Political Ontology of Noise.” Radical Musicology Vol. 4 (2009) [Link](http://www.radical-musicology.org.uk/2009/Biddle.htm)
+- Bijsterveld, Karin. “The Diabolical Symphony of the Mechanical Age: Technology and the Symbolism of Sound in European and North American Noise Abatement Campaigns, 1900-40.” Social Studies of Science Vol. 31, No. 1 (2001): 37-70. [Link](http://www.jstor.org/stable/285817)
+- Bishop, Philip E. A Beginner’s Guide to the Humanities. 2nd ed. ed., Upper Saddle River, N.J.: Pearson/Prentice Hall, 2007. 
+- Blackburn, Simon. Oxford Dictionary of Philosophy. New York: Oxford University Press, 1994. 
+- ———. Ethics : A Very Short Introduction. Vol. Very short introductions ; 80 Oxford ; New York: Oxford University Press, 2003. 
+- Blanchot, Maurice., and P. Adams. Sitney. The Gaze of Orpheus, and Other Literary Essays. Barrytown, N.Y.: Station Hill Press, 1981. 
+- Blesser, Barry & Salter, Linda-Ruth. Spaces Speak, Are You Listening? Experiencing Aural Architecture. Cambridge, Massachusetts: The MIT Press, 2007. 
+- Block, Fred L., and Margaret R. Somers. The Power of Market Fundamentalism : Karl Polanyi’s Critique., 2014. 
+- Block, Steven. “Pitch-Class Transformation in Free Jazz.” Music Theory Spectrum Vol. 12.2 (1990): 181-202. 
+- Bloechl, Jeffrey. The Face of the Other and the Trace of God : Essays on the Philosophy of Emmanuel Levinas /. New York : Fordham University Press, 2000. [Link](http://www.loc.gov/catdir/enhancements/fy0833/99049540-b.html)
+- Bloom, Allan David. The Closing of the American Mind : How Higher Education Has Failed Democracy and Impoverished the Souls of Today’s Students. New York: Simon and Schuster, 1987. [Link](http://iwcenglish1.typepad.com/Documents/14434540-The-Closing-of-the-American-Mind.pdf)
+- Bloom, Harold. The Anxiety of Influence. New York: Oxford University Press, 1973. 
+- Blum, Peter C. “Overcoming Relativism: Levinas’s Return to Platonism.” Journal of Religious Ethics Vol. 28 Issue 1 (2000): 91-114. 
+- Larson, Bob. Rock and the Church. 
+- Boersma, Hans. Imagination and Interpretation: Christian Perspectives. Regent College Publishing, 2005. 
+- Boethius. “De Institutione Musica.” Source Readings in Music History. Ed. Oliver Strunk. W.W. Norton & Co.: New York, 1950. 
+- Bogost, Ian. Alien Phenomenology, or What it’s Like to be a Thing. Ann Arbor, MI: Open Humanities Press, 2012. 
+- ———. “Play Anything.” 2017. [Link](https://design.blog/2016/09/29/ian-bogost-play-anything/)
+- Bogue, Ronald. Deleuze’s Way: Essays in Transverse Ethics and Aesthetics. London: Ashgate, 2007. 
+- Bohlman, Philip V. “Musicology as a Political Act.” The Journal of Musicology Vol. 11.4 (1993): 411-36. [Link](http://links.jstor.org/sici?sici=0277-9269%28199323%2911%3A4%3C411%3AMAAPA%3E2.0.CO%3B2-%23)
+- ———. “Ontologies of Music.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 17-34. 
+- ———. World Music: A Very Short Introduction. Oxford University Press, 2002. 
+- ———. “Music and Culture: Historiographies of Disjuncture.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Bohlman, Philip V., Katherine Bergeron eds. Disciplining Music. Chicago: University of Chicago Press, 1992. 
+- Bohman, James. “Critical Theory.” The Stanford Encyclopedia of Philosophy. Eds. Edward N. Zalta, and % The Stanford Encyclopedia of Philosophy. Fall 2008 ed. C http://plato.stanford.edu/archives/fall2009/entries/critical-theory/: Stanford University, 2009. [Link](http://plato.stanford.edu/archives/fall2009/entries/critical-theory/)
+- Bonhoeffer, Dietrich. Letters and Papers From Prison. New York: Simon and Shuster, 1971. 
+- Boorman, Stanley. “The Musical Text.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- Borgo, David. Sync or Swarm: Musical Improvisation in a Complex Age. New York: Continuum, 2006. [Link](http://books.google.ca/books?id=1fR7R2d23l8C)
+- Born, Georgina. Rationalizing Culture: Ircam, Boulez, and the Institutionalization of the Musical Avant-Garde. University of California Press, 1995. 
+- ———. “For a Relational Musicology: Music and Interdisciplinarity, Beyond the Practice Turn.” Royal Musicological Association Vol. 135, No. 2 (2010): 205-44. 
+- Boschman, LaMar. The Rebirth of Music: A Unique View of the Real Meaning and Purpose of Music. Bedford, Texas: Revival Press, 1980. 
+- Boulez, Pierre & Deliege, Celestin. Pierre Boulez: Conversations With Celestin Deliege. New York: Eulenburg Books, 1976. 
+- Bourg, Julian. From Revolution to Ethics : May 1968 and Contemporary French Thought. Montreal: McGill-Queen’s University Press, 2007. 
+- Bourriaud, Nicolas. Relational Aesthetics. Les presses du reel, 1998. 
+- Bowe, Geoff. “Clitophon.” 
+- Bowen, Jose A. “Finding the Music in Musicology: Performance History and Musical Works.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 424-51. 
+- Bowie, Andrew. “Adorno, Heidegger, and the Meaning of Music.” The Cambridge Companion to Adorno. Ed. Tom Huhn. Cambridge: Cambridge University Press, 2004. 248-78. 
+- ———. “Gadamer and Romanticism.” Gadamer’s Repercussions. Ed. Bruce Krajewski. Los Angeles: University of California Press, 2004. 
+- ———. Music, Philosophy, and Modernity. Cambridge: Cambridge University Press, 2007. 
+- ———. “Jazz.” Understanding Music. Ed. Jim Samson. Cambridge: Cambridge UP, 2008. 
+- ———. “Musical Aesthetics and Critical Theory.” An Introduction to Music Studies. Ed. Jim & Harper-Scott Samson, J.P.E. Cambridge: Cambridge UP, 2009. 
+- ———. German Philosophy: A Very Short Introduction. Oxford University Press, 2010. 
+- ———. “The Philosophical Significance of Schelling’s Conception of the Unconscious.” Thinking the Unconscious: Ninteenth Century German Thought. Ed. Angus & Liebscher Nicholls, Martin. Cambridge: Cambridge UP, 2010. 57-86. 
+- ———. Adorno and the Ends of Philosophy. 1 ed., Polity Press, 2013. [Link](http://www.amazon.co.uk/Adorno-Ends-Philosophy-Andrew-Bowie/dp/0745671594%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0745671594)
+- ———. “Why Germany Won the Philosophy World Cup.” thecritique.com (2015) [Link](http:/ /www.thecritique.com/ articles/why-germany-won-the-philosophy-world-cup/)
+- ———. Aesthetics and Subjectivity : From Kant to Nietzche. Manchester: Manchester University Press, 2003. 
+- Boyden, David D., et. al. The Violin Family. New York: W.W. Norton and Co., 1989. 
+- Boyer, Ernest L. Scholarship Reconsidered: Priorities of the Professoriate. The Carnegie Foundation for the Advancement of Teaching. 
+- Boynton, Holmes, ed. The Beginnings of Modern Science: Scientific Writings of the 16th, 17th and 18th Centuries. New York: Walter J. Black, Inc., 1948. 
+- Brackett, David. “What a Difference a Name Makes: Two Instances of African-American Popular Music.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Brackett, David. The Pop, Rock, and Soul Reader : Histories and Debates. 2nd ed. ed., New York: Oxford University Press, 2009. [Link](http://www.loc.gov/catdir/toc/ecip0825/2008035590.html)
+- Bradby, Barbara. “Sampling Sexuality: Gender, Technology and the Body in Dance Music.” Popular Music 12 (1993): 155-76. [Link](http://www.jstor.org/stable/931296)
+- Bradby, Barbara, and Dave Laing. “Introduction to ‘Gender and Sexuality’ Special Issue.” Popular Music 20 (2001): 295-300. [Link](http://www.jstor.org/stable/853622)
+- Bradley, J.S. “Optimising Sound Quality for Classrooms.”  [Link](https://arauacustica.com/files/publicaciones_relacionados/pdf_esp_64.pdf)
+- Bradshaw, Susan. “A Performer’s Responsibility.” Composition - Performance - Reception: Studies in the Creative Process of Music. Ed. Wyndham Thomas. Aldershot: Ashgate, 1998. 53-65. 
+- Bramdom, Robert. “How Analytic Philosophy Has Failed Cognitive Science  
+.” (2008) [Link](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCQQFjAB&url=http%3A%2F%2Fwww.pitt.edu%2F~brandom%2Fdownloads%2FHAPFCS%252008-4-13%2520double%2520spaced%2520h.doc&ei=A5iQVa2mLIbToATzv7_4Ag&usg=AFQjCNF1km3YAdVf_HUJevW4ChjN8U-UBg&sig2=geC2PKeQmqd2zGjvSUQIJQ&bvm=bv.96783405,d.cGU)
+- Brand, Hillary & Chaplin, Adrienne. Art and Soul: Signposts for Christians in the Arts. London: Piquant Press, 2001. 
+- Braund, Michael James. “The Structures of Perception: An Ecological Perspective.” KRITIKE Vol 2, No 1 (2008): 123-44. [Link](http://www.kritike.org/journal/issue_3/braund_june2008.pdf)
+- Bromberg, Minna, and Gary Alan Fine. “Resurrecting the Red: Pete Seeger and the Purification of Difficult Reputations.” Social Forces 80 (2002): 1135-55. [Link](http://www.jstor.org/stable/3086503)
+- Brown, Nicholas. “The Flux Between Sounding and Sound: Towards a Relational Understanding of Music as Embodied Action.” Contemporary Music Review Vol. 25, No 1/2 (2006): 37-46. 
+- Brown, Stephen R. Moral Virtue and Nature: A Defense of Ethical Naturalism. New York: Continuum, 2008. 
+- Quaglia, Bruce W. “Planning for Student Variability: Universal Design for Learning in the Music Theory Classroom and Curriculum.” 
+- Bruhn, Siglind. Messiaen’s Language of Mystical Love. New York : Garland, 1998. [Link](http://www.loc.gov/catdir/enhancements/fy0652/98012602-d.html)
+- ———. Voicing the Ineffable: Musical Representations of Religious Experience. Hillsdale, New York: Pendragon Press, 2002. [Link](http://hdl.handle.net/2027/heb.07751.0001.001)
+- ———. Messiaen’s Contemplations of Covenant and Incarnation: Musical Symbols of Faith in the Two Great Piano Cycles of the 1940s. Pendragon Press, 2007. 
+- ———. Messiaen’s Interpretations of Holiness and Trinity: Echoes of Medieval Theology in the Oratorio, Organ Meditations, and Opera. Pendragon Press, 2008. 
+- ———. Arnold Schoenberg’s Journey From Tone Poems to Kaleidoscopic Sound Colors., 2015. 
+- Bruin, Boudewijn de. Ethics and the Global Financial Crisis : Why Incompetence is Worse Than Greed., 2015. [Link](http://assets.cambridge.org/97811070/28913/cover/9781107028913.jpg)
+- Bruns, Gerald L. “On the Coherence of Hermeneutics and Ethics: An Essay on Gadamer and Levinas.” Gadamer’s Repercussions. Ed. Bruce Krajewski. Los Angeles: University of California Press, 2004. 30-54. 
+- Bruscia, Kenneth E. Improvisational Models of Music Therapy. Springfield, Ill.: Charles C. Thomas, 1987. 
+- ———. Case Studies in Music Therapy. Phoenixville, PA: Barcelona Publishers, 1991. 
+- Bryant, Levi, Nick Srnicek and Graham Harman, eds. The Speculative Turn: Continental Materialism and Realism. Melbourne: re.press, 2011. 
+- Buber, Martin. I and Thou. New York: Simon and Shuster, 1970. [Link](https://archive.org/stream/IAndThou_572/BuberMartin-i-and-thou_djvu.txt)
+- Burnham, Scott. “How Music Matters: Poetic Content Revisited.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 193-216. 
+- ———. “Landscape as Music, Landscape as Truth: Schubert and the Burden of Repetition.” 19th-Century Music 29 (2005): 31-41. 
+- Nilsson, C. Svensson and E. “Optimum Room Acoustic Comforttm (Ractm) Can be Achieved By Using a Selection of Appropriate Acoustic Descriptors.”  [Link](http://www.ecophon.com/globalassets/old-structure/14.concept-development/01.office/downloads/final-paper-carsten-svensson_erling-nilsson.pdf)
+- Cage, John. Silence. Middletown, Conn.: Wesleyan University Press, 1961. [Link](http://monoskop.org/images/b/b5/Cage_John_Silence_Lectures_and_Writings.pdf)
+- Cahoone, Lawrence, ed. From Modernism to Postmodernism. Cambridge, Massachusetts: Blackwell Publishers Inc., 1996. 
+- Cairns, Earle Edwin. Christianity Through the Centuries : A History of the Christian Church. Rev. and enl. ed., 2d ed. ed., Grand Rapids, MI: Zondervan Pub. House, 1981. 
+- Calvin, Jean. “Geneva Psalter.” Source Readings in Music History. Ed. Oliver Strunk. New York: W.W. Norton and Co., 1950. 345-48. 
+- Calvino, Italo. Under the Jaguar Sun. San Diego: Harcourt Brace Jovanovich, 1988. 
+- Campbell, Don. The Mozart Effect: Tapping the Power of Music to Heal the Body, Strengthen the Mind, and Unlock the Creative Spirit. New York: HarperCollins, 1997. 
+- Campbell, Don G. The Roar of Silence : Healing Powers of Breath, Tone & Music. 1st ed. ed., Wheaton, Ill., U.S.A.: Theosophical Pub. House, 1989. [Link](https://books.google.ca/books?hl=en&lr=&id=uwRKAcws-l0C&oi=fnd&pg=PR9&dq=music+breath&ots=TFTQvXhrnd&sig=Znz41pc3WwyFpt0UPRXPYDStkCc#v=onepage&q=music%20breath&f=false)
+- Campbell, Jospeh, ed. The Portable Jung. New York: Penguin, 1971. 
+- Campbell, Michael. And the Beat Goes on : An Introduction to Popular Music in America 1840 to Today. New York London: Schirmer Books Prentice Hall International, 1996. 
+- Campbell, Michael, and Michael Campbell. Popular Music in America : The Beat Goes on. 2nd ed. ed., Belmont, CA: Wadsworth/Thomson Learning, 2005. 
+- Camus, Albert. The Plague. New York: Modern Library, 1948. 
+- ———. “The Myth of Sisyphus.” Existentialism From Dostoevsky to Sartre. Ed. Walter Kaufmann. New York: Meridian, 1975. 
+- Camus, Albert, and Sandra Smith. The Outsider., 2012. 
+- Capps, Michael. “Warld in a Roar: The Music of James Macmillan.” Image No. 54 (2007)
+- Caputo, John D. “Gadamer’s Closet Essentialism: A Derridian Critique.” Dialogue and Deconstruction : The Gadamer-Derrida Encounter. Ed. Diane P. & Palmer Michelfelder, Richard E. Albany: State University of New York Press, 1989. 258-64. 
+- ———. Against Ethics. Indianapolis: Indiana University Press, 1993. 
+- ———. More Radical Hermeneutics. Bloomington: Indiana University Press, 2000. 
+- Cardus. Measuring Non-Government School Effects in Service of the Canadian Public Good. Cardus Education Survey, 2012. 
+- Carr, Jonathan. Mahler : A Biography. 1st ed. ed., Woodstock, N.Y.: Overlook Press, 1998. 
+- Carrier, David. “Art Museums, Old Paintings, and Our Knowledge of the Past.” History and Theory Vol. 40.2 (2001) [Link](http://www.jstor.org/stable/2678030)
+- Castell, Alburey. An Introduction to Modern Philosophy in Six Philosophical Problems. New York: Macmillan, 1947. 
+- Catalano, Joseph S. Reading Sartre. Cambridge University Press, 2010. 
+- Cavanaugh, William J., and Joseph A. Wilkes. Architectural Acoustics : Principles and Practice. New York: Wiley, 1999. [Link](http://books.google.ca/books/about/Architectural_Acoustics.html?id=365ITBehrZAC&redir_esc=y)
+- Caygill, Howard. Levinas and the Political. Vol. Thinking the political London ; New York: Routledge, 2002. [Link](http://www.loc.gov/catdir/enhancements/fy0648/2002021344-d.html
+http://www.loc.gov/catdir/enhancements/fy1108/2002021344-b.html)
+- Chambers, Leland H. “Improvisation and Mythmaking in Eudora Welty’s ‘Powerhouse’.” Riffs and Choruses : A New Jazz Anthology. Ed. Andrew Clark. London: Continuum, 2001. 486. 
+- Chang, Jeff. Can’t Stop, Won’t Stop : A History of the Hip-Hop Generation. 1st ed. ed., New York: St. Martin’s Press, 2005. [Link](http://www.loc.gov/catdir/enhancements/fy0618/2004056656-b.html
+http://www.loc.gov/catdir/enhancements/fy0618/2004056656-d.html
+http://www.loc.gov/catdir/enhancements/fy0618/2004056656-s.html)
+- Changeux, Jean-Pierre & Ricoeur, Paul. What Makes Us Think? Princeton University Press, 2000. 
+- Cheng, William. Just Vibrations: The Purpose of Sounding Good. University of Michigan Press, 2016. [Link](http://quod.lib.umich.edu/u/ump/14078046.0001.001)
+- Chipp, Herschel B. Theories of Modern Art: A Source Book By Artists and Critics. Berkeley: University of California Press, 1968. 
+- Cutrone, Chris. “Adorno’s Marxism and the Problem and Legacy of the 1960s Left in Theory and Practice.” (2009) [Link](http:/ / chriscutrone.platypus1917.org/?p=230)
+- Reynolds, Chris. “May 68 : A Contested History.” Sens Public (2007) [Link](http://www.sens-public.org/article.php3?id_article=472)
+- Chrysostom, St. John. “Saint Chrysostom’s Homilies on Galatians, Ephesians, Philippians, Colossians, Thessalonians, Timothy, Titus and Philemon.” Nicene and Post-Nicene Fathers of the Christian Church 1889. Ed. Philip Schaff. New York: Kessinger Publishing, 2004. [Link](http://books.google.com/books?id=25Tjb3rtGf4C&pg=PA233&dq=chrystostom+%22held+together%22+separate+ourselves+spiritual&lr=&hl=en)
+- Chua, Daniel. “Beethoven’s Other Humanism.” Journal of the American Musicological Society Vol. 62, No. 3 (2009): 571-645. 
+- Clapton, Eric. Clapton : The Autobiography. 1st paperback ed. ed., New York: Broadway Books, 2007. [Link](http://www.loc.gov/catdir/enhancements/fy0905/2008563195-b.html
+http://www.loc.gov/catdir/enhancements/fy0905/2008563195-d.html
+http://www.loc.gov/catdir/enhancements/fy0905/2008563195-s.html)
+- Clark, Andrew. Riffs & Choruses : A New Jazz Anthology. London ; New York: Continuum by arrangement with Bayou Press, 2001. [Link](http://www.loc.gov/catdir/enhancements/fy1115/00043025-b.html
+http://www.loc.gov/catdir/enhancements/fy1115/00043025-t.html)
+- Clark, Lynn Schofield. “Introduction to a Forum on Religion, Popular Music, and Globalization.” Journal for the Scientific Study of Religion Vol.45, No.4 (2006)
+- Clarke, David. “Musical Autonomy Revisited.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. London: Routledge, 2003. 159-70. 
+- Clarke, Eric F. “Improvisation, Cognition and Education.” Companion to Contemporary Musical Thought. Ed. Tim Howell John Paynter, Richard Orton & Seymour, Peter. London: Routledge, 1992. 787-802. 
+- ———. “Listening to Performance.” Musical Performance : A Guide to Understanding. Ed. John Rink. Cambridge: Cambridge University Press, 2002. 245. 
+- ———. “Music and Psychology.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- ———. Ways of Listening : An Ecological Approach to the Perception of Musical Meaning. Oxford: Oxford University Press, 2005. [Link](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=https%3A%2F%2Fwww.jiscmail.ac.uk%2Fcgi-bin%2Fwebadmin%3FA3%3Dind1102%26L%3DLONDONSOUNDSEMINAR%26E%3Dbase64%26P%3D190449%26B%3D--0-1491114976-1297179539%253D%253A4299%26T%3Dapplication%252Fpdf%3B%2520name%3D%2522Eric%2520Clarke%2520-%2520Ways%2520of%2520Listening_ch1.pdf%2522%26N%3DEric%2520Clarke%2520-%2520Ways%2520of%2520Listening_ch1.pdf%26attachment%3Dq%26XSS%3D3&ei=fhTEVIC6DpLmoATy-YGACQ&usg=AFQjCNFnsU2ELbozmDrc_Wv1gwvdUDs2xQ&sig2=hjcoNF8rY_aWCnoGYxxxIw&bvm=bv.84349003,d.cGU)
+- ———. “Empical Methods in the Study of Performance.” Empirical Musicology : Aims, Methods, Prospects. Eds. Eric F. Clarke, and Nicholas Cook. Oxford: Oxford University Press, 2004. 
+- Clarke, Eric F., and Nicholas Cook. Empirical Musicology : Aims, Methods, Prospects. Oxford: Oxford University Press, 2004. 
+- Clarke, Eric F., and Jane Davidson. “The Body in Performance.” Composition - Performance - Reception: Studies in the Creative Process of Music. Ed. Wyndham Thomas. Aldershot: Ashgate, 1998. 
+- Clayton, Martin. “Introduction: Towards a Theory of Musical Meaning (in India and Elsewhere).” British Journal of Ethnomusicology Vol. 10.1 (2001): 1-17. [Link](http://www.jstor.org/stable/3060769)
+- ———. “Comparing Music, Comparing Musicology.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Clayton, Martin, Byron Dueck, and Laura Leante. Experience and Meaning in Music Performance., 2013. 
+- Clayton, Martin., Trevor. Herbert, and Richard. Middleton. The Cultural Study of Music : A Critical Introduction. New York: Routledge, 2003. [Link](http://www.loc.gov/catdir/enhancements/fy0647/2002152031-d.html)
+- Clegg, Joshua W. “In a Rationality of Peace the Rupture of the Other is Inscribed in the Acts of Reason, Presented At ‘Psychology for the Other’, Seattle, Wa.” (2009)
+- Clifton, Thomas. “Music as a Constituted Object.” In Search of Musical Method. Ed. F.J. Smith. London: Gordon and Breach, 1976. 73-98. 
+- ———. Music as Heard : A Study in Applied Phenomenology. New Haven: Yale University Press, 1983. 
+- Clinton, George. “Funkcyclopedia.” (2007) [Link](www.georgeclinton.com/htmlversion/gc/funkateer_funkencyclopedia.html)
+- Dilnot, Clive. “The Decisive Text: On Begining to Read Heidegger’s “Building, Dwelling and Thinking”.” revista de pesquisa em arquitetura e urbanismo Vol 9 no 1 (2009)
+- Cloonan, Martin & Johnson, Bruce. “Killing Me Softly With His Song: An Initial Investigation Into the Use of Popular Music as a Tool of Oppression.” Popular Music Vol. 21, No. 1 (2002): 27-39. 
+- “Cmpcp Cambridge July 2014.” 2014. [Link](http://www.cmpcp.ac.uk/conference3.html)
+- Cobussen, Marcel. “Noise and Ethics: On Evan Parker and Alain Badiou.” Culture, Theory & Critique Vol. 46, No. 1 (2005): 29-42. 
+- ———. “Introduction.” New Sound 32 (2008)
+- ———. Thresholds: Rethinking Spirituality Through Music. Bodmin, Cornwall: Ashgate, 2008. 
+- Cobussen, Marcel, and Nanette Nielsen. Music and Ethics. Farnham: Ashgate, 2012. 
+- Le Temps De L’Ècoute: Gerard Grisey, Ou La Beaute Des Ombres Sonores. ed. Danielle Cohen-Levinas, Harmattan, 2004. 
+- Cohen-Levinas, Danielle. Musique Et Philosophie. Harmattan, 2005. 
+- Emmanuel Levinas Et Les Territoires De La Pensèe. ed. Danielle Cohen-Levinas, Presses Universitaires France, 2008. 
+- Le Souci De L’Art Chez Emmanuel Levinas. ed. Danielle Cohen-Levinas, Manucius, 2010. 
+- Cohen, Richard A. “Levinas: Just War or Just War: Preface to Totality and Infinity.” 
+- ———. Levinasian Meditations: Ethics, Philosophy, and Religion. Duquesne University Press, 2010. 
+- Colclasure, David L. Habermas and Literary Rationality. Routledge, 2010. 
+- Coles, Romand. “Identity and Difference in the Ethical Positions of Adorno and Habermas.” The Cambridge Companion to Habermas. Ed. Stephen K. White. Cambridge: Cambridge UP, 1995. 
+- Collini, Stefan. “Blahspeak.” London Review of Books Vol. 32 No. 7 ∑ 8 (2010) [Link](http://www.lrb.co.uk/v32/n07/stefan-collini/blahspeak)
+- Commins, Saxe & Robert N. Linscott, eds. Man and the Universe: The Philosophers of Science. New York: Random House, 1947. 
+- Company, Hope Publishing. The Singing Church. Carol Stream, Ill.: Hope Publishing Company, 1985. 
+- Cone, Edward T. Musical Form and Musical Performance. New York: W.W. Norton and Co., 1968. 
+- Connor, Steven. Postmodernist Culture. Massachusetts: Blackwell, 1997. 
+- Cook, N, and D Leech-Wilkinson. “A Musicologist’s Guide to Sonic Visualiser.” London: Centre for the History and Analysis of Recorded Music. URL (retrieved March 2010): http://www. charm. rhul. ac. uk/analysing/p9_1. html (2009) [Link](http://charm.cchcdn.net/redist/pdf/analysing_recordings.pdf)
+- Cook, Nicholas. “Review of Thomas Clifton’s Music as Heard.” Music Analysis 2.3 (1983): 291-94. [Link](http://www.jstor.org/stable/854160)
+- ———. “Musical Form and the Listener.” The Journal of Aesthetics and Art Criticism 46.1 (1987): 23-29. [Link](http://www.jstor.org/stable/431305)
+- ———. “Schenker’s Theory of Music as Ethics.” The Journal of Musicology Vol. 7, No. 4.4 (1989): 415-39. [Link](http://www.jstor.org/stable/763775)
+- ———. Music, Imagination, and Culture. Oxford: Clarendon, 1990. 
+- ———. Beethoven: Symphony No. 9. Cambridge: Cambridge University Press, 1993. 
+- ———. “Review: The Fine Art of Repetition: Essays on the Philosophy of Music By Peter Kivy.” Music & Letters Vol. 75, No. 3, August (1994)
+- ———. Music : A Very Short Introduction. Oxford: Oxford University Press, 1998. 
+- ———. “The Domestic Gesamtkunstwerk, or Record Sleeves and Reception.” Composition - Performance - Reception: Studies in the Creative Process of Music. Ed. Wyndham Thomas. Aldershot: Ashgate, 1998. 
+- ———. “Analysing Performance and Performing Analysis.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- ———. “Review: Meter as Rhythm By Christopher Hasty.” Music & Letters 80.4 (1999): 606-8. [Link](http://www.jstor.org/stable/854992)
+- ———. “What is Musicology?” BBC Music Maganize 7/9 (1999) [Link](http://www.rma.ac.uk/articles/what-is-musicology.htm)
+- ———. “Between Process and Product: Music and/as Performance.” Music Theory Online Volume 7, Number 2 (2001) [Link](http://mto.societymusictheory.org/issues/mto.01.7.2/mto.01.7.2.cook_frames.html)
+- ———. “Theorizing Musical Meaning.” Music Theory Spectrum Vol. 23.2 (2001): 170-95. [Link](http://www.jstor.org/stable/745985)
+- ———. “Music as Performance.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- ———. “Writing on Music or Axes to Grind: Road Rage and Musical Community.” Music Education Research Vol. 5, No. 3 (2003): 249-61. 
+- ———. “Making Music Together, or Improvisation and Its Others.” The Source: Challenging Jazz Criticism Vol. 1 (2004): 5-25. 
+- ———. The Schenker Project: Culture, Race, and Music Theory in Fin-De-siecle Vienna. Oxford: Oxford University Press, 2007. 
+- ———. “Understanding the Other, Redefining the Self.” Music and Orientalism in the British Empire, 1780-1940s : Portrayal of the East. Ed. Martin Clayton. Aldershot: Ashgate, 2007. 347. [Link](http://cf.hum.uva.nl/mmm/new-directions/Cook-Encountering.pdf)
+- ———. “Classical Music and the Politics of Space.” (2008)
+- ———. “The Economics and Business of Music.” An Introduction to Music Studies. Ed. Jim & Harper-Scott Samson, J.P.E. Cambridge: Cambridge UP, 2009. 
+- ———. “While the Music Lasts: Music and Social Interaction.” Cultural Policy, Criticism and Management Research Vol. 4 (2009): 1-9. [Link](http://www.city.ac.uk/cpm/ejournal/issue4/index.html)
+- ———. “Performance, Recording, Signification.” Ed. %. 2010. 
+- ———. “Anatomy of the Encounter: Intercultural Analysis as Relational Musicology.” Critical Musicological Reflections: Essays in Honour of Derek B. Scott. Ed. Stan Hawkins. Farnham: Ashgate, 2012. 
+- ———. Beyond the Score : Music as Performance. Oxford University Press, 2013. 
+- Cook, Nicholas & Clarke, Eric. “Introduction: What is Empirical Musicology?” Empirical Musicology: Aims, Methods, Prospects. Ed. %. Oxford UP, 2004. 
+- Cook, Nicholas & Everist, Mark. “Preface.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- ———. Rethinking Music. Oxford: Oxford University Press, 1999. 
+- Cook, Nicholas, Daniel Leech-Wilkinson, Eric F. Clarke, John Rink, eds. The Cambridge Companion to Recorded Music. Cambridge: Cambridge University Press, 2009. 
+- Cooke, Deryck. The Language of Music. Oxford: Oxford UP, 1959. 
+- Cooke, Mervyn. “After Swing: Modern Jazz and Its Impact.” The Cambridge History of Twentieth Century Music. Ed. Nicholas & Pople Cook, Anthony. Cambridge: Cambridge University Press, 2004. 
+- Cooke, Mervyn., and David Horn. The Cambridge Companion to Jazz. Vol. Cambridge companions to music Cambridge ; New York: Cambridge University Press, 2002. [Link](http://www.loc.gov/catdir/description/cam022/2001052671.html
+http://www.loc.gov/catdir/toc/cam024/2001052671.html
+http://www.loc.gov/catdir/enhancements/fy0731/2001052671-b.html)
+- Cooper, David E. Meaning. Chesham: Acumen, 2003. 
+- Cooper, David E., ed. A Companion to Aesthetics: The Blackwell Companion to Philosophy. New York: Wiley-Blackwell, 1995. 
+- Copland, Aaron. “How We Listen.” Perspectives on Music. Ed. Leroy Ostransky. Englewood Cliffs, N.J.: Prentice Hall, 1963. 1-7. 
+- Cornicello. “Spectralism Dissertation.” 
+- Coryat, Karl. Guerrilla Home Recording : How to Get Great Sound From Any Studio (No Matter How Weird or Cheap Your Gear is). San Francisco: Backbeat Books, 2005. [Link](http://www.loc.gov/catdir/toc/ecip053/2004025016.html)
+- Covach, John. “Popular Music, Unpopular Musicology.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- ———. “Rock Me, Maestro.” The Chronicle of Higher Education (2015) [Link](http://www.chronicle.com/article/Rock-Me-Maestro/151423/)
+- ———. ““Positional Listening/positional Analysis” Special Session, Organized By John Covach; Mark Spicer, Chair Annual Conference of the Society for Music Theory Vancouver, Bc, November 2016.” (2016)
+- Cowdery, James R. “Kategorie or Wertidee? The Early Years of the International Folk Music Council.” Music’s Intellectual History. Ed. Zdravko Blazekovic. New York: RILM, 2009. 
+- Cox, Christoph, Daniel Warner eds. Audio Culture: Readings in Modern Music. New York: Continuum, 2004. 
+- Cox, Harvey. Fire From Heaven : The Rise of Pentecostal Spirituality and the Reshaping of Religion in the Twenty-First Century. Reading, Mass.; Wokingham: Addison-Wesley Pub, 1995. 
+- Cranston, Maurice. The Quintessence of Sartrism. Montreal: Harvest House, 1969. 
+- Critchley, Simon. The Ethics of Deconstruction : Derrida and Levinas. Oxford: Blackwell, 1992. 
+- ———. Continental Philosophy : A Very Short Introduction. Oxford: Oxford University Press, 2001. 
+- ———. “Introduction.” The Cambridge Companion to Levinas. Ed. R Bernasconi S Critchley. Cambridge: Cambridge University Press, 2002. 1-32. 
+- ———. Infinitely Demanding : Ethics of Commitment, Politics of Resistance. London: Verso, 2007. 
+- ———. On Bowie., 2016. 
+- Critchley, Simon & Kearney, Richard. “Politics and the Religious Imagination Symposium.” (2008)
+- Critchley, Simon & Robert Bernasconi, eds. The Cambridge Companion to Levinas. Cambridge: Cambridge UP, 2002. 
+- education, Critical Pedagogy and its application to contemporary. [Link](http://halifax.mediacoop.ca/blog/sejengojona/10472)
+- “Critical Pedagogy and Its Application to Contemporary Education.” 2012. [Link](http://halifax.mediacoop.ca/blog/sejengojona/10472)
+- Crockett, Clayton. The Future of Continental Philosophy of Religion., 2014. 
+- Cross, I & Watson, A. “Acoustics and the Human Experience of Socially Organised Sound.” Acoustics, Space and Intentionality: Identifying Intentionality in the Ancient Use of Acoustic Spaces and Structures. Ed. C. & Lawson Scarre, G. Cambridge: McDonald Institute for Archaeological Research, 2006. 107-16. 
+- Cross, Ian. “Is Music the Most Important Thing We Ever Did ? Music, Development and Evolution.” Music, Mind, and Science ? Ed. Suk Won Yi. Seoul: Seoul National University Press, 1999. 10-39. [Link](http://www-personal.mus.cam.ac.uk/~ic108/crosspubs96.html)
+- ———. “Music and Biocultural Evolution.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. London: Routledge, 2003. 19-30. [Link](http://www-personal.mus.cam.ac.uk/~ic108/crosspubs96.html)
+- ———. “Musicality and the Human Capacity for Culture.” Musicae Scientiae Special Issue: Narrative in music and interaction (2008): 147-67. [Link](http://www-personal.mus.cam.ac.uk/~ic108/crosspubs96.html)
+- ———. “The Evolutionary Nature of Musical Meaning.” Musicae Scientiae Special Issue: Music and evolution (2009): 179-200. [Link](http://www-personal.mus.cam.ac.uk/~ic108/crosspubs96.html)
+- ———. “The Evolutionary Basis of Meaning in Music: Some Neurological and Neuroscientific Implications.” The Neurology of Music. Ed. Frank Clifford Rose. London, Imperial College Press, 2010. [Link](http://www-personal.mus.cam.ac.uk/~ic108/crosspubs96.html)
+- Cross, Milton, and David Ewen. Encyclopedia of the Great Composers and Their Music. Garden City, N.Y.: Doubleday, 1953. 
+- Crowe, Cameron. “The Rebellious Neil Young: Cameron Crowe’s 1975 Rolling Stone Interview.” Rolling Stone (1975) [Link](http://www.rollingstone.com/music/news/the-rebellious-neil-young-cameron-crowes-1975-rolling-stone-interview-20110601?print=true)
+- Csikszentmihalyi, Mihaly. Creativity : Flow and the Psychology of Discovery and Invention. 1st ed. ed., New York: HarperCollinsPublishers, 1996. 
+- Cumming, Naomi. The Sonic Self: Musical Subjectivity and Signification. Indianapolis: Indiana University Press, 2000. 
+- Cumming, Robert Denoon, ed. The Philosophy of Jean-Paul Sartre. New York: Vintage, 1965. 
+- Currie, James. “Review of ‘Music, Philosophy, Modernity’ By Andrew Bowie.” Notre Dame Philosophical Reviews 2008.06.16 (2008) [Link](http://ndpr.nd.edu/review.cfm?id=13328)
+- Cusick, Suzanne G. “Gender, Musicology, and Feminism.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- ———. “Musicology, Torture, Repair.” Radical Musicology Vol. 3 (2008): URL = http://www.radical-musicology.org.uk/2008/Cusick.htm. [Link](http://www.radical-musicology.org.uk/2008/Cusick.htm)
+- Cutsinger, James S. Reclaiming the Great Tradition : Evangelicals, Catholics & Orthodox in Dialogue. Downers Grove, Ill.: InterVarsity Press, 1997. 
+- Cyrus, Cynthia J. “Selling an Image: Girl Groups of the 1960s.” Popular Music 22 (2003): 173-93. [Link](http://www.jstor.org/stable/3877609)
+- Dahlhaus, Carl. Analysis and Value Judgment. New York: Pendragon Press, 1983. [Link](http://hdl.handle.net/2027/heb.05922.0001.001)
+- ———. Schoenberg and the New Music : Essays. Cambridge: Cambridge University Press, 1987. 
+- ———. The Idea of Absolute Music. Chicago: University of Chicago Press, 1989. 
+- ———. “Fragments of a Musical Hermeneutics.” Current Musicology No.50 (1992)
+- Dalcroze, Emile Jaques. Rhythm, Music, and Education. London: Chatto & Windus, 1921. 
+- Dale, Pete. “Punk as Folk: Tradition as Inevitability, the Appearance of Subjectivity and the Circuitry of Justice.” Radical M Vol. 4 (2009)
+- Daniel Pressnitzer and McAdams, Stephen. “Acoustics, Psychoacoustics and Spectral Music.” (2000)
+- Valente, Daniel. “Stipa V4 Specification Compliance Study.” Studio Six Digital, LLC (2012) [Link](http://www.studiosixdigital.com/support/downloads-2/stipav4compliance.pdf)
+- Darwin, Charles. On the Origin of Species. ePub, 1999. 
+- David W. Samuels, Louise Meintjes, Ana Maria Ochoa, and Thomas Porcello. “Soundscapes: Toward a Sounded Anthropology.” The Annual Review of Anthropology 39 (2010): 329-45. [Link](http://anthro.annualreviews.org/doi/full/10.1146/annurev-anthro-022510-132230)
+- Davidson, Clifford & Ann Nichols, eds. Iconoclasm Vs. Art and Drama. Kalamazoo: Medieval Institute Publications, 1989. 
+- Davidson, Jane W. The Music Practitioner : Research for the Music Performer, Teacher and Listener. Aldershot: Ashgate, 2004. 
+- Davies, David. “Susan Sontag, Diane Arbus, and the Ethical Dimensions of Photography.” Art and Ethical Criticism. Ed. Garry L. Hagberg. Oxford: Blackwell, 2008. [Link](http://ndpr.nd.edu/review.cfm?id=15065)
+- Davies, Helen. “All Rock and Roll is Homosocial: The Representation of Women in the British Rock Music Press.” Popular Music 20 (2001): 301-19. [Link](http://www.jstor.org/stable/853623)
+- Davies, Stephen. “Cosi’s Canon Quartet.” Art and Ethical Criticism. Ed. Garry L. Hagberg. Oxford: Blackwell, 2008. [Link](http://ndpr.nd.edu/review.cfm?id=15065)
+- Davis, Duane. Merleau-Ponty and the Art of Perception., 2016. [Link](http://ndpr.nd.edu/news/68116-merleau-ponty-and-the-art-of-perception/)
+- Davis, William B., Michael H. Thaut & Gfeller, Kate E. An Introduction to Music Therapy : Theory and Practice. Dubuque, IA: Wm. C. Brown Publishers, 1992. 
+- Dawe, Kevin. “The Cultural Study of Musical Instruments.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Day, William. “Knowing as Instancing: Jazz Improvisation as Moral Perfectionism.” The Journal of Aesthetics and Art Criticism Vol. 58, No. 2 (2000): 99-111. 
+- de Saint Cheron, Michael. Conversations With Emmanuel Levinas, 1983-1994. Duquesne University Press, 2010. 
+- Simonton, Dean Keith. “More Mentally Ill?the Mad-Genius Paradox: Can Creative People be More Mentally Healthy But Highly Creative People.” Perspectives on Psychological Science Vol. 9, No 470 (2014) [Link](http://pps.sagepub.com/content/9/5/470)
+- Biesta, Deborah Osberg and Gert. “The Emergent Curriculum: Navigating a Complex Course Between Unguided Learning and Planned Enculturation.” Journal of Curriculum Studies 40:3 (2008): 313 - 328. [Link](http://dx.doi.org/10.1080/00220270701610746)
+- Debord, Guy. Society of the Spectacle. Detroit: Black & Red, 1977. 
+- Humphreys, Debra. Making the Case for Liberal Education: Responding to the Challenges. Washington, DC: Association of American Colleges and Universities, 2006. [Link](http://www.aacu.org/leap/documents/LEAP_MakingtheCase_Final.pdf)
+- Deena Skolnick Weisberg, Frank C. Keil, Joshua Goodstein Elizabeth Rawson & Gray, Jeremy R. “The Seductive Allure of Neuroscience Explanations.” J Cogn Neurosci. 20.3 (2008): 470-77. 
+- Degirmenci, Koray. “On the Pursuit of a Nation: The Construction of Folk and Folk Music in the Founding Decades of the Turkish Republic.” IRASM Vol. 37, no. 1 (2006): 47-65. 
+- Deleuze, Gilles. Nietzche and Philosophy. New York: Columbia University Press, 1983. 
+- ———. Bergsonism. New York: Zone Books, 1988. 
+- ———. The Logic of Sense. Chicago: Columbia University Press, 1990. [Link](http://books.google.ca/books?id=X83asrKI_b0C)
+- ———. The Fold: Leibniz and the Baroque. Minnesota: University of Minnesota Press, 1992. [Link](http://books.google.ca/books?id=JB4c4yWjYzkC)
+- ———. Difference and Repetition. New York: Columbia University Press, 1994. 
+- ———. “Boulez, Proust and Time.” Angelaki: journal of the theoretical humanities V 3:2 (1998)
+- Deleuze, Gilles & Guattari., Felix. Anti-Oedipus: Capitalism and Schizophrenia. Minneapolis: University of Minnesota Press, 1983. [Link](http://lavachequilit.typepad.com/files/deleuze-guattari---the-anti-oedipus.pdf)
+- Denisoff, R. Serge. “Songs of Persuasion: A Sociological Analysis of Urban Propaganda Songs.” The Journal of American Folklore Vol. 79, No. 314 (1966)
+- DeNora, Tia. Music in Everyday Life. Cambridge: Cambridge University Press, 2000. [Link](http://catdir.loc.gov/catdir/samples/cam032/99052606.pdf)
+- McCormack, Derek. “Thinking-Spaces for Research Creation.” Inflexions 1.1 How is Research-Creation? (2008) [Link](www.inflexions.com)
+- Thompson, Derek. “What’s More Expensive Than College? Not Going to College.” The Atlantic 27 March 2012  [Link](http://www.theatlantic.com/business/archive/2012/03/whats-more-expensive-than-college-not-going-to-college/255073/)
+- DeRogatis, Jim. Milk it! Cambridge, MA: Da Capo Press, 2003. 
+- Derrida, Jacques. Writing and Difference. Illinois: University of Chicago Press, 1978. 
+- ———. Specters of Marx. London: Routledge, 1994. 
+- ———. The Gift of Death. Chicago: The University of Chicago Press, 1995. 
+- ———. “Final Interview.” (2004)
+- Derrida, Jacques. Of Grammatology. 1st American ed. ed., Baltimore: Johns Hopkins University Press, 1976. 
+- ———. Adieu to Emmanuel Levinas. Stanford, Calif.: Stanford University Press, 1999. [Link](http://www.loc.gov/catdir/description/cam029/99021519.html
+http://www.loc.gov/catdir/toc/cam028/99021519.html
+http://www.loc.gov/catdir/enhancements/fy0710/99021519-b.html)
+- Descartes, Rene. Key Philosophical Writings. Chatham, Kent: Wordsworth, 1997. 
+- Descartes, René, Donald A. Cress, and René Descartes. Discourse on Method ; and, Meditations on First Philosophy. 4th ed. ed., Indianapolis: Hackett Pub., 1998. 
+- Descombes, Vincent. Modern French Philosophy. Cambridge: Cambridge UP, 1980. [Link](http://books.google.ca/books?id=PPgdXAaaO2AC)
+- Detmer, David. Phenomenology Explained : From Experience to Insight., 2013. 
+- Deutsch, Diana. The Psychology of Music. Second ed., New York: Academic Press, 1999. 
+- DeVeaux, Scott Knowles., and Gary. Giddins. Jazz. 1st ed. ed., New York: W. W. Norton, 2009. 
+- ———. Jazz : Essential Listening. 1st ed. ed., New York: W. W. Norton, 2011. 
+- DeWall, CN, RS Pond Jr et al. “Tuning in to Psychological Change: Linguistic Markers of Psychological Traits and Emotions Over Time in Popular Us Song Lyrics.” Psychology of Aesthetics, Creativity, and the Arts 5.3 (2011): 200. [Link](http://psycnet.apa.org/journals/aca/5/3/200/)
+- Dewey, John. Moral Principles in Education. Boston, New York [etc.]: Houghton Mifflin Company, 1909. [Link](http://hdl.loc.gov/loc.gdc/scd0001.0029467827A)
+- ———. How We Think, a Restatement of the Relation of Reflective Thinking to the Educative Process. Boston, New York [etc.]: D.C. Heath and company, 1933. 
+- ———. Art as Experience. New York: Penguin, 1934. 
+- ———. Reconstruction in Philosophy. New York: Mentor Books, 1950. 
+- ———. The Child and the Curriculum: The School and Society. Chicago: University of Chicage Press, 1956. 
+- ———. “Art as Experience.” The Nature of Art: An Anthology. Ed. Thomas Wartenberg. New York: Harcourt College Publishers, 2001. 
+- ———. Democracy and Education: An Introduction to the Philosophy of Education., 1916. 
+- Dibben, Nicola. “Representations of Femininity in Popular Music.” Popular Music 18 (1999): 331-55. [Link](http://www.jstor.org/stable/853611)
+- ———. “Musical Materials, Perception, and Listening.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Dickens, Charles. A Tale of Two Cities. Project Gutenberg. 
+- Dickinson, Edward. Music in the History of the Western Church. New York: Greenwood Press, 1969. 
+- Dickinson, Kay. “‘Believe’? Vocoders, Digitalised Female Identity and Camp.” Popular Music 20 (2001): 333-47. [Link](http://www.jstor.org/stable/853625)
+- Dillard, Annie. Pilgrim At Tinker Creek. New York: Bantam, 1974. 
+- Dodd, Julian. Works of Music: An Essay in Ontology. Oxford: Oxford UP, 2007. 
+- Marquis, Don. “Why Abortion is Wrong.” 
+- Sanford, Don. Popular Hymn Stories. 
+- Shields, Dorothy. Songs for Labor. AFL-CIO, 1983. 
+- Dostal, Robert J. “Introduction.” The Cambridge Companion to Gadamer. Ed. Robert J. Dostal, ed. Cambridge UP, 2006. 
+- ———. “The Man and His Work.” The Cambridge Companion to Gadamer. Ed. Robert J. Dostal, ed. Cambridge UP, 2006. 
+- Dostal, Robert J., ed. The Cambridge Companion to Gadamer. New York: Cambridge UP, 2002. 
+- Dostoevsky, Fyodor. Crime and Punishment. New York: Dodd, Mead & Co., 1963. 
+- ———. The Brothers Karamazov. Bantam, 1981. 
+- ———. The Double. Dover Thrift Editions. 
+- Dostoyevsky, Fyodor. Notes From the Underground. Dover ed. ed., Vol. Dover thrift editions New York: Dover Publications, 1992. [Link](http://www.loc.gov/catdir/description/dover031/91038930.html
+http://www.loc.gov/catdir/enhancements/fy1412/91038930-b.html)
+- ———. “Delphi Complete Works of Fyodor Dostoyevsky (Illustrated).” (2011): 5927. [Link](http://www.amazon.com/Delphi-Complete-Fyodor-Dostoyevsky-Illustrated-ebook/dp/B004OEJE6Y%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB004OEJE6Y)
+- Doyle, William. The French Revolution : A Very Short Introduction. Vol. Very short introductions ; 54 Oxford: New York : Oxford University Press, 2001. [Link](http://www.loc.gov/catdir/enhancements/fy0613/2002265372-d.html
+http://www.loc.gov/catdir/enhancements/fy0613/2002265372-t.html
+http://www.loc.gov/catdir/enhancements/fy0723/2002265372-b.html)
+- Drabinski, John E., and Eric Sean Nelson, eds. Between Levinas and Heidegger., 2014. 
+- Drott, Eric. “Timbre and the Cultural Politics of French Spectralism.” (2005)
+- ———. “Spectralism, Politics and the Post-Industrial Imagination.” The Modernist Legacy: Essays on New Music. Ed. Bjorn Heile. Farnham: Ashgate, 2009. [Link](http://books.google.ca/books?id=iebzjaMq6dQC&printsec=frontcover#v=onepage&q&f=false)
+- ———. Music and the Elusive Revolution: Cultural Politics and Political Culture in France, 1968-1981 (Cali [Paperback]. University of California Press, 2011. [Link](http://www.amazon.com/Music-Elusive-Revolution-Political-1968-1981/dp/B0088P3YDE%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0088P3YDE)
+- Dubiel, Joseph. “Composer, Theorist, Composer / Theorist.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- Duckworth, William. A Creative Approach to Music Fundamentals. Eleventh edition. ed., 2011. 
+- Duffett, Mark. “Caught in a Trap? Beyond Pop Theory’s ‘Butch’ Construction of Male Elvis Fans.” Popular Music 20 (2001): 395-408. [Link](http://www.jstor.org/stable/853629)
+- Duffin, Ross W. How Equal Temperament Ruined Harmony (and Why You Should Care). New York: W.W. Norton and Co., 2007. 
+- Dunaway, David K. “Review: Folk Protest and Political Music in the United States.” The Journal of American Folklore 105 (1992): 374-79. [Link](http://www.jstor.org/stable/541769)
+- Dunn, David & van Peer, Rene. “Music, Language and Environment.” Leonardo Music Journal: Power and Responsibility: Politics, Identity and Technology in Music Vol 9 (1999)
+- Dupont, Christian. Phenomenology in French Philosophy : Early Encounters., 2013. [Link](http://www.loc.gov/catdir/enhancements/fy1405/2013954782-b.html
+http://www.loc.gov/catdir/enhancements/fy1405/2013954782-d.html
+http://www.loc.gov/catdir/enhancements/fy1405/2013954782-t.html)
+- Dura, Marian T. “The Phenomenology of the Music-Listening Experience.” Symposium Vol. 107, No. 3 (2006): 25-32. 
+- Dwight, John S. Dwight’s Journal of Music: Volumes Xxxvii and Xxxviii. Boston: Oliver Ditson and Company, 1878. [Link](https://ia600201.us.archive.org/32/items/dwightsjournalm12dwiggoog/dwightsjournalm12dwiggoog.pdf)
+- Dyer, Geoff. “Tradition, Influence and Innovation.” Riffs and Choruses : A New Jazz Anthology. Ed. Andrew Clark. London: Continuum, 2001. 110-15. 
+- Eagleton, Terry. The Ideology of the Aesthetic. Oxford: Oxford University Press, 1990. 
+- ———. After Theory. New York: Basic Books, 2003. 
+- ———. Culture and the Death of God., 2014. 
+- Eco, Umberto. “Lumbar Thought.”  [Link](http://fields.eca.ac.uk/digitalspaces1/wp-content/uploads/2009/04/lumbarthought.pdf)
+- ———. The Name of the Rose. 
+- ———. Art and Beauty in the Middle Ages. New Haven: Yale University Press, 1986. 
+- ———. Foucault’s Pendulum. New York: Ballantine Books, 1988. 
+- ———. The Mysterious Flame of Queen Loana. London: Secker & Warburg, 2005. 
+- Fowke, Edith Fulton, and Richard Johnson. Folk Songs of Canada. Waterloo: Waterloo, 1954. 
+- Editors. “A Twentieth-Century Folk Mass.” The Musical Times Vol. 98, No. 1378 (1957): 661. 
+- Edman, Irwin. Arts and the Man; a Short Introduction to Aesthetics. New York: W. W. Norton & co., inc., 1939. 
+- Einarson, John. American Woman: The Story of the Guess Who. Kingston, ON: Quarry Press, 1995. 
+- Einstein, Alfred, Arthur Mendel, and Nathan Broder. Mozart, His Character, His Work. New York, London [etc.]: Oxford university press, 1945. 
+- Eisentraut, Jochen. “Samba in Wales: Making Sense of Adopted Music.” British Journal of Ethnomusicology 10.1 (2001): 85-105. [Link](http://www.jstor.org/stable/3060773)
+- Elie, Lolis Eric. “An Interview With Wynton Marsalis.” Callaloo Vol. 13, Spring.2 (1990): 271-90. [Link](http://www.jstor.org/stable/2931700)
+- Ellwood, Wayne. No-Nonsense Guide to Globalization, 3rd Edition. Between the Lines, 2010. [Link](http://www.amazon.ca/No-Nonsense-Guide-Globalization-3rd-Edition/dp/1897071671%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1897071671)
+- Elsdon, Peter. “Listening in the Gaze: The Body in Keith Jarrett’s Solo Piano Improvisations.” Music and Gesture. Ed. Anthony & King Gritten, Elaine. Aldershot: Ashgate, 2006. 
+- Eno, Brian. “The Studio as Compositional Tool.” Downbeat (1979)
+- Epictetus. Discourses and Enchiridion. New York: Walter J. Black, Inc., 1944. 
+- Erasmus, Desiderius, and John Patrick. Dolan. The Essential Erasmus. New York: Meridian, 1983. [Link](http://www.loc.gov/catdir/enhancements/fy1207/93034751-d.html
+http://www.loc.gov/catdir/enhancements/fy1207/93034751-t.html)
+- Erling Nilsson, Björn Hellström. “Room Acoustic Design in Open-Plan Offices.”  [Link](http://www.acousticdesign.se/upload/files/euronoise_2009_eni_bhe_opo.pdf)
+- Eskridge, Larry. “”One Way”: Billy Graham, the Jesus Generation, and the Idea of an Evangelical Youth Culture.” Church History 67 (1998): 83-106. [Link](http://www.jstor.org/stable/3170772)
+- Euripides. Bacchae. New York: Dover Publications, 1997. 
+- Evans, David. “Review: Folk Revival Music.” The Journal of American Folklore 92 (1979): 108-15. [Link](http://www.jstor.org/stable/538866)
+- Everest, F. Alton. The Master Handbook of Acoustics, 3rd Edition. New York: McGraw-Hill, 1994. [Link](http://andrealbino.wikispaces.com/file/view/Master+Handbook+of+Acoustics+-+5th+Edition+-+F.+Alton+Everest,+Ken+C.+Pohlmann.pdf)
+- Everest, F. Alton, and Ken C. Pohlmann. Master Handbook of Acoustics, 6th Edition. 6th ed. ed., New York: McGraw-Hill, 2014. 
+- Everist, Mark. “Reception Theories, Canonic Discourses, and Musical Value.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- Ewen, David. A Journey to Greatness: The Life and Music of George Gershwin. New York: Henry Holt and Company, 1956. 
+- Institutions, Experiential Education in BC Post-Secondary. “Bc Council on Admissions & Transfer Experiential Learning.” (2017)
+- Eyerman, Ron, and Scott Barretta. “From the 30s to the 60s: The Folk Music Revival in the United States.” Theory and Society 25 (1996): 501-43. [Link](http://www.jstor.org/stable/657909)
+- Fallas, John. “Review: Sma Winter Study Day 2002 “music and Ethics”.” online none (2002) [Link](http://www.lancs.ac.uk/sma/reviews/Springstudyday2002_review.html)
+- Faulkner, Anne Shaw. “Does Jazz Put the Sin in Syncopation?” Riffs and Choruses : A New Jazz Anthology. Ed. Andrew Clark. London: Continuum, 2001. 486. 
+- Feather, Leonard. The Encyclopedia of Jazz. (Completely revised, enlarged ed.). ed., London ; New York: Quartet Books, 1978. 
+- Feld, Steven. “Sound Structure as Social Structure.” Enthomusicology Vol. 28, No. 3 (1984): 383-409. [Link](http://www.stevenfeld.net/articles/)
+- ———. “Waterfalls of Song: An Acoustemology of Place Resounding in Bosavi, Papua New Guinea.” Senses of Place. Ed. Steven Feld and Keith H. Basso. School of American Research Press, 1996. [Link](http://static1.squarespace.com/static/545aad98e4b0f1f9150ad5c3/t/5465b301e4b0d8b708dffe12/1415951105015/1996++Waterfalls+of+Song.pdf)
+- Feld, Steven., and Keith H. Basso. Senses of Place. 1st ed. ed., Vol. School of American Research advanced seminar series Santa Fe, N.M. [Seattle]: School of American Research Press Distributed by the University of Washington Press, 1996. 
+- Ferguson, Sean. “De-Composing Tristan Murail: The Collected Writings, 1980-2000.” Circuit: Musiques contemporaines vol. 17, n° 1 (2007): 115-20. [Link](http://www.erudit.org/revue/circuit/2007/v17/n1/016777ar.pdf)
+- Féron, FX. “The Emergence of Spectra in Gérard Grisey’s Compositional Process: From Dérives (197374) to Les Espaces Acoustiques (197485).” Contemporary Music Review (2011) [Link](http://www.tandfonline.com/doi/abs/10.1080/07494467.2011.665582)
+- Ferrara, Lawrence. “Phenomenology as a Tool for Musical Analysis.” The Musical Quarterly Vol. 70, Summer.3 (1984): 355-73. [Link](http://www.jstor.org/stable/742043)
+- Fettke, Tom, Ed. The Hymnal for Worship and Celebration. Nashville, Tennessee: Word Music, 1986. 
+- Fineberg, Joshua. “Spectral Music.” Contemporary Music Review Vol. 19 (2000): 1-5. 
+- ———. “Guide to the Basic Concepts and Techniques of Spectral Music.” Contemporary Music Review Vol. 19 (2000): 81-113. 
+- ———. “Musical Examples.” Contemporary Music Review Vol. 19 (2000): 115-34. 
+- Fink, Robert. “Elvis Everywhere: Musicology and Popular Music Studies At the Twilight of the Canon.” American Music 16 (1998): 135-79. [Link](http://www.jstor.org/stable/3052563)
+- ———. “Going Flat: Post-Hierarchical Music Theory and the Musical Surface.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- ———. “(Post-)minimalisms 1970-2000: The Search for a New Mainstream.” The Cambridge History of Twentieth-Century Music. Ed. Nicholas & Pople Cook, Anthony. Cambridge: Cambridge University Press, 2004. 
+- ———. Repeating Ourselves : American Minimal Music as Cultural Practice. Berkeley, California: University of California Press, 2005. 
+- Finn, Geraldine. “Music, Identity and Difference in the Case of Charles Ives.” New Sound Vol. 18 (2001): 49-62. 
+- ———. “To Speculate - on Music - and/as the Sound of Differance.” Tijdschrift voor Muziektheorie Vol. 7, No. 3 (2002): 189-201. 
+- ———. “One Time Alone Improvisation Takes Place.” New Sound 32 (2008)
+- ———. “Resonance and/as Responsibility (How Are We to Hear This Sounding?).” PhaenEx Vol. 8 no. 1 (2013): 1-27. 
+- Finnegan, Ruth. “Music, Experience, and the Anthropology of Emotion.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Fish, Stanley. “Will the Humanities Save Us?” New York Times (2008) [Link](https://opinionator.blogs.nytimes.com/2008/01/06/will-the-humanities-save-us/)
+- Fisher, Alexander J. Music, Piety, and Propaganda : The Soundscapes of Counter-Reformation Bavaria., 2014. 
+- Fisk, Milton. Ethics and Social Survival., 2016. [Link](http://ndpr.nd.edu/news/ethics-and-social-survival/?utm_campaign=Feed%3A+PhilosophicalReviews%2FNews+%28Notre+Dame+Philosophical+Reviews%29&utm_medium=feed&utm_source=feedburner)
+- McLandburgh, Florence. “‘The Automaton Ear’, the Automaton Ear and Other Sketches.” (1876) [Link](http://www.stevenconnor.com/dumbstruck/archive/autoear.htm)
+- Flynn, Tom. The Body in Three Dimensions. New York City: Harry N. Abrams, Inc., 1998. 
+- Fontaine, Dick, dir. “Sound??” (1966)
+- Forman, Murray. “‘Represent’: Race, Space and Place in Rap Music.” Popular Music Vol. 19, No. 1 (2000): 65-90. 
+- Foster, Matthew. Gadamer and Practical Philosophy. Atlanta, Georgia: Scholars Press, 1991. 
+- Foucault, Michel. The Archeology of Knowledge. London: Routledge, 1972. 
+- ———. Power/knowledge: Selected Interviews and Other Writings 1972-1977. New York: Pantheon Books, 1980. 
+- ———. “On the Genealogy of Ethics: An Overview of Work in Progress.” The Foucault Reader. Ed. Paul Rainbow. New York: Pantheon Books, 1984. [Link](http://www.michel-foucault.com/dulwich/ethics.pdf)
+- ———. The Foucault Reader. New York: Pantheon Books, 1984. 
+- ———. “Pierre Boulez, Passing Through the Screen.” 1994. 
+- ———. The Order of Things: An Archeology of the Human Sciences. T & F Books, 2007. 
+- Frankfort, Henri, H.A. Frankfort John A. Wilson Thorkild Jacobsen. Before Philosophy: An Essay of Speculative Thought in the Ancient Near East. Middlesex: Penguin, 1949. 
+- Frankl, Viktor E. Man’s Search for Meaning. New York: Simon and Schuster, 1959. 
+- Freeland, Cynthia. But is it Art?: An Introduction to Art Theory. Oxford University Press, USA, 2002. [Link](http://monoskop.org/images/e/ec/Freeland_Cynthia_But_is_it_Art_2002.pdf)
+- Freeman, Robert. “Needed: A Revolution in Musical Training – the Conversation.” (2014) [Link](http://www.chronicle.com/blogs/conversation/2014/08/29/needed-a-revolution-in-musical-training/)
+- Fretheim, Terence E. The Suffering of God : An Old Testament Perspective. Vol. Overtures to Biblical theology ; 14 Philadelphia: Fortress Press, 1984. 
+- Freud, Sigmund. The Interpretation of Dreams. New York: Quality Paperback Book Club, 1995. 
+- ———. “The Uncanny.” Fantastic Literature : A Critical Reader. Ed. David Sandner. Westport, Conn.; Oxford: Praeger; Harcourt Education, 2004. 
+- Freyenhagen, Fabian. “Adorno’s Politics: Theory and Praxis in Germany’s 1960s.” Philosophy & Social Criticism Vol. 40 No. 9 (2014) [Link](http://psc.sagepub.com/content/early/2014/08/05/0191453714545198.abstract)
+- Friedland, LeeEllen. “Disco: Afro-American Vernacular Performance.” Dance Research Journal 15 (1983): 27-35. [Link](http://www.jstor.org/stable/1478675)
+- Frith, Simon. “‘The Magic That Can Set You Free’: The Ideology of Folk and the Myth of Rock.” Popular Music Vol. 1 (1981)
+- ———. Sound Effects. New York: Pantheon Books, 1981. 
+- ———. “Rock and the Politics of Memory.” Social Text 9/10 (1984): 59-69. [Link](http://www.jstor.org/stable/466535)
+- ———. “Copyright and the Music Business.” Popular Music Vol. 7, No. 1 (1988): 57-75. 
+- ———. “Music Industry Research: Where Now? Where Next? Notes From Britain.” Popular Music Vol. 19, No. 3 (2000): 387-93. 
+- ———. “Music and Everyday Life.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Frost, Robert. The Poetry of Robert Frost: The Collected Poems, Complete and Unabridged. ed. Edward Connery Lathem, New York: Henry Holt & Company, 1979. 
+- Fuller, Sarah., and Allan. Schindler. The European Musical Heritage, 800-1750. 1st ed. ed., New York: Knopf, 1987. 
+- Furtado, Nelly. “Loose.” (2006)
+- Gabbard, Krin. “The Word Jazz.” The Cambridge Companion to Jazz. Ed. Mervyn & Horn Cook, David. Cambridge: Cambridge University Press, 2002. 1-6. 
+- Gadamer, Hans-Georg. Philosophical Hermeneutics. Los Angeles: University of California Press, 1976. 
+- ———. The Relevance of the Beautiful and Other Essays. Cambridge: Cambridge University Press, 1986. 
+- ———. “Letter to Dallmayr.” Dialogue and Deconstruction : The Gadamer-Derrida Encounter. Ed. Diane P. Michelfelder & Richard E. Palmer. Albany: State University of New York Press, 1989. 
+- ———. Truth and Method. 2nd Revised Edition ed., New York: The Continuum Publishing Company, 1989. 
+- ———. “Destruktion and Deconstruction.” Dialogue and Deconstruction : The Gadamer-Derrida Encounter. Ed. Diane P. & Palmer Michelfelder, Richard E. Albany: State University of New York Press, 1989. 102-13. 
+- ———. “Reply to Jacques Derrida.” Dialogue and Deconstruction : The Gadamer-Derrida Encounter. Ed. Diane P. & Palmer Michelfelder, Richard E. Albany: State University of New York Press, 1989. 55-57. 
+- ———. Heidegger’s Ways. Albany, NY: State University of New York Press, 1994. 
+- ———. The Enigma of Health. Stanford: Stanford University Press, 1996. 
+- ———. “On the Political Incompetence of Philosophy.” Diogenes No. 182, Vol 46/2 (1998): 3-11. 
+- ———. Hermeneutics, Religion, and Ethics. London: Yale University Press, 1999. 
+- ———. “Aesthetics and Hermeneutics.” The Continental Aesthetics Reader. Ed. Clive Cazeaux. London: Routledge, 2000. 181-86. 
+- ———. “Education is Self-Education.” Journal of Philosophy of Education Vol. 35, No. 4 (2001): 529-38. 
+- ———. “”Monologue and Dialogue in Mass Media” Mediamente.” (2002) [Link](http://www.mediamente.rai.it/mmold/english/bibliote/intervis/g/gadamer.htm. Accessed (10/04/2002))
+- ———. Philosophical Hermeneutics. Los Angeles: University of California Press, 2004. 
+- Gadamer, Hans-Georg and Riccardo Dottori. A Century of Philosophy. New York: Continuum, 2006. 
+- Gadamer, Hans-Georg. Die Lektion Des Jahrhunderts. Ein Philosophischer Diolog Mit Riccardo Dootori. Hamburg: LIT Verlag, 2002. 
+- Gann, Kyle. “Mikel Rouse / Dennis Cleveland Liner Notes.” (1996)
+- ———. American Music in the Twentieth Century. N.Y.: Schirmer Books, 1997. 
+- ———. “A Statement on Free Improvisation.” Contemporary Music Review Vol. 25, Nos. 5/6 (2006): 619-20. 
+- Gaskell, Ivan. “Ethical Judgments in Museums.” Art and Ethical Criticism. Ed. Garry L. Hagberg. Oxford: Blackwell, 2008. [Link](http://ndpr.nd.edu/review.cfm?id=15065)
+- Gasque, Laurel. Art and the Christian Mind : The Life and Work of H.r. Rookmaaker. Wheaton, Ill.: Crossway Books, 2005. [Link](http://www.loc.gov/catdir/toc/fy0607/2005003663.html)
+- Gaston, Paul L. and Jerry G. Gaff. Revising General Education - and Avoiding the Potholes. Washington: AAC&U, 2009. 
+- Gaut, Berys. “The Ethical Criticism of Art.” Aesthetics and Ethics: Essays At the Intersection. Ed. Jerrold Levinson. Cambridge: Cambridge University Press, 1998. 
+- “Gérard Grisey.” 2010. [Link](http://www.remusik.org/en/gerard_grisey/)
+- Geyrhalter, Thomas. “Effeminacy, Camp and Sexual Subversion in Rock: The Cure and Suede.” Popular Music 15 (1996): 217-24. [Link](http://www.jstor.org/stable/931219)
+- Gibson, James. The Senses Considered as Perceptual Systems. Boston: Houghton Mifflin, 1966. 
+- ———. The Ecological Approach to Visual Perception. Hillsdale, NJ: Lawrence Erlbaum, 1979. 
+- Gilbert, Allan H. Literary Criticism: Plato to Dryden. Toronto: Ambassador Books, 1940. 
+- ———. Literary Criticism: Plato to Dryden. Detroit: Wayne State University Press, 1962. 
+- Gillock, Jon. Performing Messiaen’s Organ Music : 66 Masterclasses. Bloomington: Indiana University Press, 2010. 
+- Gioia, Ted. The Jazz Standards : A Guide to the Repertoire. Oxford ; New York: Oxford University Press, 2012. 
+- Girgus, Sam B. Levinas and the Cinema of Redemption: Time, Ethics, and the Feminine. Columbia University Press, 2010. 
+- Giroux, Henry A. “Beyond Neoliberal Miseducation.” Truthout 2014, [Link](http://truth-out.org/opinion/item/22548-henry-giroux-beyond-neoliberal-miseducation)
+- ———. “Higher Education and the Politics of Disruption.” Truthout (2015) [Link](http://www.truth-out.org/news/item/29693-higher-education-and-the-politics-of-disruption)
+- Giroux, Henry A., and Roger I. Simon. Popular Culture, Schooling, and Everyday Life. Vol. Critical studies in education series New York: Bergin & Garvey, 1989. 
+- Giroux, Henry A. et. al. Popular Culture. Toronto: Ontario Institute for Studies in Education Press, 1989. 
+- Gjerdingen, Robert. “An Experimental Music Theory?” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- Goa, David. “In the Image of God: Icon, Idol and the Spiritual Life.” (2009)
+- Goehr, Lydia. The Imaginary Museum of Musical Works. Oxford: Oxf, 1994. 
+- ———. “Understanding the Engaged Philosopher: On Politics, Philosophy, and Art.” Cambridge Companion to Merleau-Ponty. Ed. %. Cambridge UP, 2006. 318-50. 
+- ———. Elective Affinities: Musical Essays on the History of Aesthetic Theory. Columbia: Columbia University Press, 2008. [Link](http://ndpr.nd.edu/review.cfm?id=16166)
+- Goepp, Philip H. Great Works of Music : (Symphonies and Their Meaning). New York: Garden City Publishing Co, Inc, 1897. 
+- Goff, J.R. “The Rise of Southern Gospel Music.” Church History: Studies in Christianity and Culture 67.04 (1998): 722-44. [Link](http://journals.cambridge.org/abstract_S0009640700070165)
+- ———. Close Harmony: A History of Southern Gospel. The University of North Carolina Press, 2002. [Link](http://books.google.com/books?hl=en&lr=&id=kJQtrJNvo7gC&oi=fnd&pg=PR11&dq=james+r+goff+southern+gospel&ots=3ZvmKJLJK6&sig=rNN3_ygXcO_UrI1vIVfvMK5y3QE)
+- Gogol, Nikolaæi Vasil§evich, Claud Field, and Prosper Mérimée. The Mantle, and Other Stories. New York London: Frederick A. Stokes Laurie, 1916. 
+- Goldman, Jonathan. “Boulez and the Spectralists Between Descartes and Rameau: Who Said What About Whom?” Perspectives of New Music (2010) [Link](http://www.jstor.org/stable/10.2307/23076972)
+- Goldwater, Robert John, and Marco Treves. Artists on Art, From the Xiv to the Xx Century. [3d. ed.] ed., New York: Pantheon Books, 1974. [Link](http://www.loc.gov/catdir/description/random048/74176211.html)
+- Gomez, Patrick and Brigitta Danuser. “Affective and Physiological Responses to Environmental Noise and Music.” International Journal of Psychophysiology (2004) [Link](10.1016/j.ijpsycho.2004.02.002)
+- Goodman, Steve. Sonic Warfare: Sound, Affect, and the Ecology of Fear. Cambridge, Massachusetts: MIT Press, 2010. 
+- Gordon Pennycook, James Allan Cheyne, Nathaniel Barr, Derek J. Koehler, Jonathan A. Fugelsang. “On the Reception and Detection of Pseudo-Profound Bullshit.” Judgment and Decision Making Vol. 10, No. 6 (2015): 549-63. 
+- Gorham, Eric. “Service-Learning and Political Knowledge.” 
+- Grant, George. Technology and Justice. New York: Independent Pub Group, 1991. 
+- Gratton, Peter. Spectulative Realism. London: Bloomsbury, 2014. [Link](http://www.c-scp.org/en/2015/06/12/peter-gratton-speculative-realism.html)
+- Green, Lucy. “Music Education, Cultural Capital, and Social Group Identity.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. London: Routledge, 2003. 263-73. 
+- Green, Tom. “”Teachers Suck” From Prepare for Impact (2005).” (2005) [Link](http://www.uplyrics.com/tom_green_lyrics_10625/teachers_suck_lyrics_362317.html)
+- Barz, Gregory. “(Re-)membering Pulse: A Foreword.” Ethnomusicology Review (2016) [Link](http://ethnomusicologyreview.ucla.edu/content/re-membering-pulse-foreword)
+- Griffiths, Paul. Modern Music and After. 3 ed., Oxford University Press, USA, 2011. [Link](http://www.amazon.com/Modern-Music-After-Paul-Griffiths/dp/019974050X%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D019974050X)
+- Grisey, Gerard. “Did You Say Spectral?” Contemporary Music Review Vol. 19 (2000): 1-3. 
+- Gritten, Anthony. “Edward T. Cone’s Stravinsky. The Progress of an Essay.” The Musical Times Vol. 139, April.1862 (1998): 4-13. [Link](http://www.jstor.org/stable/1004123)
+- ———. “On Edward Cone’s Relations: Unholy Delights.” The Musical Times Vol. 141, No. 1871 (2000)
+- ———. “On Answering Music.” Musicae Scientiae 2 (2001): 51-60. 
+- ———. “Some Notes on Epiphany. Mysteres De L’Instant.” The Musical Times 142.1874 (2001): 11-16. [Link](http://www.jstor.org/stable/1004676)
+- ———. “Alibis, and Why Performers Don’t Have Them.” Musicae Scientiae Vol 19, No. 1 (2005): 137-56. 
+- ———. “Drift.” Music and Gesture. Ed. Anthony & King Gritten, Elaine. Aldershot: Ashgate, 2006. 104-25. 
+- ———. “Review: Critical Musicology and the Responsibility of Response: Selected Essays By Lawrence Kramer.” British Journal of Aesthetics Vol 49, No 3 (2009): 307 - 314. 
+- Gritten, Anthony, and Elaine King. Music and Gesture. Aldershot, England: Ashgate, 2006. 
+- ———. New Perspectives on Music and Gesture. Farnham: Ashgate, 2011. 
+- Gritten, Anthony & King, Elaine. “Introduction.” Music and Gesture. Ed. Anthony & King Gritten, Elaine. Aldershot: Ashgate, 2006. 
+- Grout, Donald & Claude Palisca, eds. A History of Western Music. 5th Edition. New York: W.W. Norton and Company, 1996. 
+- Grumpert, Matthew. “Venus De Kitsch: Or, the Passion of the Venus De Milo.” Criticism Spring (1999)
+- Gushee, Lawrence. “The Nineteenth-Century Origins of Jazz.” Black Music Research Journal 22 (2002): 151-74. [Link](http://www.jstor.org/stable/1519947)
+- Gutting, Gary. Thinking the Impossible : French Philosophy Since 1960. Oxford ; New York: Oxford University Press, 2011. 
+- Gutting, Gary. French Philosophy in the Twentieth Century. Cambridge, U.K.; New York: Cambridge University Press, 2001. [Link](http://www.loc.gov/catdir/samples/cam031/00050241.html
+http://www.loc.gov/catdir/description/cam021/00050241.html
+http://www.loc.gov/catdir/toc/cam023/00050241.html)
+- Hacker, P. M. S. Wittgenstein : Comparisons and Context. First edition. ed., 2013. 
+- Hagberg, Garry L. “Aristotle’s ‘Mimesis’ and Abstract Art.” Philosophy Vol. 59, No. 229 (1984)
+- ———. “Music and Imagination.” Philosophy Vol. 61, Oct.238 (1986): 513-17. [Link](http://www.jstor.org/stable/3750393)
+- ———. “Creation as Translation.” The Journal of Aesthetics and Art Criticism Vol. 46, No. 2 (1987)
+- ———. “Artistic Intention and Mental Image.” Journal of Aesthetic Education Vol. 22, No. 3 (1988)
+- ———. Art as Language. Cornell University Press: Ithica, 1995. 
+- ———. “Foreword: Improvisation in the Arts.” The Journal of Aesthetics and Art Criticism Vol. 58, Spring.2 (2000): 95-97. [Link](http://www.jstor.org/stable/432088)
+- ———. “Jazz Improvisation: A Mimetic Art?” Revue Internationale de Philosophie No. 238 (2004): 469-85. 
+- ———. “Jazz Improvisation and Ethical Interaction: A Sketch of the Connections.” Art and Ethical Criticism. Ed. Garry L. Hagberg. Oxford: Blackwell, 2008. 259-85. 
+- ———. “Wittgenstein’s Aesthetics.” The Stanford Encyclopedia of Philosophy V Http://plato.stanford.edu/archives/fall2008/entries/wittgenstein-Aesthetics/. Eds. Edward N. Zalta, and % The Stanford Encyclopedia of Philosophy. Fall 2008 ed. C URL = http://plato.stanford.edu/archives/fall2008/entries/wittgenstein-aesthetics/: Stanford University, 2008. [Link](http://plato.stanford.edu/archives/fall2008/entries/wittgenstein-aesthetics/)
+- Hahn, Lewis, ed. The Philosophy of Hans-Georg Gadamer. Peru, Illinois: Open Court Publishing Company, 1997. 
+- Haley, David. “Arts in Ecology: Questions of Foresight.” Music and Arts in Action Vol. 1, No. 1 (2008)
+- Hallam, Susan., Ian. Cross, and Michael Thaut. The Oxford Handbook of Music Psychology. Oxford ; New York: Oxford University Press, 2009. 
+- Hamilton, Andy. “Spectral Composition.” The Wire 237 (2003)
+- Hamilton, Marybeth. “Sexuality, Authenticity and the Making of the Blues Tradition.” Past & Present 169 (2000): 132-60. [Link](http://www.jstor.org/stable/651266)
+- Hammerschlag, Sarah. “Reading May ‘68 Through a Levinasian Lens: Alain Finkielkraut, Maurice Blanchot, and the Politics of Identity.” The Jewish Quarterly Review 98 (2008): 522-51. [Link](http://www.jstor.org/stable/10.2307/25470278?ref=search-gateway:539f530267983623834ea49b86bb043e)
+- Hancox, Aaron M. “Under One Roof: Independent Record Labels & the Proliferation of Rock & Roll.” Popular Music Online Issue 5 (2005)
+- Haney, David P. “Aesthetics and Ethics in Gadamer, Levinas, and Romanticism: Problems of Phronesis and Techne.” PMLA Vol. 114, Jan.1 (1999): 32-45. [Link](http://www.jstor.org/stable/463425)
+- Hansen, Colin H. “Fundamentals of Acoustics.” (2015) [Link](http://www.who.int/occupational_health/publications/noise1.pdf)
+- Hansen, D.T. “Dewey’s Conception of an Environment for Teaching and Learning.” Curriculum Inquiry 32.3 (2002): 267-80. [Link](http://onlinelibrary.wiley.com/doi/10.1111/1467-873X.00228/abstract)
+- Hanslick, Eduard. The Beautiful in Music. New York: The Bobbs Merrill Company, Inc., 1957. 
+- Hanson, Karen. “How Good Can Bad Art be?” Aesthetics and Ethics: Essays At the Intersection. Ed. Jerrold Levinson. Cambridge: Cambridge University Press, 1998. 
+- Haraway, Donna Jeanne. The Companion Species Manifesto : Dogs, People, and Significant Otherness. Chicago: Prickly Paradigm Press, 2003. [Link](http://www.loc.gov/catdir/description/uchi052/2002115995.html)
+- Hardt, Michæl, and Antonio Negri. Declaration. Argo-Navis, 2012. [Link](http://www.amazon.com/Declaration-Mich%C3%A6l-Hardt/dp/0786752904%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0786752904)
+- Hardt, Michael & Negri, Antonio. Empire. Massachusetts: Harvard University Press, 2000. 
+- Hare, R.M. Freedom and Reason. New York: Oxford UP, 1963. 
+- Harley, J. “Iannis Xenakis in Conversation: 30 May 1993.” Taylor & Francis (2002) [Link](http://www.tandfonline.com/doi/abs/10.1080/07494460216659)
+- Harley, J. Xenakis: His Life in Music. Routledge, 2004. [Link](http://books.google.com/books?hl=en&lr=&id=w31pNIvqhFAC&oi=fnd&pg=PP1&dq=harley+xenakis&ots=CE-a8gqJ0f&sig=VbcWYtn2DSy-4G2m2WipuGPMGYU)
+- Harley, James. “Book Review: Sync or Swarm: Improvising Music in Complex Age.” Critical Studies in Improvisation Vol.3, No. 2 (2007): URL = http://www.criticalimprov.com/index.php/csieci/article/viewArticle/413/657. 
+- Harman, Graham. “Aesthetics as First Philosophy: Levinas and the Non-Human.” Naked Punch No 9 (2007)
+- ———. “The Current State of Speculative Realism.” Speculations: A Journal of Speculative Realism Vol. IV (2013) [Link](http://static1.1.sqspcdn.com/static/f/1181229/22837505/1370378992797/Harman_Current+State+of+SR_Speculations_IV.pdf)
+- ———. “On the Mesh, the Strange Stranger, and Hyperobjects: Morton’s Ecological Ontology.” tarp Architecture Manual (2012)
+- Harnack, Adolf. “Outlines of the History of Dogma.” 
+- Harper-Scott, J. P. E. The Quilting Points of Musical Modernism : Revolution, Reaction, and William Walton. Cambridge ; New York: Cambridge University Press, 2012. 
+- Harper-Scott, J. P. E., and Jim Samson. An Introduction to Music Studies. Cambridge: Cambridge University Press, 2009. 
+- Harper-Scott, J.P.E. “Wagner, Sex and Capitalism.” The Wagner Journal Vol. 5, No. 2 : 46-62. 
+- ———. Edward Elgar, Modernist. Cambridge UP, 2009. 
+- Harris, Clement Antrobus. “The Element of Repetition in Nature and the Arts.” The Musical Quarterly Vol. 17, No 3 (1931)
+- Harrison. “Introduction.” Cambridge Companion to Science and Religion. Ed. %. Cambridge UP, 2006. 
+- Hart, Kevin. “Emmanuel Levinas (1906-1995).” The Continuum Encyclopedia of Modern Criticism and Theory. Ed. Julian Wolfreys. New York: Continuum, 2002. 
+- Hart, Trevor. “Through the Arts: Hearing, Seeing, and Touching the Truth.” Beholding the Glory : Incarnation Through the Arts. Ed. Jeremy Begbie. London: Darton, Longman and Todd, 2000. 
+- Harvey, David. The Condition of Postmodernity: An Enquiry Into the Origins of Cultural Change. Massachusetts: Basil Blackwell Publishers, Inc., 1989. 
+- Harvey, Jonathan. In Quest of Spirit: Thoughts on Music. University of California Press, 1999. 
+- ———. “The Metaphysics of Live Electronics.” Contemporary Music Review Vol. 18 (1999): 79-82. 
+- ———. “Spectralism.” Contemporary Music Review Vol. 19 (2001): 11-14. 
+- ———. “The Metaphysics of Live Electronics.” Contemporary Music Review Vol. 18, Part 3 (1999): 79-82. 
+- Hassan, Ihab. The Postmodern Turn: Essays in Postmodern Theory and Culture. Ohio: Ohio State University Press, 1987. 
+- Hasty, Christopher Francis. Meter as Rhythm. Oxford: Oxford University Press, 1997. 
+- “Hating Adorno (a Brief Compendium of Nasty Comments).”  [Link](https://persistentenlightenment.wordpress.com/2015/08/03/hating-adorno-a-brief-compendium-of-nasty-comments/)
+- Hatzis, Christos. “The Idea of Canada: Conceptual and Creative Approaches to the Human Soundscape.” (2007) [Link](www.hatzis.com)
+- ———. “On Religion, Politics, and Contemporary Music.” (2008) [Link](www.hatzis.com)
+- Hawkins, Stan. “Perspectives in Popular Musicology: Music, Lennox, and Meaning in 1990s Pop.” Popular Music 15 (1996): 17-36. [Link](http://www.jstor.org/stable/931202)
+- Head, Matthew. “Birdsong and the Origins of Music.” Journal of the Royal Musicological Association Vol. 122, No. 1 (1997): 1-23. 
+- Heaton, Roger. “Reminder: A Recording is Not a Performance.” The Cambridge Companion to Recorded Music. Ed. Nicholas Cook, Daniel Leech-Wilkinson, Eric F. Clarke, John Rink, eds. Cambridge: Cambridge University Press, 2009. 
+- Heble, Ajay. “Improvisation, Community, and Social Practice: About.” 2013. March 2013 [Link](http://www.improvcommunity.ca/about)
+- Hedfors, Per. “Considering the Authenticity of the Garden Soundscapes: Preliminary Research Based on Inteviews.” Garden History 32 (2004) [Link](http://www.jstor.org/stable/4150388)
+- Heer, Friedrich. The Medieval World: Europe, 1100-1350. New York: Praeger Publishers, 1969. 
+- Hegarty, Paul. Noise/music: A History. New York: Continuum, 2007. 
+- Hegel, Georg Wilhelm Friedrich. The Philosophy of Fine Art. New York: G. Bell and Sons, Ltd., 1920. 
+- ———. The Phenomenology of Mind. London: George Allen and Unwin Ltd., 1966. 
+- ———. Introductory Lectures on Aesthetics. London: Penguin, 1993. 
+- ———. Phanomenologie Des Geistes. Koln: Konemann, 2000. 
+- Heidegger, Martin. “Country Path Conversations.” 
+- ———. “Building Dwelling Thinking.” Poetry, Language, Thought. New York: Harper Colophon Books, 1971. 
+- ———. “The Origin of the Work of Art.” Basic Writings. Ed. David Farrell Krell. New York: Harper and Row, 1977. 144-87. 
+- ———. The Question Concerning Technology and Other Essays. New York: Harper & Row, 1977. 
+- ———. Being and Time: A Translation of Sein Und Zeit. New York: SUNY, 1996. 
+- ———. What is Called Thinking? 
+- Heidegger, Martin, Richard Rojcewicz, and Daniela Vallega-Neu. Contributions to Philosophy (of the Event)., 2012. 
+- Heile, Bjorn. “Weltmusik and the Globaliation of New Music.” The Modernist Legacy: Essays on New Music. Ed. Bjorn Heile. Farnham: Ashgate, 2009. [Link](http://books.google.ca/books?id=iebzjaMq6dQC&printsec=frontcover#v=onepage&q&f=false)
+- Heisinger, Brent. “Review of Different Trains and Electric Counterpoint By Steven Reich.” American Music Vol. 10, Spring.1 (1992): 109-11. [Link](http://www.jstor.org/stable/3052152)
+- Helmholtz, Hermann von, and Alexander John Ellis. On the Sensations of Tone as a Physiological Basis for the Theory of Music. 2nd English ed. ed., London: Longmans, Green, 1885. [Link](http://books.google.ca/books/about/On_the_Sensations_of_Tone_as_a_Physiolog.html?id=GwE6AAAAIAAJ&redir_esc=y)
+- Hennion, Antione. “Music and Mediation: Towards a New Sociology of Music.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Giroux, Henry A. “What Might Education Mean After Abu Ghraib: Revisiting Adorno’s Politics of Education.” Comparative Studies of South Asia, Africa and the Middle East Vol. 24 No. 1 (2004)
+- Hepokoski, James. “The Dahlhaus Project and Its Extra-Musicological Sources.” 19th Century Music Vol. 14, No. 3 (1991): 221-46. 
+- Heraclitus. “Heraclitus.” Greek Philosophy. Ed. Reginald E. Allen. New York: The Free Press, 1985. 
+- Herbert, Trevor. “Social History and Music History.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Hersch, Charles. “”Let Freedom Ring”: Free Jazz and African-American Politics.” Cultural Critique Vol. 32 (1996): 97-123. 
+- Herzog, Annabel. “Levinas, Memory, and the Art of Writing.” The Philosophical Forum Vol. 36, No. 3 (2005)
+- Hetherington, Stephen Cade. Knowledge and the Gettier Problem., 2016. [Link](https://www.loc.gov/catdir/enhancements/fy1618/2016026289-b.html
+https://www.loc.gov/catdir/enhancements/fy1618/2016026289-d.html
+https://www.loc.gov/catdir/enhancements/fy1618/2016026289-t.html)
+- Hick, John. “?” Seeing-as and Religious Experience. Ed. ? ?: ?, ? 
+- Higgins, Charlotte. “Big Demand for Classical Downloads is Music to Ears of Record Industry.” The Guardian V 28 March, URL = http://www.guardian.co.uk/media/2006/mar/28/newmedia.arts (2006)
+- Higgins, Kathleen Marie. The Music of Our Lives. Philadelphia: Temple University, 1991. 
+- Higham, T, L Basell et al. “Τesting Models for the Beginnings of the Aurignacian and the Advent of Figurative Art and Music: The Radiocarbon Chronology of Geißenklösterle.” Journal of Human Evolution (2012) [Link](http://www.sciencedirect.com/science/article/pii/S0047248412000425)
+- Hill, Peter. The Messiaen Companion. Faber and Faber, 1994. [Link](http://www.amazon.com/The-Messiaen-Companion-Peter-Hill/dp/0571170331%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0571170331)
+- Hill, Peter & Simeone, Nigel. Messiaen. Yale University Press, 2005. 
+- Hillier, Paul. Arvo Part. Oxford: Oxford University Press, 1997. 
+- “Hillsong Annual Report.” 2014. 
+- Hitler, Adolf. “Speech Inaugurating the ‘Great Exhibition of German Art 1937’.” Theories of Modern Art: A Source Book By Artists and Critics. Ed. Herschel B. Chipp. Berkeley: University of California Press, 1968. 
+- Hoad, T.F. The Concise Oxford Dictionary of English Etymology. Oxford: Oxford University Press, 1996. 
+- Hodges, Donald A. “Bodily Responses to Music.” The Oxford Handbook of Music Psychology. Ed. Ian Cross Susan Hallam, Michael Thaut. Oxford University Press, 2009. [Link](https://books.google.ca/books?id=d-2DYVjNVpQC&printsec=frontcover#v=onepage&q&f=false)
+- Hodgson, Jay, Larry. Starr, and Christopher Alan Waterman. Rock : A Canadian Perspective. New York: Oxford University Press, 2012. [Link](http://www.loc.gov/catdir/enhancements/fy1210/2011035706-b.html
+http://www.loc.gov/catdir/enhancements/fy1210/2011035706-d.html
+http://www.loc.gov/catdir/enhancements/fy1210/2011035706-t.html)
+- Hoffmann, E.T.A. “Beethoven’s Instrumental Music [1813].” Source Readings in Music History. Ed. Oliver Strunk. New York: W.W. Norton and Company, 1950. 775-81. 
+- Holmes, Arthur F. Fact, Value, and God. Grand Rapids: Williams B. Eerdman’s, 1997. 
+- Holmes, Arthur Frank. Ethics, Approaching Moral Decisions. Vol. Contours of Christian philosophy Downers Grove, Ill., U.S.A.: InterVarsity Press, 1984. 
+- Holmes, Leslie. Communism: A Very Short Introduction. Oxford: Oxford University Press, 2009. 
+- Holmes, Thom. Electronic and Experimental Music, 2nd Edition. London: Routledge, 2002. 
+- Holmes, Thom., and Terence M. Pender. Electronic and Experimental Music : Technology, Music, and Culture. 4th ed. ed., New York: Routledge, 2012. 
+- Homer. “The Iliad.” 
+- Hosokawa, Shuhei. “The Walkman Effect.” Popular Music Vol. 4 (1984): 165-80. [Link](http://www.jstor.org/stable/853362)
+- Howard, Jay R. & Streck, John M. “The Splintered Art World of Contemporary Christian Music.” Popular Music Vol. 15, No. 1 (1996)
+- Howard, Luke. “Production Vs. Reception in Postmodernism: The Gorecki Case.” Postmodern Music / Postmodern Thought. Ed. Judy & Auner Lochhead, Joseph. New York ; London: Routledge, 2002. 372. 
+- Howells, Christina. “Sartre and Levinas.” The Provocation of Levinas: Rethinking the Other. Ed. Robert Bernasconi and David Wood. New York: Routledge, 1988. 
+- Hoy, David Couzens. Critical Resistance : From Poststructuralism to Post-Critique. Cambridge, Mass.: MIT Press, 2004. 
+- Hsia, R. Po-chia. A Companion to the Reformation World. Vol. Blackwell companions to European history Malden, MA: Blackwell Pub., 2004. [Link](http://www.h-net.org/review/hrev-a0e7i4-aa)
+- Hughes, Joe. Deleuze and the Genesis of Representation. New York: Continuum, 2008. [Link](http://ndpr.nd.edu/review.cfm?id=19407)
+- Huhn, Tom. “Introduction: Thoughts Beside Themselves.” Cambridge Companion to Adorno. Ed. Tom Huhn. Cambridge: Cambridge University Press, 2004. 1-18. 
+- Hullot-Kentor, Robert. “Right Listening and a New Type of Human Being.” The Cambridge Companion to Adorno. Ed. %. Cambridge UP, 2006. 
+- Hulse, Erroll. Postmodernism: Attack on the Heart of Christianity. Pensacola: Chapel Library, 2003. 
+- Hunefeldt, Thomas. “Semantic Dualism and Narrative Identityópaul Ricoeur on the Cognitive Sciences.” Cogn Process Vol 6 (2005): 153-56. 
+- Hunt, Arnold. “Mass Music for the Housewives’ Choice Crowd.” Church Times 7551 (2007) [Link](http://www.churchtimes.co.uk/content.asp?id=48128)
+- Husserl, Edmund. The Phenomenology of Internal Time-Consciousness. Bloomington: Indiana University Press, 1964. 
+- ———. Cartesian Meditations. [The Hague]: M. Nijhoff, 1965. 
+- ———. Phenomenology and the Crisis of Philosophy. New York: Harper and Row, 1965. 
+- Hustad, Donald P. Jubilate Ii: Church Music in Worship and Renewal. Carol Stream, IL: Hope Publishing Company, 1993. 
+- Huyssen, Andreas. After the Great Divide: Modernism, Mass Culture, Postmodernism. Indiana: Indiana University Press, 1986. [Link](http://isites.harvard.edu/fs/docs/icb.topic708723.files/Mass%20Culture%20as%20Woman.pdf)
+- “I Ching Book of Changes.” 
+- Ibsen, Henrik. Peer Gynt. Garden City, N.Y.: Doubleday, 1963. 
+- Idhe, Don. Listening and Voice: Phenomenologies of Sound, 2nd Edition. Albany: SUNY, 2007. [Link](http://audio.uni-lueneburg.de/texte/Idhe_listening_voice_phenomenologies.pdf)
+- Ihde, Don. “A Philosopher Listens.” Journal of Aesthetic Education Vol. 5, July.3 (1971): 69-76. [Link](http://www.jstor.org/stable/3331214)
+- ———. “Review of Joseph F. Smith’s the Experiencing of Musical Sound.” The Journal of Aesthetics and Art Criticism Vol. 40, Winter.2 (1981): 224-224. [Link](http://www.jstor.org/stable/430421)
+- ———. Heidegger’s Technologies: Postphenomenological Perspectives. Fordham University Press, 2010. 
+- Imada, Tadahiko. “The Japanese Sound Culture.” The Soundscape Newsletter Vol. 9 (1994)
+- independent.co.uk. “Egalité! Liberté! Sexualité!: Paris, May1968.” independent.co.uk (2008) [Link](http://www.independent.co.uk/news/world/europe/egalit-libert-sexualit-paris-may-1968-784703.html)
+- Ingalls, Monique. “Contemporary Worship Music.” Continuum Encyclopedia of Popular Music of the World. 2012. 
+- Ingalls, Monique Marie., Carolyn Landau, and Thomas Wagner. Christian Congregational Music : Performance, Identity and Experience., 2013. 
+- Ingram, Liz. “Bodily Presence - Explorations in Print Media.” (2008)
+- Inwood, Michael. Heidegger: A Very Short Introduction. Oxford: Oxford University Press, 1997. 
+- ———. A Heidegger Dictionary. New York: Blackwell Publishers, 1999. 
+- Ircam Research and Development Handbook., 2010. 
+- Irigaray, Luce. Between East and West : From Singularity to Community. New York : Columbia University Press, 2002. 
+- Irigaray, Luce. The Forgetting of Air in Martin Heidegger. Austin: University of Texas Press, 1999. 
+- Harper-Scott, J. P. E. “Elgar’s Deconstruction of the Belle ´ Epoque: Interlace Structures and the Second Symphony.” 
+- Jack Harvie-Clark, Nicholas Dobinson, Felix Larrieu. “Use of G and C50 for Classroom Design.”  [Link](http://www.fa2014.agh.edu.pl/fa2014_cd/article/RS/R03C_5.pdf)
+- Postanalytic and Metacontinental: Crossing Philosophical Divides. ed. James Chase Jack Reynolds, James Williams & (eds.), Edwin Mares, Continuum, 2010. 
+- Jackson, Julian, Anna-Louise. Milne, and James S. Williams. May 68 : Rethinking France’s Last Revolution. Houndmills, Basingstoke, Hampshire ; New York, NY: Palgrave Macmillan, 2011. 
+- Jackson, Mark Allan. “Is This Song Your Song Anymore?: Revisioning Woody Guthrie’s “this Land is Your Land”.” American Music 20 (2002): 249-76. [Link](http://www.jstor.org/stable/1350126)
+- Gibson, James J. “The Ecological Approach to the Visual Perception of Pictures.”  [Link](http://thehangedman.com/teaching-files/ccc/gibson.pdf)
+- ———. “The Theory of Affordances.”  [Link](http://courses.media.mit.edu/2004spring/mas966/Gibson%20Theory%20of%20Affordances.pdf
+
+http://cs.brown.edu/courses/cs137/readings/Gibson-AFF.pdf)
+- James Jordan, Mark Moliterno, Nova Thomas. The Musician’s Breath: The Role of Breathing in Human Expression. Chicago: GIA Publications, 2011. [Link](https://www.giamusic.com/search_details.cfm?title_id=16591)
+- James, William. Essays on Faith and Morals. Cleveland: World Pub. Co., 1962. 
+- Jameson, Fredric. Marxism and Form. New Jersey: Princeton University Press, 1971. 
+- ———. Postmodernism, or, the Cultural Logic of Late Capitalism. Durham: Duke University Press, 1991. 
+- Janaro, Richard Paul., and Thelma C. Altshuler. The Art of Being Human : The Humanities as a Technique for Living. 10th ed. ed., Boston: Pearson, 2012. 
+- Jankelevitch, Vladimir. Music and the Ineffable. Princeton, N.J.: Princeton University Press, 2003. 
+- Jankelevitch, Vladimir & Hobart, Ann. “Do Not Listen to What They Say, Look At What They Do.” Critical Inquiry Vol. 22, Spring.3 (1996): 549-51. [Link](http://www.jstor.org/stable/1344022)
+- Jankelevitch, Vladimir; Davidson, Arnold I. & Knezevic, Nancy R. “Pelleas and Penelope.” Critical Inquiry Vol. 26, Spring.3 (2000): 584-90. [Link](http://www.jstor.org/stable/1344295)
+- Järviö, Päivi. “Music Moves in Me – the Singing Body as Interior Movement.” Embodiment of Authority Conference. 2010. [Link](http://www.siba.fi/web/embodimentofauthority/proceedings/jarvio.)
+- Jay, Martin. “Is Experience Still in Crisis? Reflections on a Frankfurt School Lamentation.” The Cambridge Companion to Adorno. Ed. Tom Huhn. Cambridge: Cambridge University Press, 2004. 129-47. 
+- Jean, Al, Mike Reiss Joshua Sternin Jeffrey Ventimilia. “The Simpsons Archive: Episode 2f32, ‘Round Springfield’.” (1995) [Link](http://www.snpp.com/episodes/2F32.html)
+- Jeffries, Stuart. “Alain Badiou: A Life in Writing.” The Guardian (2012) [Link](http://www.theguardian.com/culture/2012/may/18/alain-badiou-life-in-writing)
+- Jenks, Charles. What is Postmodernism? London: Academy Editions, 1986. 
+- FRAZIER, JESSICA. “Beautiful Structures: Gadamer on Beauty, Love, Faith, and the Nature of Value.” Transpositions - Theology, Imagination and the Arts  [Link](http://www.transpositions.co.uk/beautiful-structures-gadamer-on-beauty-love-faith-and-the-nature-of-value/)
+- Sleeper, Jim. “How Yale Becomes More Confucian, Rather Than Singapore More Civic-Republican.” 2012. [Link](http://www.opendemocracy.net/jim-sleeper/how-yale-becomes-more-confucian-rather-than-singapore-more-civic-republican)
+- Renkema, Joe Karaganis Lennart. Copy Culture. New York: The American Assembly, Columbia University, 2013. [Link](http://piracy.americanassembly.org)
+- Blanchard, John. Pop Goes the Gospel., 1990. 
+- Croft, John. “Composition is Not Research.” Tempo (2015)
+- ———. “Composition is Not Research.” Tempo 69/272 (2015): 6-11. [Link](http://bura.brunel.ac.uk/bitstream/2438/10922/3/Fulltext.pdf)
+- Harris, John. “The Survival Lottery.” 
+- Johns, Adrian. Piracy: The Intellectual Property Wars From Gutenberg to Gates., 2009. 
+- Johnson, Bruce. “Jazz as Cultural Practice.” The Cambridge Companion to Jazz. Ed. Mervyn & Horn Cook, David. Cambridge: Cambridge University Press, 2002. 96-113. 
+- Johnson, Julian. Who Needs Classical Music? Cultural Choice and Musical Values. Oxford: Oxford University Press, 2002. 
+- Johnson, Mark. The Meaning of the Body: Aesthetics of Human Understanding. Chicago: University of Chicago Press, 2007. 
+- Johnston&Pye-Matheson. “First Generation Report.” (2011)
+- Jones, Elizabeth. “The Case Against Objectifying Art.” Creativity Research Journal Vol 10, Nos 2&3 (1997): 207-14. 
+- Jones, Elizabethc. “The Emergence of Emergent Curriculum.” Young Children March (2012) [Link](http://www.naeyc.org/yc/article/the-emergence-of-emergent-curriculum)
+- Jones, LeRoi (Amiri Baraka. Blues People. New York: Quill, 1963. 
+- Conrad, Joseph. “The Secret Sharer and Other Stories.” 
+- Joyner, David Lee. American Popular Music. 3rd ed. ed., Boston: McGraw-Hill Higher Education, 2008. [Link](http://www.loc.gov/catdir/enhancements/fy0834/2008020430-d.html
+http://www.loc.gov/catdir/enhancements/fy0834/2008020430-t.html)
+- Judaken, Jonathan, and Robert. Bernasconi. Situating Existentialism : Key Texts in Context. New York: Columbia University Press, 2012. [Link](http://ndpr.nd.edu/news/36659-situating-existentialism-key-texts-in-context/)
+- Thomson, Judith Jarvis. “A Defense of Abortion.” Philosophy and Public Affairs Vol. 1, No. 1 (1971): 47-66. [Link](http://www.jstor.org/stable/2265091)
+- ———. “The Trolley Problem.” The Yale Law Journal Vol. 94, No. 6 (1985): 1395-415. [Link](http://www.jstor.org/stable/796133)
+- Jukka Patynenana, Tapio Lokki. “Concert Halls With Strong and Lateral Sound Increase the Emotional Impact of Orchestra Music.” Acoustical Society of America (2016) [Link](http://dx.doi.org/10.1121/1.4944038)
+- Jung, Kevin. Christian Ethics and Commonsense Morality : An Intuitionist Account. First edition. ed., 2015. 
+- Kahn-Harris, Keith. Extreme Metal : Music and Culture on the Edge. Oxford ; New York: Berg, 2007. [Link](http://www.loc.gov/catdir/enhancements/fy0667/2006027931-t.html)
+- Kahn, Ashley. Kind of Blue : The Making of the Miles Davis Masterpiece. London: Granta Books, 2000. 
+- Kahn, Douglas. Noise Water Meat: A History of Sound in the Arts. Cambridge, Mass.: MIT Press, 1999. 
+- ———. Earth Sound Earth Signal : Energies and Earth Magnitude in the Arts., 2013. 
+- Kalinak, Kathryn Marie. Film Music : A Very Short Introduction. New York: Oxford University Press, 2010. [Link](http://elearn.uni-sofia.bg/pluginfile.php/123153/mod_resource/content/1/Film%20Music_%20A%20Very%20Short%20Introduction%20%28V%20-%20Kathryn%20Kalinak.pdf)
+- Kandinsky, Wassily. On the Spiritual in Art. New York: Guggenheim Foundation, 1946. 
+- Kandinsky, Wassily & Vergo, Peter. Kandinsky: Complete Writings on Art. New York: De Capo Press, 1994. 
+- Kania, Andrew. “The Philosophy of Music.” V URL = <http://plato.stanford.edu/archives/fall2010/entries/music/> (2010)
+- Kant, Immanuel. Critique of Pure Reason. New York: Prometheus Books, 1990. 
+- ———. Critique of Judgment. New Yorkd: Dover Publications, 2005. 
+- Kant, Immanuel, James W. Ellington, and Immanuel Kant. Grounding for the Metaphysics of Morals ; With, on a Supposed Right to Lie Because of Philanthropic Concerns. 3rd ed. ed., Indianapolis: Hackett Pub. Co., 1993. [Link](http://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf)
+- Fischer, Karin. “Bucking Cultural Norms, Asia Tries Liberal Arts.” The Chronicle of Higher Education 5 Feb (2012) [Link](http://chronicle.com/article/Bucking-Cultural-Norms-Asia/130667/?key=Tz0mIAFgMnQQNCxjbjsWZ21QOidrYktzN3dOaSoiblxQGQ%3D%3D)
+- ———. “Yale Scholar Will be First President of New Institution in Singapore.” The Chronicle of Higher Education 30 May (2012) [Link](http://chronicle.com/article/article-content/132036/)
+- Karp, Theodore. Dictionary of Music. New York: Galahad Books, 1973. 
+- Katz, Claire Elise. Levinas and the Crisis of Humanism. Bloomington: Indiana University Press, 2013. 
+- Kauenhoven, Reinhild. “The Musée National Du Rwanda: Surviving the War.” African Arts Vol. 28, No. 3 (1995): 62-3, 92. 
+- Kaufmann, Walter, ed. Existentialism From Dostoevsky to Sartre. New York: Meridian, 1975. 
+- Kearney, Richard. On Stories. London: Routledge, 2002. [Link](https://exchangingnarratives.files.wordpress.com/2011/09/where-do-stories-come-from.pdf)
+- Keil, Charles & Feld, Steven. Music Grooves : Essays and Dialogues. Tucson, Ariz.: Fenestra, 2005. 
+- Shadwick, Keith. The Encyclopedia of Jazz and Blues. 
+- Kelly, Michael. “A Critique of Gadamer’s Aesthetics.” Gadamer’s Repercussions. Ed. Bruce Krajewski. Los Angeles: University of California Press, 2004. 
+- Kelly, Michael, ed. Encyclopedia of Aesthetics. Oxford: Oxford UP, 1998. 
+- Kemal, Salim. Kant and Fine Art. New York: Oxford University Press, 1986. 
+- Kennedy, Christina B., James L. Sell Ervin H. Zube. “Aesthetics and Geography.” Environmental Review Vol. 12, No. 3 (1988): 31-55. 
+- Kerman, Joseph. “How We Got Into Analysis, and How to Get Out.” Critical Inquiry Vol VII, No 2, Winter (1980)
+- ———. Contemplating Music: Challenges to Musicology. Cambridge, Mass.: Harvard University Press, 1985. [Link](http://hdl.handle.net/2027/heb.06263.0001.001)
+- Kierkegaard. Fear and Trembling. New York: Penguin Books, 1985. 
+- Kierkegaard, Soren. Fear and Trembling ; Repetition. ed. Howard Vincent & Hong Hong, Edna Hatlestad, Vol. 6 Princeton, N.J.: Princeton University Press, 1983. 
+- Kim-Cohen, Seth. In the Blink of an Ear : Towards a Non-Cochlear Sonic Art. New York: Continuum, 2009. [Link](http://www.kim-cohen.com/seth_texts/In%20The%20Blink%20of%20an%20Ear_Introduction_extract.pdf)
+- Kimball, Bruce A. Orators and Philosophers: A History of the Idea of Liberal Arts. New York: Teachers College Press, 1986. 
+- Kimbell, Lucy. “The Object Strikes Back: An Interview With Graham 
+Harman.” Design and Culture Vol. 5 No.1 (2013)
+- Kinderman, William., and Joseph E. Jones. Genetic Criticism and the Creative Process : Essays From Music, Literature, and Theater. Rochester, NY: University of Rochester Press, 2009. 
+- King, Elaine. “Supporting Gestures: Breathing in Piano Performance.” Music and Gesture. Ed. Anthony & King Gritten, Elaine. Aldershot: Ashgate, 2006. 
+- King, Magda. A Guide to Heidegger’s Being and Time. New York: SUNY, 2001. 
+- Kinnear, Tyler. “Introduction to Special Issue: “Sound, Environment, and Action”.” Music and Politics Vol 8, no 2 (2014) [Link](http://quod.lib.umich.edu/m/mp/)
+- Kitson, C.H. Counterpoint for Beginners. Oxford: Oxford UP, 1927. 
+- Kivy, Peter. Music Alone. Ithica, NY: Cornell University Press, 1990. 
+- ———. The Fine Art of Repetition. Cambridge: Cambridge University Press, 1993. 
+- ———. Antithetical Arts: On the Ancient Quarrel Between Literature and Music. Oxford: Oxford University Press, 2009. 
+- Klein, Naomi. No Logo. New York: Picador, 2002. 
+- Kleist, Heinrich von. The Marquise of O– and Other Stories. Harmondsworth: Penguin, 1978. 
+- Knabb, Ken [editor and translator. Situationalist International Anthology. The Bureau of Public Secrets, California, 1981. [Link](http://www.amazon.co.uk/Situationalist-International-Anthology-editor-translator/dp/B0010PGOJ0%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0010PGOJ0)
+- Kondo, Dorinne. “The Way of Tea: A Symbolic Analysis.” Man, New Series Vol. 20, No. 2 (1985)
+- Korsyn, Kevin. “Beyond Privileged Contexts: Intertextuality, Influence, and Dialogue.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 55-72. 
+- Koskoff, Ellen. “What Do We Want to Teach When We Teach Music? One Apology, Two Short Trips, Three Ethical Dilemmas, and Eighty-Two Questions.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- Kostelanetz, Richard. The New American Arts. New York: Horizon Press, 1965. 
+- Kostka, Stefan M. & Payne. Tonal Harmony, With an Introduction to Twentieth-Century Music. Boston ; London: McGraw-Hill, 2004. 
+- Kouwenhoven, Frank. “Meaning and Structure: The Case of Chinese Qin (Zither) Music.” British Journal of Ethnomusicology 10.1 (2001): 39-62. [Link](http://www.jstor.org/stable/3060771)
+- Kramer, Jonathan D. “The Nature and Origins of Musical Postmodernism.” Postmodern Music / Postmodern Thought. Ed. Judy & Auner Lochhead, Joseph. New York: Routledge, 2002. 13-26. 
+- Kramer, Lawrence. Music as Cultural Practice, 1800-1900. Berkeley: University of California Press, 1990. 
+- ———. Classical Music and Postmodern Knowledge. Berkeley, Calif.; London: University of California Press, 1995. 
+- ———. Franz Schubert: Sexuality, Subjectivity, Song. Cambridge: Cambridge University Press, 1998. 
+- ———. Musical Meaning : Toward a Critical History. Berkeley, Calif.; London: University of California Press, 2002. 
+- ———. “Subjectivity Rampant: Music, Hermeneutics, and History.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- ———. Why Classical Music Still Matters. Berkeley, Calif.; London: University of California Press, 2007. 
+- Kramer, Robert W. & Kondo, Dorinne. “The Way of Tea.” Man, New Series Vol. 21, No. 3 (1986)
+- Kramnick, Isaac. The Portable Enlightenment Reader. Vol. The Viking portable library New York: Penguin Books, 1995. 
+- Krell, David Farrell. “Phenomenology of Memory From Husserl to Merleau-Ponty.” Philosophy and Phenomenological Research 42.4 (1982): 492-505. [Link](http://www.jstor.org/stable/2107372)
+- Krims, Adam. “Disciplining Deconstruction (for Music Analysis).” 19th Century Music Vol. 21, No. 3 (1998)
+- Krims, Clarke, Spitzer Thorau. “Musical Meaning and Its Signs.” (2008)
+- Krueger, Carol J. Progressive Sight Singing. 2nd ed. ed., New York: Oxford University Press, 2011. 
+- Kübler-Ross, Elisabeth. On Death and Dying. [New York]: Macmillan, 1969. 
+- Kuhn, Thomas S. The Structure of Scientific Revolutions, Second Edition. University of Chicago Press, 1970. 
+- Kunik, Mark E., Kent Roundy, Connie Veazey, Julianne Souchek, Peter Richardson, Nelda P. Wray and Melinda A. Stanley. “Surprisingly High Prevalence of Anxiety and Depression in Chronic Breathing Disorders.” Chest Vol. 127 (2005): 1205-11. [Link](http://chestjournal.chestpubs.org/content/127/4/1205.full.html)
+- Kunz, George. The Paradox of Power and Weakness : Levinas and an Alternative Paradigm for Psychology. Vol. SUNY series, alternatives in psychology Albany: State University of New York Press, 1998. 
+- Kutschke, Beate., and Barley Norton. Music and Protest in 1968. New York: Cambridge University Press, 2013. [Link](http://www.loc.gov/catdir/enhancements/fy1214/2012028037-b.html
+http://www.loc.gov/catdir/enhancements/fy1214/2012028037-d.html
+http://www.loc.gov/catdir/enhancements/fy1214/2012028037-t.html)
+- La Croix, Richard, ed. Augustine on Music. New York: The Edwin Mellen Press, 1988. 
+- LaBelle, Brandon. Acoustic Territories : Sound Culture and Everyday Life. New York: Continuum, 2010. 
+- Lacan, Jacques. Ecrits. New York: Norton, 1977. 
+- Laing, Dave. “Music and the Market: The Economics of Music in the Modern World.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Laitz, Steven G. The Complete Musician : An Integrated Approach to Tonal Theory, Analysis, and Listening. 3rd ed. ed., New York: Oxford University Press, 2012. 
+- Lakoff, George., and Mark Johnson. Metaphors We Live By. Chicago: University of Chicago Press, 1980. [Link](http://www.loc.gov/catdir/description/uchi051/80010783.html
+http://www.loc.gov/catdir/bios/uchi051/80010783.html
+http://www.loc.gov/catdir/toc/uchi051/80010783.html)
+- Zuidervaart, Lambert. “Ethical Turns: Adorno Defended Against His Devotees.” Symposium: A Quarterly Journal in Modern Foreign Literatures (2008)
+- Landgrebe, Ludwig. “The Phenomenological Concept of Experience.” Philosophy and Phenomenological Research Vol. 34, No. 1 (1973): 1-13. [Link](http://www.jstor.org/stable/2106776)
+- Lang, Bernhard. Sacred Games: A History of Christian Worship. London: Yale University Press, 1997. 
+- Lang, Paul Henry. Music in Western Civilization. New York: W.W. Norton and Co., 1941. 
+- Langer, Susanne K. Feeling and Form. London: Routledge and Kegan Paul Limited, 1953. 
+- Langer, Susanne Katherina Knauth. Philosophy in a New Key; a Study in the Symbolism of Reason, Rite and Art. Cambridge: Harvard University Press, 1951. 
+- Larmore, Charles E. The Morals of Modernity. Cambridge: Cambridge University Press, 1996. 
+- Larson, Bob. Rock and the Church. Illinois: Creation House, Inc., 1971. 
+- Redhead, Lauren. “Relational Aesthetics and the Western Canon of Increasingly Historical Works.” British Postgraduate Musicology Volume 11 (2011)
+- Leach, Elizabeth Eva. “Vicars of ‘Wannabe’: Authenticity and the Spice Girls.” Popular Music 20 (2001): 143-67. [Link](http://www.jstor.org/stable/853649)
+- Ledoux. “From the Philosophical to the Practical: An Imaginary Proposition Concernirıg the Music of Tristan Murail.” Contemporary Music Review 
+- Lee Archie, John G. Archie. Introduction to Ethical Studies: An Open Source Reader., 2003. 
+- Leppert, Richard & Susan McLary, eds. Music and Society: The Politics of Composition, Performance and Reception. Cambridge: Cambridge UP, 1989. 
+- Lerdahl, Fred & Jackendoff, Ray. A Generative Theory of Tonal Music. Cambridge, Massachusetts: MIT Press, 1983. 
+- Lesage, Frédérik. “Review: Ian Bogost (2012) Alien Phenomenology, 
+or Whatit’s Like to be a Thing.” Culture Machine (2012) [Link](www.culturemachine.net)
+- Lescourret, Anne Maria. Emmanuel Levinas. Paris: Flammarion, 1994. 
+- Bryant, Levi R. “Thoughts on Posthumanism.” 2012. [Link](https://larvalsubjects.wordpress.com/2012/11/10/thoughts-on-posthumanism)
+- Lévinas, Emmanuel. “The Transcendence of Words.” The Levinas Reader. Ed. Sean Hand. 
+- ———. Is it Righteous to be?: Interviews With Emmanuel Levinas (Meridian: Crossing Aesthetics) By Levinas, Emmanuel (2002) Paperback. Stanford University Press, 1100. [Link](http://www.amazon.com/Is-Righteous-Interviews-Aesthetics-Paperback/dp/B00NYLQVGO%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NYLQVGO)
+- ———. Totality and Infinity. Pittsburgh, Pennsylvania: Duquesne University Press, 1969. [Link](http://m.friendfeed-media.com/48926eed43741a4e07a8241b7ee87bd55b666514)
+- ———. Autrement Qu’Être, Ou, Au-Delà De L’Essence. La Haye, M. Nijhoff, 1974. 
+- ———. Otherwise Than Being. Pittsburgh: Duquesne University Press, 1981. 
+- ———. “Meaning and Sense.” Collected Philosophical Papers. Ed. Alphonso Lingis. Boston: Martinus Nijhoff Publishers, 1987. 
+- ———. “Philosophy and the Idea of Infinity.” Collected Philosophical Papers. Ed. Alphonso Lingis. Lancaster: Martinus Nijhoff Publishers, 1987. 
+- ———. “Ethics as First Philosophy.” The Levinas Reader. Ed. Sean Hand. Oxford: Blackwell, 1989. 
+- ———. “Reality and it’s Shadow.” The Levinas Reader. Ed. Sean Hand. Oxford: Blackwell, 1989. 129-43. 
+- ———. The Levinas Reader. ed. Sean Hand, Oxford: Blackwell, 1989. 
+- ———. “The Servant and Her Master.” The Levinas Reader. Ed. Sean Hand. Oxford: Blackwell, 1989. 
+- ———. Difficult Freedom. New York: Athlone Press, 1990. 
+- ———. Nine Talmudic Readings. Bloomington: Indiana University Press, 1990. 
+- ———. Proper Names. Stanford: Stanford University Press, 1996. 
+- ———. Entre Nous: Thinking-of-the-other. London: Continuum, 1998. 
+- ———. Alterity and Transcendence. New York: Columbia University Press, 1999. [Link](http://monoskop.org/images/e/eb/Levinas_Emmanuel_Alterity_and_Transcendence_1999.pdf)
+- ———. God, Death, and Time. Stanford University Press, 2000. 
+- ———. Existence and Existents. Pittsburgh, Pennsylvania: Duquesne University Press, 2001. 
+- ———. On Escape. Stanford: Stanford University Press, 2003. 
+- ———. In the Time of Nations. ed. Michael B. Smith, New York: Continuum, 2007. 
+- ———. Humanism of the Other /. Urbana ; Chicago : University of Illinois Press, 2003. 
+- ———. “Trace of the Other.” 
+- ———. Existence and Existents. Trans. Alphonso Lingis. London: Kluwer Academic Publishers, 1978. 
+- ———. “Humanism and an-Archy.” Trans. Alphonso Lingis. Collected Philosophical Papers. Dordrecht: Martinus Nijhoff Publishers, 1987. 
+- ———. “Reflections on the Philosophy of Hitlerism.” Reflections on the Philosophy of Hitlerism Vol. 17, No. 1 (1990): 63-71. 
+- Lévinas, Emmanuel. The Theory of Intuition in Husserl’s Phenomenology. Vol. Northwestern University studies in phenomenology & existential philosophy Evanston [Ill.]: Northwestern University Press, 1973. 
+- Lévinas, Emmanuel., and Philippe Nemo. Ethics and Infinity. 1st ed. ed., Pittsburgh: Duquesne University Press, 1985. 
+- Lévinas, Michaël. “La Métamorphose.” [Link](http://www.ictus.be/metamorphose)
+- ———. “Notes From Recordings- Make Individual Entries Later.” 
+- ———. “Interview With Michaël Lévinas.” 2011. [Link](http://ictusensemble.blogspot.ca/2011/01/un-entretien-avec-michael-levinas.html)
+- ———. “Arsis Et Thesis, or La Chanson Du Souffle.” (1971)
+- ———. “Transients of Attack and Hybrid Sounds: Toward a New Mixity.” Leonardo Music Journal 4 (1994): 13-15. [Link](http://www.jstor.org/stable/1513175)
+- ———. “Qu’Est-Ce Que L’Instrumental?” Le Compositeur Trouvère: Écrits Et Entretiens (1982-2002). Paris: L’Harmattan, 2002. 
+- ———. “Mon Pere Pensait Une Esthetique De L’Extraordinaire.” Magazine Litteraire Vol. 419 (2003): 48-50. 
+- ———. “La Chanson Du Souffle, Une Èpiphanie Du Visage.” (2006) [Link](http://www.michaellevinas.com/entretien.html)
+- ———. “Discours De M. Micha”l Levinas ‡ L’Occasion De Son Installation ‡ L’Acadèmie Des Beaux-Arts Le Mercredi 15 Juin 2011, Au Fauteuil De Jean-Louis Florentz.” (2011) [Link](http://www.academie-des-beaux-arts.fr/membres/actuel/musique/Levinas/discours_levinas_2011.pdf)
+- ———. “Double Face.” 2011. 
+- Lévinas, Michaël, and PA Castanet. Le Compositeur Trouvère: Écrits Et Entretiens (1982-2002). Paris: L’Harmattan, 2002. 
+- Levinson, Jerrold. Aesthetics and Ethics : Essays At the Intersection. Vol. Cambridge studies in philosophy and the arts Cambridge, U.K.; New York: Cambridge University Press, 1998. [Link](http://www.loc.gov/catdir/description/cam028/97021284.html
+http://www.loc.gov/catdir/toc/cam025/97021284.html)
+- Levitin, Daniel J. This is Your Brain on Music : The Science of a Human Obsession. New York, N.Y.: Dutton, 2006. 
+- ———. “Life Soundtracks: The Uses of Music in Everyday Life.” (2007) [Link](http://www.yourbrainonmusic.com/)
+- Lewin, David. “Music Theory, Phenomenology, and Modes of Music Perception.” Music Perception Vol. 3, No. 4 (1986): 327-92. 
+- Lewis, C.S. The Quotable Lewis. Wheaton: Tyndale House Publishers, 1989. 
+- ———. An Experiment in Criticism. Cambridge: Cambridge UP, 1992. 
+- ———. Christian Reflections. Grand Rapids: Eerdmans, 1995. 
+- Lewis, Ed. “Conversation.” 
+- Lewis, Justin. “Advertising.”  [Link](http://www.opendemocracy.net/ourkingdom/justin-lewis/power-of-advertising-%E2%80%93-threat-to-our-way-of-life)
+- Lewis, Nghana. “”You Sell Your Soul Like You Sell a Piece of Ass”: Rhythms of Black Female Sexuality and Subjectivity in Meshell Ndegeocello’s “cookie: The Anthropological Mixtape”.” Black Music Research Journal 26 (2006): 111-30. [Link](http://www.jstor.org/stable/25433764)
+- Liebling, Emil. Essentials of Music. New York: Irving Squire, 1910. 
+- Limb, Charles J., Allen R. Braun. “Neural Substrates of Spontaneous Musical Performance: An Fmri Study of Jazz Improvisation.” PLoS ONE Vol. 3, no.2 (2008) [Link](doi:10.1371/journal.pone.0001679)
+- Lingis, Alphonso. “The Imperative.” 
+- Lippincott, Bruce. “Aspects of the Jam Session.” Riffs and Choruses : A New Jazz Anthology. Ed. Andrew Clark. London: Continuum, 2001. 486. 
+- Lipsitz, George. Class and Culture in Cold War America : A Rainbow At Midnight. South Hadley; N.Y.: Praeger; J.F. Bergin, 1981. 
+- ———. Time Passages : Collective Memory and American Popular Culture. Minneapolis: University of Minnesota Press, 1989. 
+- ———. Dangerous Crossroads : Popular Music, Postmodernism and the Poetics of Place. New York: Verso, 1994. 
+- Liszt, Franz. “From Berlioz and His ‘Harold’ Symphony, 1855.” Source Readings in Music History. Ed. Oliver Strunk. New York: W.W. Norton and Company, 1950. 846-73. 
+- Llewelyn, John. Emmanuel Levinas: The Genealogy of Ethics. London: Routledge, 1995. 
+- Lochhead, Judy. “Joan Tower’s Wings and Breakfast Rhythms I and Ii: Some Thoughts on Form and Repetition.” Perspectives of New Music Vol. 30, No. 1, Winter (1992)
+- Lochhead, Judy & Joseph Auner, eds. Postmodern Music / Postmodern Thought. New York: Routledge, 2002. 
+- Locke, Ralph P. “Musicology and/as Social Concern: Imagining the Relevant Musicologist.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 499-530. 
+- Lodge, Martin. “Music Historiography in New Zealand.” Music’s Intellectual History. Ed. Zdravko Blazekovic. New York: RILM, 2009. 625-32. 
+- Lomax, Alan. The Land Where the Blues Began. 1st ed. ed., New York: Pantheon Books, 1993. [Link](http://www.loc.gov/catdir/description/random0410/91052627.html)
+- Long, Marshall. Architectural Acoustics. Amsterdam ; Boston: Elsevier/Academic Press, 2005. [Link](http://books.google.ca/books?id=MnYUfErtBGEC&source=gbs_book_similarbooks)
+- Loomis, Louise Ropes, ed. The Odyssey of Homer. New York: Walter J. Black, Inc., 1944. 
+- López, Francisco. “Profound Listening and Environmental Sound Matter.” Audio Culture: Readings in Modern Music. Ed. Christopher & Daniel Warner Cox. New York: Continuum, 2004. 
+- Thaler, Lore. “Using Sound to Get Around Discoveries in Human Echolocation.” Psychological Science Dec 15, 2015  [Link](http://www.psychologicalscience.org/index.php/publications/observer/2015/december-15/using-sound-to-get-around.html)
+- Lornell, Kip. From Jubilee to Hip Hop : Readings in African American Music. Upper Saddle River, NJ: Prentice Hall, 2010. 
+- Love, Stefan Caris. “The Jazz Solo as Virtuous Act.” The Journal of Aesthetics and Art Criticism Vol 74 No 1 (2016)
+- Loza, Susana. “Sampling (Hetero)sexuality: Diva-Ness and Discipline in Electronic Dance Music.” Popular Music 20 (2001): 349-57. [Link](http://www.jstor.org/stable/853626)
+- Ludwig, Theodore M. “The Way of Tea: A Religio-Aesthetic Mode of Life.” History of Religoins 14 (1974): 28-50. 
+- ———. “Before Rikyu: Religious and Aesthetic Influences in the Early History of the Tea Ceremony.” Monumenta Nipponica 36 (1981): 367-90. 
+- Lund, Jens, and R. Serge Denisoff. “The Folk Music Revival and the Counter Culture: Contributions and Contradictions.” The Journal of American Folklore 84 (1971): 394-405. [Link](http://www.jstor.org/stable/539633)
+- Luther, Martin. “A Commentary on Saint Paul’s Epistle to the Galatians.”  [Link](https://archive.org/details/cu31924029294141)
+- ———. Concerning Christian Liberty. 
+- ———. “Wittemberg Gesangbuch.” Source Readings in Music History. Ed. Oliver Strunk. New York: W.W. Norton & Co., 1950. 
+- Machiavelli, Niccolo. The Art of War. New York: Penguin, 1979. 
+- ———. The Prince. New York: Signet Classic, 1999. 
+- Machlis, Joseph, and Kristine. Forney. The Enjoyment of Music : An Introduction to Perceptive Listening. 9th ed., shorter. ed., New York: W.W. Norton, 2003. 
+- MacIntyre, Alasdair C. A Short History of Ethics : A History of Moral Philosophy From the Homeric Age to the Twentieth Century. 2nd ed. ed., Notre Dame, Ind.: University of Notre Dame Press, 1998. 
+- MacMillan, James. “God, Theology and Music.” Composing Music for Worship. Ed. Stephen & Kreider Darlington, Alan. London: Canterbury Press, 2003. 
+- ———. “James Macmillan Study Day, Wigmore Hall, 9 May 2009.” (2009)
+- Mahabir, Cynthia. “The Rise of Calypso Feminism: Gender and Musical Politics in the Calypso.” Popular Music 20 (2001): 409-30. [Link](http://www.jstor.org/stable/853630)
+- Malka, Salomon. Emmanuel Levinas: His Life and Legacy. Duquesne University Press, 2006. 
+- Manderson, Desmond, ed. Essays on Levinas and Law: A Mosaic. New York: Palgrave Macmillan, 2009. [Link](http://ndpr.nd.edu/review.cfm?id=16327)
+- Mann, Thomas, and H. T. Lowe-Porter. Death in Venice and Seven Other Stories. New York: The Modern Library, 1992. [Link](http://www.loc.gov/catdir/bios/random056/92025325.html
+http://www.loc.gov/catdir/description/random0412/92025325.html)
+- Marcel Cobussen, Vincent Meelberg. “Editorial: Listenings.” Journal of Sonic Studies volume 2, nr. 1 (2012) [Link](http://journal.sonicstudies.org/vol02/nr01/a01)
+- Proust, Marcel. Complete Works of Marcel Proust. Delphi Classics. 
+- Marchenkov, Vladimir L. The Orpheus Myth and the Powers of Music. New York: Pendragon Press, 2009. [Link](http://hdl.handle.net/2027/heb.07749.0001.001)
+- Marcus Aurelius, Lucian, Justin Martyr Walter Pater. Marcus Aurelius and His Times: The Transition From Paganism to Christianity. New York: Walter J. Black, Inc., 1945. 
+- Marcus, Greil. Mystery Train: Images of America in Rock ‘N’ Roll Music. New York: E. P. Dutton, 1975. 
+- Marcus, Greil. Lipstick Traces : A Secret History of the Twentieth Century. Cambridge, Mass.: Harvard University Press, 1989. [Link](http://www.cwrl.utexas.edu/~burdette/projects/readings/marcus_lipstick_traces.pdf)
+- Marcuse, Herbert. The Aesthetic Dimension : Toward a Critique of Marxist Aesthetics. Boston: Beacon Press, 1978. 
+- ———. The Aesthetic Dimension: Towards a Critique of Merxist Aesthetics. Boston: Beacon Press, 1978. 
+- Marion, Jean-Luc. The Reason of the Gift. Charlottesville: University of Virginia Press, 2011. 
+- ———. “The Phenomenological Origin of the Concept of Givenness.” 
+- Marion, Jean-Luc, Thomas A. Carlson, and David. Tracy. God Without Being : Hors-Texte. Second edition. ed., 2012. 
+- Marshall, Donald. “Dialogue and Ecriture.” Dialogue and Deconstruction : The Gadamer-Derrida Encounter. Ed. Diane P. & Palmer Michelfelder, Richard E. Albany: State University of New York Press, 1989. 206-14. 
+- Dixon, Martin. “Echo’s Body: Play and Representation in Interactive Music Software.” Contemporary Music Review Vol. 25, No. 1/2 (2006): pp. 17 - 25. 
+- Martin, George C. The Book of Common Praise, Being the Hymn Book of the Church in England in Canada. Oxford Toronto: Printed at thie University Press Henry Frowde, 1909. 
+- Marx, Karl. Capital. Vol. I, II Penguin Books, 1976. 
+- ———. “Manifesto of the Communist Party.” The Marx-Engels Reader. Ed. Robert C. Tucker. New York: W.W. Norton & Co., 1978. 469-500. 
+- Mathews, William Smythe Babcock. How to Understand Music: A Concise Course in Musical Taste and Intelligence. Chicago: Lyon and Healy, 1881. [Link](http://www.archive.org/stream/howtounderstand00mathgoog#page/n7/mode/1up)
+- Maus, Fred Everett. “Concepts of Musical Unity.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 171-92. 
+- ———. “Glamour and Evasion: The Fabulous Ambivalence of the Pet Shop Boys.” Popular Music Vol. 20, No. 3 (2001) [Link](http://www.jstor.org/stable/853628)
+- ———. “Somaesthetics of Music.” Action, Criticism and Theory for Music Education Vol. 9, No. 1 (2010): 10-25. 
+- May, Todd. Gilles Deleuze : An Introduction. Cambridge: Cambridge University Press, 2005. 
+- ———. Death. New York: Acumen, 2009. 
+- Mayuzumi, Kimine. “The Tea Ceremony as a Decolonizing Epistemology.” Journal of Transformative Education Vol. 4, No. 1 (2006)
+- Mazullo, Mark. “Revisiting the Wreck: Pj Harvey’s Dry and the Drowned Virgin-Whore.” Popular Music 20 (2001): 431-47. [Link](http://www.jstor.org/stable/853631)
+- McAdams, Stephen, Philippe Depalle, and Eric Clarke. “Analysing Musical Sound.” Empirical Musicology : Aims, Methods, Prospects. Eds. Eric F. Clarke, and Nicholas Cook. Oxford: Oxford University Press, 2004. 
+- McCaslin, Donny. “Casting for Gravity.” (2012)
+- McClary, Susan. “Terminal Prestige: The Case of Avant-Garde Music Composition.” Cultural Critique Spring.12 (1989): 57-81. [Link](http://www.jstor.org/stable/1354322)
+- ———. Feminine Endings : Music, Gender, and Sexuality. Minneapolis: University of Minnesota Press, 1991. 
+- McClary, Susan, and Robert Walser. “Theorizing the Body in African-American Music.” Black Music Research Journal 14 (1994): 75-84. [Link](http://www.jstor.org/stable/779459)
+- McClary, Susan & Walser, Robert. “Start Making Sense!” On Record : Rock, Pop, and the Written Word. Ed. Simon & Goodwin Frith, Andrew. New York: Pantheon Books, 1990. 
+- McDowell, John. Perception as a Capacity for Knowledge. Marquette University Press, 2011. 
+- McElheran, Brock. Conducting Technique : For Beginners and Professionals. Rev. ed. ed., New York: Oxford University Press, 1989. [Link](http://www.loc.gov/catdir/enhancements/fy0723/88039211-b.html)
+- McGilchrist, Iain. The Master and His Emissary : The Divided Brain and the Making of the Western World. New Haven: Yale University Press, 2009. 
+- McGrath, Alister E. Historical Theology : An Introduction to the History of Christian Thought. Oxford ; Malden, Mass.: Blackwell Publishers, 1998. 
+- McLuhan, Marshall. “The Playboy Interview: Marshall Mcluhan.” Playboy (1969) [Link](http://web.cs.ucdavis.edu/~rogaway/classes/188/spring07/mcluhan.pdf)
+- ———. “Visual and Acoustic Space.” Audio Culture: Readings in Modern Music. Ed. Christoph Cox, Daniel Warner. New York: Continuum, 2004. 
+- Mei, Todd S. Land and the Given Economy : The Hermeneutics and Phenomenology of Dwelling., 2017. 
+- Meillassoux, Quentin. After Finitude : An Essay on the Necessity of Contingency. London: Continuum, 2009. 
+- Lowe, Melanie. “Rethinking the Undergraduate Music History Sequence in the Information Age.” Journal of Music History Pedagogy vol. 5, no. 2 : 65-71. 
+- Mellers, Wilfred. “Music, the Modern World, and the Burden of History.” Companion to Contemporary Musical Thought. Ed. Tim Howell John Paynter, Richard Orton & Seymour, Peter. London: Routledge, 1992. 
+- Menke, Christoph. “Genealogy and Critique Two Forms of Ethical Questioning of Morality.” The Cambridge Companion to Adorno. Ed. %. Cambridge UP, 2006. 
+- Merleau-Ponty, Maurice. “Cezanne’s Doubt.” Symbolic Anthropology: A Reader in the Study of Symbols and Meanings. Ed. David S. Kemnitzer & Schneider Janet L. Dolgin, David M. New York: Columbia University Press, 1977. 
+- ———. “The Intertwining - the Chiasm.” The Continental Aesthetics Reader. Ed. Clive Cazeaux. New York: Routledge, 2000. 164-80. 
+- ———. Phenomenology of Perception. New York: Routledge, 2002. 
+- ———. The World of Perception. Routledge, 2004. [Link](http://timothyquigley.net/cont/mp-wp.pdf)
+- Mertens, Wim. American Minimal Music : La Monte Young, Terry Riley, Steve Reich, Philip Glass. London: Kahn & Averill, 1983. 
+- Messiaen, O. Music and Color: Conversations With Claude Samuel, Trans. E. Thomas Glasow (Portland: Amadeus Press, 1994), 1986. 
+- Messiaen, Olivier. The Technique of My Musical Language. Paris: Alphonse Leduc, 1956. 
+- Metheny, Pat. “The Song X Podumentary.” 2006. [Link](www.patmetheny.com)
+- Meyer, Jürgen, and Uwe. Hansen. Acoustics and the Performance of Music : Manual for Acousticians, Audio Engineers, Musicians, Architects and Musical Instruments Makers. 5th ed. ed., New York: Springer Science+Business Media, 2009. 
+- Meyer, Leonard B. Emotion and Meaning in Music. Chicago: University of Chicago Press, 1956. 
+- Kane, Michael Gallope and Brian. “Vladimir Jankélévitch’s Philosophy of Music.” Journal of the American Musicological Society Vol. 65, No. 1 (2012): 215-56. 
+- Rigoni, Michel. “”Go-Gol”, an Opera By Michaël Levinas.” Rosonance 11 (1997) [Link](http://articles.ircam.fr/textes/Rigoni97a/)
+- Michel, Pierre. “Introduction.” Contemporary Music Review Vol. 24, no. 2/3 (2005): 119-20. 
+- Michelfelder, Diane & Palmer, Richard. Dialogue and Deconstruction: The Gadamer-Derrida Encounter. Albany: SUNY, 1989. 
+- Middleton, Richard. “‘Play it Again Sam’: Some Notes on the Productivity of Repetition in Popular Music.” Popular Music Vol 3, Producers and Markets (1983) [Link](http://www.jstor.org/stable/853102)
+- ———. Studying Popular Music. New York: Open University Press, 1990. 
+- ———. “Locating the People: Music and the Popular.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- ———. “Music Studies and the Idea of Culture.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- ———. “Rock Singing.” The Cambridge Companion to Singing. 
+- Troupe, MILES DAVIS with Quincy. “Miles: The Autobiography.” (1989) [Link](http://yanko.lib.ru/books/bio/miles.htm#_Toc496769679)
+- Mill, John Stuart. Utilitarianism., 1863. [Link](http://socserv.mcmaster.ca/econ/ugcm/3ll3/mill/utilitarianism.pdf)
+- Miller, Christian B. The Continuum Companion to Ethics. London ; New York: Continuum, 2011. [Link](http://www.loc.gov/catdir/enhancements/fy1116/2011004035-b.html
+http://www.loc.gov/catdir/enhancements/fy1116/2011004035-t.html
+http://www.loc.gov/catdir/enhancements/fy1213/2011004035-d.html)
+- Miller, Ed. L., and Stanley J. Grenz. Fortress Introduction to Contemporary Theologies. Minneapolis: Fortress Press, 1998. 
+- Miller, Hugh M. History of Music. New York: Barnes and Noble, 1960. 
+- Miller, Hugh Milton. History of Music. 2d ed. ed., Vol. College outline series, 55 New York: Barnes & Noble, 1953. 
+- Miller, Jim. The Passion of Michel Foucault. 1st Anchor Books ed. ed., New York: Anchor Books, 1994. [Link](http://books.google.ca/books?id=BODdpZCvvrQC&q=boulez#v=snippet&q=levinas&f=false)
+- Miller, William Robert. The World of Pop Music and Jazz. Vol. The Christian encounters St. Louis: Concordia Pub. House, 1965. 
+- Grant, MJ. “The Article 5 Project: 
+Researching Music Torture.” 2016. [Link](http://www.social-musicology.net/socmus/music_and_torture.html)
+- Mo, Ronald, et al. “The Effects of Mp3 Compression on Emotional Characteristics.” 
+- Moati, Raoul. Levinas and the Night of Being : A Guide to Totality and Infinity. First edition. ed., 2017. 
+- Monk, Meredith. “On Improvisation.” Contemporary Music Review Vol. 25, Nos. 5/6 (2006): 525-30. 
+- Monson, Ingrid. “Riffs, Repetition, and Theories of Globalization.” Ethnomusicology Vol. 43, No. 1 (1999)
+- ———. “The Ensemble and the Soloist.” Riffs and Choruses : A New Jazz Anthologyr. Ed. Andrew Clark. London: Continuum, 2001. 486. 
+- Monson, Ingrid T. Saying Something : Jazz Improvisation and Interaction. Chicago: University of Chicago Press, 1996. 
+- Montanari, Massimo. Food is Culture. Columbia University Press, 2004. 
+- Montesquieu, Charles de Secondat, Margaret. Mauldon, and Andrew. Kahn. Persian Letters. Oxford ; New York: Oxford University Press, 2008. [Link](http://www.loc.gov/catdir/toc/ecip081/2007039894.html
+http://www.loc.gov/catdir/enhancements/fy0907/2007039894-b.html
+http://www.loc.gov/catdir/enhancements/fy0907/2007039894-d.html)
+- Moon, J. Donald. “Practical Discourse and Communicative Ethics.” The Cambridge Companion to Habermas. Ed. %. 2006. 
+- Moore, Allan. “Authenticity as Authentication.” Popular Music 21 (2002): 209-23. [Link](http://www.jstor.org/stable/853683)
+- Moore, Allan F. “Looking for the Kingdom Come: Questioning Spirituality in U2.” Popular Music Online Issue 1 (2002) [Link](file:///C:/Documents%20and%20Settings/jeff.warren/Desktop/Jeff’s%20My%20Documents/Articles/Moore%20-%20questionig%20sprituality%20in%20U2.html)
+- Moran, Dermot. Introduction to Phenomenology. London ; New York: Routledge, 2000. [Link](http://www2.arnes.si/~jlozar2/6%20FENOMENOLOGIJA%20D%20BOLONJSKI%20PROGRAM/MORAN.pdf)
+- Morcom, Anna. “An Understanding Between Bollywood and Hollywood? The Meaning of Hollywood-Style Music in Hindi Films.” British Journal of Ethnomusicology 10.1 (2001): 63-84. [Link](http://www.jstor.org/stable/3060772)
+- Morgan, David. “Imaging Protestant Piety: The Icons of Warner Sallman.” Religion and American Culture Vol. 3, No. 1 (1993)
+- Morgan, Kenneth O. Twentieth-Century Britain : A Very Short Introduction. Vol. Very short introductions ; 24 Oxford ; New York: Oxford University Press, 2000. [Link](http://www.loc.gov/catdir/enhancements/fy0636/2005296278-d.html
+http://www.loc.gov/catdir/enhancements/fy0636/2005296278-t.html
+http://www.loc.gov/catdir/enhancements/fy0724/2005296278-b.html)
+- Morgan, Michael L. The Cambridge Introduction to Emmanuel Levinas. Cambridge ; New York: Cambridge University Press, 2011. [Link](http://www.loc.gov/catdir/enhancements/fy1012/2010033893-b.html
+http://www.loc.gov/catdir/enhancements/fy1012/2010033893-t.html
+http://www.loc.gov/catdir/enhancements/fy1101/2010033893-d.html)
+- ———. Lévinas’s Ethical Politics., 2016. [Link](https://books.google.ca/books?id=WlsoDAAAQBAJ&pg=PA357&lpg=PA357&dq=Levinas,+“The+Paradox+of+Morality:+An+Interview+with+Emmanuel+Levinas,”&source=bl&ots=Z3lvkG3hf8&sig=i2BQ2ZRbXyF6BHpsCJ9_Rqn-A8E&hl=en&sa=X&ved=0ahUKEwiE56f2ifnMAhUOS2MKHdPQBTQQ6AEINjAE#v=onepage&q&f=false)
+- Morgan, Robert P. “Secret Languages: The Roots of Musical Modernism.” Critical Inquiry Vol. 10, Mar.3 (1984): 442-61. [Link](http://www.jstor.org/stable/1343302)
+- ———. “The Concept of Unity and Musical Analysis.” Music Analysis 22/i-ii (2003)
+- Mori, Barbara Lynne Rowland. “The Tea Ceremony: A Transformed Japanese Ritual.” Gender and Society 5 (1991): 86-97. 
+- Morriss, Alan H. “‘A Twentieth-Century Folk Mass’.” The Musical T Vol. 98, No. 1378 (1957): 671-72. 
+- Morton, Timothy. “Ecology Without Nature.” Depletion Design: A Glossary Of Network Ecologies 
+- ———. “Charisma and Causality.” Art Review November (2015) [Link](http://artreview.com/features/november_2015_feature_timothy_morton_charisma_causality/)
+- Moscovich, Viviana. “French Spectral Music: An Introduction.” Tempo No. 200 (1997): 21-27. 
+- Moshaver, M.A. “Telos and Temporality: Phenomenology and the Experience of Time in Lewin’s Study of Perception.” Journal of the American Musicological Society 65.1 (2012): 179-214. [Link](http://www.jstor.org/stable/10.1525/jams.2012.65.1.179)
+- Mulhall, Stephen. Routledge Philosophy Guidebook to Heidegger and Being and Time. New York: Routledge, 2005. 
+- Mullen, Gary A. Adorno on Politics After Auschwitz., 2016. [Link](http://www.c-scp.org/2016/11/28/gary-a-mullen-adorno-on-politics-after-auschwitz.html)
+- Murail, T. “The Revolution of Complex Sounds.” Contemporary Music Review 24.2-3 (2005): 121-35. [Link](http://www.tandfonline.com/doi/abs/10.1080/07494460500154780)
+- Murail, Tristan. “After-Thoughts.” Contemporary Music Review Vol. 24, No. 2/3 (2005): 269-72. 
+- ———. “Scelsi and L’Itineraire: The Exploration of Sound.” Contemporary Music Review Vol. 24, No. 2/3 (2005): 181-85. 
+- ———. “Spectra and Sprites.” Contemporary Music Review Vol. 24, No. 2/3 (2005): 137-47. 
+- ———. “Villeneuve-Le ` S-Avignon Conferences, Centre Acanthes, 9–11 and 13 July 1992.” Contemporary Music Review Vol. 24, No. 2/3 (2005): 187-267. 
+- Murphy, Terrence, and Roberto. Perin. A Concise History of Christianity in Canada. Toronto ; New York: Oxford University Press, 1996. [Link](http://www.loc.gov/catdir/enhancements/fy0639/96173432-d.html
+http://www.loc.gov/catdir/enhancements/fy0639/96173432-t.html
+http://www.loc.gov/catdir/enhancements/fy0725/96173432-b.html)
+- Nakamura, J., & Csikszentmihalyi, M. “The Concept of Flow.” Handbook of Positive Psychology. 2002. 89-105. 
+- Nanay, Bence. Aesthetics as Philosophy of Perception. First edition. ed., 2016. 
+- Nancy, Jean-Luc. Listening. Trans. Charlotte Mandell. New York : Fordham University Press, 2007. [Link](http://www.loc.gov/catdir/enhancements/fy0734/2007009589-b.html)
+- Nancy, Jean-Luc. Ego Sum. Paris: Flammarion, 1979. 
+- ———. Dis-Enclosure : The Deconstruction of Christianity. New York: Fordham University Press, 2008. [Link](http://www.loc.gov/catdir/toc/ecip089/2008003283.html)
+- Keohane, Nannerl O. “The Liberal Arts as Guideposts in the 21st Century.” The Chronicle of Higher Education 29 Jan (2012) [Link](http://chronicle.com/article/article-content/130475/)
+- Nattiez, Jean-Jacques. Music and Discourse: Toward a Semiology of Music. Princeton: Princeton University Press, 1990. 
+- Neill, Ben. “Pleasure Beats: Rhythm and the Aesthetics of Current Electronic Music.” Leonardo Music Journal 12 (2002): 3-6. [Link](http://www.jstor.org/stable/1513341)
+- Nenon, Thomas, ed. Kant, Kantianism, and Idealism: The Origins of Continental Philosophy. University of Chicago Press, 2010. 
+- Nettl, Bruno. “The Institutionalization of Musicology: Perspectives of a North American Ethnomusicologist.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- ———. The Study of Ethnomusicology : Thirty-One Issues and Concepts. Urbana, Ill.; Chesham: University of Illinois Press; Combined Academic distributor, 2005. [Link](https://www.dropbox.com/s/33f0pswaf20tc9j/Nettl%20-%20Ethnomusicology%20ch2.pdf?dl=0)
+- Newbigin, Lesslie. Foolishness to the Greeks. Grand Rapids: Wm. B. Eerdmans, 1986. 
+- Newman, John Henry. “On the Corruption of an Idea.” 
+- Harkness, Nicholas. Songs of Seoul: An Ethnography of Voice and Voicing in Christian South Korea. Berkeley and Los Angeles: University of California Press, 2014. 
+- Nietzsche, Friedrich. The Case of Wagner, Nietzsche Contra Wagner, and Selected Aphorisms. 
+- ———. Basic Writings of Nietzsche (Modern Library Classics). Modern Library ed., Modern Library, 2000. [Link](http://www.amazon.com/Writings-Nietzsche-Modern-Library-Classics/dp/0679783393%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0679783393)
+- Nietzsche, Friedrich Wilhelm. Twilight of the Idols. London: Penguin, 1990. 
+- ———. The Birth of Tragedy. London: Dover Publications; Constable & Company, 1995. 
+- ———. Daybreak: Thoughts on the Prejudices of Morality. Cambridge: Cambridge University Press, 1997. 
+- Nietzsche, Friedrich Wilhelm, Friedrich Wilhelm Nietzsche, and Walter Arnold Kaufmann. On the Genealogy of Morals and Ecce Homo. New York: Vintage Books, 1967. 
+- Nietzsche, Friedrich Wilhelm, Richard Wagner et al. The Nietzsche-Wagner Correspondence. New York: Boni and Liveright, 1921. [Link](http://hdl.loc.gov/loc.gdc/scd0001.00216509389)
+- Nietzsche, Friedrich Wilhelm, and Helen Zimmern. Beyond Good and Evil. London & Edinburgh: T. N. Foulis, 1914. 
+- Nietzsche, Friedrich. Thus Spoke Zarathustra. Vol. Barnes & Noble classics New York, NY: Barnes & Noble Classics, 2005. [Link](http://www.loc.gov/catdir/enhancements/fy0634/2005929144-b.html
+http://www.loc.gov/catdir/enhancements/fy0634/2005929144-d.html
+http://www.loc.gov/catdir/enhancements/fy0643/2005929144-s.html)
+- ISENBERG, NOAH. “Lingua Franca.” Inside Publishing. [Link](http:/ /linguafranca.mirror.theinfo.org/ 9811/inside.html)
+- Noebel, David A. Rhythm, Riots and Revolution. Tulsa, Oklahoma: Christian Crusade Publications, 1966. 
+- Nonken, Marilyn, and Hugues. Dufourt. The Spectral Piano : From Liszt, Scriabin, and Debussy to the Digital Age., 2014. 
+- O’Connor, Noreen. “The Personal is Political: Discursive Practice of the Face-to-face.” The Provocation of Levinas. Ed. Robert Bernasconi and David Wood. New York: Routledge, 1988. 57-69. 
+- Norris, Christopher. Badiou’s Being and Event : A Reader’s Guide. Vol. Continuum reader’s guides London ; New York: Continuum, 2009. 
+- Noudelmann, Francois. The Philosopher’s Touch: Sartre, Nietzsche, and Barthes At the Piano. Trans. Brian J. Reilly. Columbia University Press, 2012. [Link](http://books.google.com/books?hl=en&lr=&id=A0F1Cljk2wsC&oi=fnd&pg=PA1&dq=François+Noudelmann,+The+Philosopher’s+Touch:+Sartre,+Nietzsche+and+Barthes+at+the+Piano&ots=mhrgVOXeE8&sig=nJ5_F296uwGBmySwQxWYlUHkCXc)
+- Nunez, A.M., S. Cuccaro-Alamin, and C.D. Carroll. First-Generation Students: Undergraduates Whose Parents Never Enrolled in Postsecondary Education. US Department of Education, Office of Educational Research and Improvement, National Center for Education Statistics, 1998. [Link](http://nces.ed.gov/pubs98/98082.pdf)
+- Nussbaum, Martha. “Introduction.” The Bacchae of Euripides. Ed. Trans. C. K. Williams. New York: Farrar, Straus and Giroux, 1990. 
+- Nussbaum, Martha C. Cultivating Humanity: A Classical Defense of Reform in Liberal Education. Harvard University Press, 1998. [Link](http://www.amazon.com/Cultivating-Humanity-Classical-Defense-Education/dp/0674179498%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0674179498)
+- ———. Not for Profit: Why Democracy Needs the Humanities. Princeton University Press, 2012. [Link](http://www.amazon.com/Not-Profit-Democracy-Humanities-Public/dp/0691154481%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0691154481)
+- Nyman, Michael. Experimental Music : Cage and Beyond. London: Studio Vista, 1974. 
+- Oliver, Mary. “On Improvisation.” Contemporary Music Review Vol. 25, Nos. 5/6 (2006): 457-59. 
+- Oliveros, Pauline. “Improvisation in the Sonosphere.” Contemporary Music Review Vol. 25, Nos. 5/6 (2006): 481-82. 
+- Olshewsky, Thomas M., ed. Problems in the Philosophy of Language. New York: Holt, Rinehart and Winston, Inc., 1969. 
+- Ong, Walter J. “World as View and World as Event.”  [Link](http://onlinelibrary.wiley.com/store/10.1525/aa.1969.71.4.02a00030/asset/aa.1969.71.4.02a00030.pdf;jsessionid=5F96B5C197FFB555D8FAE77BF30A9663.f01t03?v=1&t=i615b6kj&s=38647c4af7c6d4d2283bf4ddf6a4d5f5fc3eada9)
+- ———. The Presence of the Word; Some Prolegomena for Cultural and Religious History. Vol. The Terry lectures New Haven: Yale University Press, 1967. 
+- ———. “Writing is a Technology That Restructures Thought.” The Written Word: Literacy in Translation. Ed. Gerd Bauman. Oxford: Clarendon Press, 1986. 23-50. [Link](https://www.bc.edu/content/dam/files/centers/boisi/pdf/f08/ong_article.pdf)
+- ———. Orality and Literacy : The Technologizing of the Word. London ; New York: Routledge, 1991. [Link](http://occupytampa.org/files/wcom/ong%20walter%20orality%20and%20literacy.pdf)
+- Orton, Richard. “From Improvisation to Composition.” Companion to Contemporary Musical Thought. Ed. Tim Howell John Paynter, Richard Orton & Seymour, Peter. London: Routledge, 1992. 
+- Osborne, Harold. Aesthetics and Art Theory: An Historical Introduction. New York: E. P. Dutton, 1970. 
+- Ota, Mineo. “Why is the ‘Spirit’ of Folk Music So Important? On the Historical Background of Bela Bartok’s Views of Folk Music.” IRASM 37 Vol. 37 (2006): 33-46. 
+- Ottman, Robert W., and Nancy Rogers. Music for Sight Singing. 9th ed. ed., Upper Saddle River, NJ: Pearson, 2014. 
+- Owsinski, Bobby. The Recording Engineer’s Handbook. 2nd ed. ed., Boston, MA: Course Technology Cengage Learning, 2009. [Link](http://www.loc.gov/catdir/enhancements/fy1303/2008935092-b.html
+http://www.loc.gov/catdir/enhancements/fy1303/2008935092-d.html
+http://www.loc.gov/catdir/enhancements/fy1303/2008935092-t.html)
+- Pace, Ian. “Composition and Performance Can be, and Often Have Been, Research.” Tempo Vol 70. No. 275 (2016) [Link](http://openaccess.city.ac.uk/12804/)
+- Paddison, Max. “Authenticity and Failure in Adorno’s Aesthetics of Music.” The Cambridge Companion to Adorno. Ed. %. Cambridge UP, 2006. 198-221. 
+- Page, Steven. “A Barenaked Guide to Music Copyright Reform.” National Post 1 May 2006, 
+- Parker, Evan. “Improvisation.” Contemporary Music Review Vol. 25, Nos. 5/6 (2006): 411-16. 
+- Parliament. “Funkentelechy Vs. The Placebo Syndrome.” (1977)
+- Pascarella, E.T., M. Edison et al. “Influences on Students’ Openness to Diversity and Challenge in the First Year of College.” The Journal of Higher Education (1996): 174-95. [Link](http://www.jstor.org/stable/10.2307/2943979)
+- Freire, Paulo. Pedagogy of the Oppressed. New York: Continuum, 2005. 
+- Peacock, Charlie. At the Crossroads: An Insider’s Look At the Past, Present, and Future of Contemporary Christian Music. Nashville, Tennessee: Broadman and Holman, 1999. 
+- Peperzak, Adriaan. “Levinas’ Method.” Research in Phenomenology Vol. 28 (1998): 110-25. 
+- ———. “Review: Saloman Malka’s ‘Emmanuel Levinas: His Life and Legacy’.” Continental Philosophy Review 40 (2007): 349-52. 
+- Perpich, Diane. “Review of Jill Robbins ‘Altered Reading: Levinas and Literature’.” BRYN MAWR Review of Comparative Literature Vol. 3, No. 1 (2001): i-xxiv. 
+- Persichetti, Vincent. Twentieth-Century Harmony; Creative Aspects and Practice. [1st ed.] ed., New York: W. W. Norton, 1961. 
+- Wengenroth, Peter Schneider and Martina. “The Neural Basis of Individual Holistic and Spectral Sound Perception.” 
+- Shaffer, Peter. “Equus.” 
+- Singer, Peter. “Famine, Affluence, and Morality.”  [Link](http://www.utilitarian.net/singer/by/1972----.htm)
+- Peters, Gary. The Philosophy of Improvisation. University of Chicago Press, 2009. 
+- Peterson, Michael, et. al. eds. Philosophy of Religion: Selected Readings. New York: Oxford UP, 1996. 
+- Pettifor, Ann. “Just Money: How Society Can Break the Despotic Power of Finance.” (2014): 232. [Link](http://www.amazon.com/Just-Money-Society-Despotic-Finance-ebook/dp/B00HTAI3YY%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HTAI3YY)
+- Global, Pew. “Worldwide, Many See Belief in God as Essential to Morality.” 2014. [Link](http://www.pewglobal.org/2014/03/13/worldwide-many-see-belief-in-god-as-essential-to-morality/)
+- Foot, Philippa. Morality and Art., 1970. 
+- Phillips, Joel, Jane Piper. Clendinning, and Elizabeth West Marvin. The Musician’s Guide to Aural Skills. 1st ed. ed., New York: W.W. Norton, 2005. 
+- Picasso, Pablo. Picasso on Art: A Selection of Views. New York: Da Capo Press, 1988. 
+- Picker, John M. Victorian Soundscapes. Oxford: Oxford University Press, 2003. 
+- Pickstock, Catherine. “The Musical Imperative.” Angelaki: journal of the theoretical humanities V 3:2 (1998)
+- Hellawell, Piers. “Treating Composers as Researchers is Bonkers.” Standpoint Magazine (2014) [Link](http://standpointmag.co.uk/critique-may-14-treating-composers-as-researchers-bonkers-piers-hellawell)
+- Pike, Alfred. “The Phenomenological Approach to Musical Perception.” Philosophy and Phenomenological Research Vol. 27, Dec.2 (1966): 247-54. [Link](http://www.jstor.org/stable/2105363)
+- ———. “A Phenomenological Analysis of Emotional Experience in Music.” Journal of Research in Music Education Vol. 20, Summer.2 (1972): 262-67. [Link](http://www.jstor.org/stable/3344092)
+- ———. “Foundational Aspects of Musical Perception: A Phenomenological Analysis.” Philosophy and Phenomenological Research Vol. 34, Mar.3 (1974): 429-34. [Link](http://www.jstor.org/stable/2107088)
+- Plato. Euthyphro. [Link](http://classics.mit.edu/Plato/euthyfro.html)
+- ———. Meno. 
+- ———. “Meno.” 
+- ———. Five Great Dialogues: Apology, Crito, Phaedo, Symposium, Republic. New York: Walter J. Black, Inc., 1942. 
+- ———. “Republic.” Source Readings in Music History. Ed. Oliver Strunk. New York: W.W. Norton & Co., 1950. 
+- ———. Symposium and Phaedrus. New York: Dover Publications, 1993. 
+- Plato & Cornford, Francis. The Republic of Plato. New York: Oxford UP, 1945. 
+- Polanyi, Michael & Prosch, Harry. Meaning. Chicago: University of Chicago Press, 1975. 
+- Pollard, Sidney. The Idea of Progress: History and Society. London: Watts, 1968. 
+- Benedict, Pope. “Music and Truth.”  [Link](http://www.catholicculture.org/culture/library/view.cfm?recnum=10967)
+- Pope John Paul, II. “Fides Et Ratio.” 
+- Porter, Lewis. John Coltrane : His Life and Music. Ann Arbor: University of Michigan Press, 1998. 
+- Proctor, George Alfred. Canadian Music of the Twentieth Century. Toronto ; Buffalo: University of Toronto Press, 1980. 
+- Proust, Marcel. Swann’s Way. London: Chatto & Windus, 1929. 
+- ———. Rememberance of Things Past, Book I. New York: Penguin, 1981. 
+- Pugin, T. “Through the Spectrum: The New Intimacy in French Music (Ii).” TEMPO-LONDON- (2001) [Link](http://journals.cambridge.org/production/action/cjoGetFulltext?fulltextid=6027900)
+- Pugin, Tristram. “Through the Spectrum: The New Intimacy in French Music (I).” Tempo, New Series No. 212 (2000): 12-20. 
+- Putnam, Hilary. “Levinas and Judaism.” The Cambridge Companion to Levinas. Ed. R Bernasconi S Critchley. Cambridge: Cambridge University Press, 2002. 
+- ———. The Collapse of the Fact / Value Dichotomy. Cambridge, Mass.; London: Harvard University Press, 2002. 
+- ———. Ethics Without Ontology. Cambridge, Mass.: Harvard University Press, 2004. 
+- Qureshi, Regula Burckhardt. “Other Musicologies: Exploring Issues and Confronting Practice in India.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- Rabaté, Jean-Michel. “68 + 1: Lacan’s Année Érotique.” PaRRHEsIa No. 6 (2009): 28-45. 
+- Rachels, James. The Elements of Moral Philosophy, 3rd Edition. New York: McGraw-Hill, 1999. 
+- Radford, Laurie. “Review: Handbook of Acoustic Ecology (Cd-Rom Version) By Barry Truax.” Computer Music Journal: Aesthetics in Computer Music Vol. 25, No. 1 (2001) [Link](http://www.jstor.org/stable/3681657)
+- Radice, Mark A. Concert Music of the Twentieth Century. New Jersey: Prentice Hall, 2003. 
+- Raffman, Rita Laplante. “Ludwig Wittgenstein’s Concept of Family Resemblances and Contemporary Music.” In Search of Musical Method. Ed. F.J. Smith. London: Gordon and Breach, 1976. 
+- Raffoul, Francois. The Origins of Responsibility. Indiana University Press, 2010. 
+- Railton, Diane. “The Gendered Carnival of Pop.” Popular Music 20 (2001): 321-31. [Link](http://www.jstor.org/stable/853624)
+- Rand, Ayn. The Virtue of Selfishness: A New Concept of Egoism. New York: Signet, 1961. 
+- Randel, Don Michael. Harvard Concise Dictionary of Music. Cambridge, Mass.: Belknap Press, 1978. 
+- Ratcliffe, Matthew. Experiences of Depression : A Study in Phenomenology. First edition. ed., 2015. 
+- Rattenbury, Ken. Duke Ellington, Jazz Composer. New Haven: Yale University Press, 1990. 
+- Rauscher, Frances H., Gordon L. Shaw Katherine N. Ky. “Music and Spatial Task Performance.” Nature Vol. 365 (1993): 611. 
+- Rawls, John. “A Theory of Justice.” 
+- Redhead, Steve, and John Street. “Have I the Right? Legitimacy, Authenticity and Community in Folk’s Politics.” Popular Music 8 (1989): 177-84. [Link](http://www.jstor.org/stable/853467)
+- Carafalo, Reebee, and Rob Bowman. “Rockin’ Out: Canadian Edition.” 
+- Reese, Gustave. Music in the Middle Ages. New York: W.W. Norton and Company, 1940. 
+- Regev, Motti. “Review of Reading Rock and Roll.” Notes Vol. 57, Dec.2 (2000): 420-22. [Link](http://www.jstor.org/stable/900265)
+- Reich, Steve. “Different Trains / Electric Counterpoint.” (1990)
+- ———. Writings on Music, 1965-2000. New York ; Oxford: Oxford University Press, 2002. 
+- Reid, Lynette. “Wittgenstein’s Ladder: The Tractatus and Nonsense.” Philosophical Investigations Vol 21, No 2 (1998)
+- Reuss, Richard A. “Woody Guthrie and His Folk Tradition.” The Journal of American Folklore 83 (1970): 273-303. [Link](http://www.jstor.org/stable/538806)
+- Reynolds, Chris. Memories of May ‘68: France’s Convenient Consensus (University of Wales Press - French and Francophone Studies). University of Wales Press, 2011. [Link](http://www.amazon.co.uk/Memories-May-Convenient-University-Francophone/dp/0708324169%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0708324169)
+- Rhames, Arthur. “From Berliner’s ‘Thinking in Jazz’.” Riffs and Choruses : A New Jazz Anthology. Ed. Andrew Clark. London: Continuum, 2001. 486. 
+- Rice, Timothy. “Reflections on Music and Meaning: Metaphor, Signification and Control in the Bulgarian Case.” British Journal of Ethnomusicology 10.1 (2001): 19-38. [Link](http://www.jstor.org/stable/3060770)
+- Richmond, Ray & Coffman, Antonia. The Simpsons: A Complete Guide to Our Favorite Family. New York: Harper Perennial, 1997. 
+- Richter, Gisela Marie Augusta. A Handbook of Greek Art. [6th ed., redesigned] ed., London, New York: Phaidon, 1969. 
+- Ricketts, Thomas. “Pictures, Logic, and the Limits of Sense in Wittgenstein’s Tractatus.” Cambridge Companion to Wittgenstein. Ed. %. Cambridge UP, 2006. 59-99. 
+- Ricoeur, Paul. Oneself as Another. Chicago: The University of Chicago Press, 1992. 
+- ———. Figuring the Sacred: Religion, Narrative, and Imagination. Minneapolis: Fortress Press, 1995. 
+- ———. “Otherwise: A Reading of Emmanuel Levinas’s “otherwise Than Being or Beyond Essence”.” Otherwise: A Reading of Emmanuel Levinas’s “Otherwise than Being or beyond Essence” No. 104, Encounters with Levinas (2004): 82-99. 
+- Ridley, Aaron. The Philosophy of Music : Theme and Variations. Edinburgh: Edinburgh University Press, 2004. 
+- Ries, Harold A. “Gsr and Breathing Amplitude Related to Emotional Reactions to Music.” Psychonomic Science Vol. 14, No. 2 (1969): 62-64. [Link](http://download.springer.com/static/pdf/455/art%253A10.3758%252FBF03336430.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.3758%2FBF03336430&token2=exp=1463429138~acl=%2Fstatic%2Fpdf%2F455%2Fart%25253A10.3758%25252FBF03336430.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.3758%252FBF03336430*~hmac=e823c2461024f5116e07aa0d9d6d1018cd5b6ffdfb38baabccd7cb2736da2123)
+- Riley, Tim. “For the Beatles: Notes on Their Achievement.” Popular Music Vol. 6., No. 3 (1987)
+- Rink, John. “Translating Musical Meaning: The Nineteenth-Century Performer as Narrator.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- ———. “The State of Play in Performance Studies.” The Music Practitioner. Ed. Jane W. Davidson. London: Ashgate, 2004. 
+- Roach O’Keefe, Alaina. “Practicing What We Preach: Emergent Curriculum in Early Years Teacher Education Programs.” Teaching Innovation Projects Vol. 3 Iss. 1 (2013) [Link](http://ir.lib.uwo.ca/tips/vol3/iss1/9)
+- Robbins, Jill. Altered Reading: Levinas and Literature. Stanford: Stanford University Press, 1999. 
+- Robinson, Paul E. “Sartre on Music.” The Journal of Aesthetics and Art Criticism Vol. 31, Summer.4 (1973): 451-57. [Link](http://www.jstor.org/stable/429317)
+- Roholt, Tiger C. Groove : A Phenomenology of Rhythmic Nuance., 2014. 
+- Rookmaaker, H. R. Modern Art and the Death of a Culture. [1st ed. ed., Downers Grove, Ill.]: Inter-Varsity Press, 1970. 
+- Rorty, Richard. “Interview With Robert Harris Nov 11, 2005.” (2005)
+- ———. Philosophy as Cultural Politics. Cambridge: Cambridge University Press, 2007. 
+- Bandt, Ros. “Sound Installation: Blurring the Boundaries of the Eye, the Ear, Space and Time.” Contemporary Music Review Vol. 25 No. 4 (2006): 353-65. 
+- ———. “Sound Installation: Blurring the Boundaries of the Eye, the Ear, Space and Time.” Contemporary Music Review Vol. 25, No. 4 (2006): 353 - 365. 
+- Rosen, Charles. “Freedom of Interpretation in Twentieth-Century Music.” Composition - Performance - Reception: Studies in the Creative Process of Music. Ed. Wyndham Thomas. Aldershot: Ashgate, 1998. 
+- Rosen, Michael. “Benjamin, Adorno, and the Decline of the Aura.” The Cambridge Companion to Critical Theory. Ed. Fred Rush. Cambridge: Cambridge UP, 2004. 
+- Rosenthal, Harold D., and John Hamilton Warrack. The Concise Oxford Dictionary of Opera. 2d ed. ed., London ; New York: Oxford University Press, 1979. 
+- Rosner, Brian. “Paul’s Ethics.” The Cambridge Companion to St. Paul. Ed. %. Cambridge UP, 2006. 
+- Ross, Alex. The Rest is Noise. New York: Picador, 2007. 
+- Ross, Kristin. May ‘68 and Its Afterlives. Chicago: University of Chicago Press, 2002. [Link](http://www.loc.gov/catdir/description/uchi051/2001052762.html
+http://www.loc.gov/catdir/bios/uchi051/2001052762.html
+http://www.loc.gov/catdir/toc/uchi051/2001052762.html)
+- Roswitha. The Plays of Roswitha. ed. TRANSLATED BY CHRISTOPHER ST. JOHN, London: CHATTO & WINDUS, 1923. [Link](http://www.archive.org/stream/playsofroswitha00hrotuoft/playsofroswitha00hrotuoft_djvu.txt)
+- Rousseau, Jean-Jacques. “The Works of Jean-Jacques Rousseau: The Social Contract, Confessions, Emile, and Other Essays (Halcyon Classics).” (2009): 1079. [Link](http://www.amazon.com/The-Works-Jean-Jacques-Rousseau-Confessions-ebook/dp/B002CZQFTQ%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB002CZQFTQ)
+- Rush, Fred. “Introduction.” The Cambridge Companion to Critical Theory. Ed. Fred Rush. Cambridge: Cambridge UP, 2004. 
+- Rushdie, Salman. Step Across This Line : Collected Nonfiction 1992-2002. Modern library pbk. ed. ed., New York: Modern Library, 2003. [Link](http://www.loc.gov/catdir/bios/random055/2003283826.html
+http://www.loc.gov/catdir/samples/random044/2003283826.html
+http://www.loc.gov/catdir/description/random0411/2003283826.html)
+- Russell, Bertrand. The Problems of Philosophy. Oxford: Oxford UP, 1912. 
+- Russon, John Edward. Human Experience : Philosophy, Neurosis, and the Elements of Everyday Life. Albany: State University of New York Press, 2003. 
+- Merttens, Ruth. “Democracy At Risk in Education?” [Link](http://www.opendemocracy.net/5050/ruth-merttens/democracy-at-risk-in-education)
+- Ryan, Joel. “Improvising With Others.” Contemporary Music Review Vol. 25, Nos. 5/6 (2006): 417-23. 
+- Hirschberg, S.W. Rienstra & A. “An Introduction to Acoustics.” (2004) [Link](http://www.win.tue.nl/~sjoerdr/papers/boek.pdf)
+- Sablosky, Irving. American Music. Vol. The Chicago history of American civilization Chicago: University of Chicago Press, 1969. 
+- Sacks, Oliver. Musicophilia: Tales of Music and the Brain. New York: Vintage, 2008. 
+- Sadie, Stanley. The New Grove Dictionary of Musical Instruments: Vol. 1: A-F. New York: Macmillan, 1984. 
+- Said, Edward W. & Barenboim, Daniel. Parallels and Paradoxes: Explorations in Music and Society. ed. Ara Guzelimian, Vintage Books, New York, 2008. 
+- Salem, Joseph. “Review: Edward Campbell, Boulez, Music and Philosophy.” voiceXchange Vol. 5, No. 1 (2011): 53-59. 
+- Bick, Sally M. A. “Eisler’s Notes on Hollywood and the Film Music Project, 1935-42.” Current Musicology No. 86 (2008)
+- Salvatore M Aglioti, Paola Cesari, Michela Romani & Cosimo Urgesi. “Action Anticipation and Motor Resonance in Elite Basketball Players.” Nature V http://www.nature.com/natureneuroscience (2008)
+- Samson, Jim. “Analysis in Context.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- ———. “Music History.” An Introduction to Music Studies. Ed. Jim & Harper-Scott Samson, J.P.E. Cambridge: Cambridge UP, 2009. 
+- Samson, Jim & Harper-Scott, J.P.E. (ed.). An Introduction to Music Studies. Cambridge: Cambridge University Press, 2009. 
+- Sanders, John T. “Merleau-Ponty, Gibson, and the Materiality of Meaning.” Man and World 26 (1993): 287-302. 
+- Santayana, George. Three Philosophical Poets: Lucretius, Dante, Goethe. New York: Doubleday, 1953. 
+- Hankins, Sarah. “After Pulse: An Introduction.” Ethnomusicology Review (2016)
+- Sarath, Ed. Music Theory Through Improvisation : A New Approach to Musicianship Training. New York: Routledge, 2010. 
+- Sartre, Jean-Paul. Existentialism is a Humanism., 1946. [Link](http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm)
+- ———. The Devil and the Good Lord, Nekrassov, Kean. New York: Vintage, 1960. 
+- ———. Troubled Sleep. New York: Bantam Books, 1961. 
+- ———. Being and Nothingness. New York, NY: Washington Square Press, 1984. 
+- ———. “I Discovered Jazz in America.” Riffs and Choruses : A New Jazz Anthology. Ed. Andrew Clark. London: Continuum, 2001. 486. 
+- Saussure, Ferdinand de. Course in General Linguistics. New York: Fontana, 1974. 
+- Savage, Steve. Bytes and Backbeats: Repurposing Music in the Digital Age. Ann Arbor: University of Michigan Press, 2011. 
+- ———. The Art of Digital Audio Recording : A Practical Guide for Home and Studio. New York: Oxford University Press, 2011. 
+- ———. Mixing and Mastering in the Box : The Guide to Making Great Mixes and Final Masters on Your Computer., 2014. 
+- Sawyer, R. Keith. “The Improvisational Performance of Everyday Life.” The Journal of mundan behavior 2.1 (2001)
+- Sayre, Henry M. Writing About Art: Fourth Edition. New Jersey: Prentice Hall, 2002. 
+- Sayre, Henry M., and Henry M. Sayre. Discovering the Humanities : Culture, Continuity & Change. [Brief ed.]. ed., Upper Saddle River: Prentice Hall, 2010. 
+- Schafer, R. Murray. Ear Cleaning : Notes for an Experimental Music Course. Toronto: Clark & Cruickshank, 1967. 
+- ———. The New Soundscape; a Handbook for the Modern Music Teacher [By] R. Murray Schafer. Toronto: Clark & Cruickshank, 1969. 
+- ———. “Music, Non-Music and the Soundscape.” Companion to Contemporary Musical Thought. Ed. Tim Howell John Paynter, Richard Orton & Seymour, Peter. London: Routledge, 1992. 
+- ———. The Soundscapes: Our Sonic Environment and the Tuning of the World. Rochester, VT: Destiny Books, 1994. [Link](http://sed.ucsd.edu/files/2014/01/schafer_1.pdf)
+- Schafer, William John. Rock Music; Where it’s Been, What it Means, Where it’s Going. Minneapolis: Augsburg Pub. House, 1972. 
+- Schaff, Phillip, ed. A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Volume I. Grand Rapids: Eerdmans, 1956. 
+- Scheibler, Ingrid. “Art as Festival in Heidegger and Gadamer.” International Journal of Philosophical Studies Vol.9, No.2 (2001): 151-75. 
+- Schenker, Heinrich. Harmony. Cambridge, Mass.: The MIT Press, 1954. 
+- ———. Free Composition: New Music Theories and Fantasies. New York: Pendragon Press, 2001. 
+- Schleiermacher, F.D.E. Dialektik. ed. L. Jonas, Berlin: Reimer, 1839. 
+- ———. On Religion: Speeches to Its Cultured Despisers. Cambridge: Cambridge University Press, 1996. 
+- Schmiedgen, Peter. “Art and Idolatry: Aesthetics and Alterity in Levinas.” Contretemps Vol. 3 (2002): 148-60. 
+- Schoenberg, Arnold. Structural Functions of Harmony. New York: W. W. Norton and Co., 1954. 
+- ———. Fundamentals of Music Composition. London: faber and faber, 1967. [Link](http://monoskop.org/images/d/da/Schoenberg_Arnold_Fundamentals_of_Musical_Composition_no_OCR.pdf)
+- ———. “Theory of Harmony.” (1983) [Link](http://monoskop.org/images/8/84/Schoenberg_Arnold_Theory_of_Harmony_1983.pdf)
+- ———. Style and Idea: Selected Writings of Arnold Schoenberg. California: University of California Press, 1984. [Link](http://monoskop.org/images/8/84/Schoenberg_Arnold_Style_and_Idea.pdf)
+- Schönecker, Dieter. Immanuel Kant’s Groundwork for the Metaphysics of Morals : A Commentary., 2014. 
+- Schopenhauer, Arthur. “The Christian System.”  [Link](http://www.gutenberg.org/ebooks/author/3648)
+- ———. The World as Will and Idea, Volume I. Boston: Ticknor and Company, 1888. [Link](http://www.gutenberg.org/ebooks/author/3648)
+- Schorske, Carl E. Fin-De-siecle Vienna. London: Vintage, 1980. 
+- Schroeder, Dav. “Mozart and Late Eighteenth-Century Aesthetics
+.” Cambridge Companion to Mozart. 
+- Schroeder, Franziska, and Pedro Rebelo. “The Pontydian Performance: The Performative Layer.” Organised Sound 14.2 (2009): 134-41. 
+- Schuller, Gunther. The Swing Era. New York: Oxford UP, 1989. 
+- Schulte, Michael. “Experience the Sublime.” (2012) [Link](http://www.chambermusichamilton.ca/index.html)
+- Schutz, Alfred. “Phenomenology of Music.” In Search of Musical Method. Ed. F.J. Smith. London: Gordon and Breach, 1976. 6-67. 
+- ———. “Making Music Together: A Study in Social Relationship.” Symbolic Anthropology: A Reader in the Study of Symbols and Meanings. Ed. David S. Kemnitzer & Schneider Janet L. Dolgin, David M. New York: Columbia University Press, 1977. 106-19. 
+- Schwartz, Vanessa R. Modern France : A Very Short Introduction. Oxford ; New York: Oxford University Press, 2011. 
+- Science. “Random Samples.” 1998. [Link](http://www.sciencemag.org/cgi/content/summary/279/5351/663d)
+- Scott Freemana, 1, Sarah L. Eddya, Miles McDonougha, Michelle K. Smithb, Nnadozie Okoroafora, Hannah Jordta, and Mary Pat Wenderotha. “Active Learning Increases Student Performance in Science, Engineering, and Mathematics.” 
+- Scruton, Roger. The Aesthetics of Music. Oxford: Oxford University Press, 1999. 
+- ———. Intelligent Guide to Modern Culture. 1 ed., St. Augustines Press, 2000. 
+- Scruton, Roger, and Roger. Green philosophy Scruton. How to Think Seriously About the Planet : The Case for an Environmental Conservatism /. New York : Oxford University Press, 2012. 
+- Searle, John R. Seeing Things as They Are : A Theory of Perception., 2015. 
+- Sedgwick, Eve Kosofsky. Touching Feeling : Affect, Pedagogy, Performativity. Vol. Series Q Durham: Duke University Press, 2003. [Link](https://sydney.edu.au/arts/slam/downloads/documents/novel_studies/3_Sedgwick.pdf)
+- Serrà, J, Á Corral et al. “Measuring the Evolution of Contemporary Western Popular Music.” Scientific Reports (2012) [Link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405292/)
+- Shafer-Landau, Russ. Ethical Theory : An Anthology. 2nd ed. ed., Chichester, West Sussex ; Malden, MA: Wiley-Blackwell, 2013. [Link](http://www.upscsuccess.com/sites/default/files/documents/Ethical_Theory_An_Anthology_@nadal.pdf)
+- Shakespeare, William. The Complete Works of William Shakespeare. New York: Walter J. Black, Inc., 1937. 
+- ———. Othello. Signet Classic. 
+- Sharpe, Matthew. “Aesthet(h)ics: On Levinas’ Shadow.” COLLOQUY text theory critique Vol. 9 (2005): 29-47. 
+- Shaviro, Steven. The Universe of Things : On Speculative Realism., 2014. 
+- Sheehan, Thomas. Making Sense of Heidegger : A Paradigm Shift., 2015. 
+- Shelemay, Kay Kaufman. “The Impact and Ethics of Musical Scholarship.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 531-44. 
+- Shepherd, John. “Difference and Power in Music.” Musicology and Difference : Gender and Sexuality in Music Scholarship. Ed. Ruth A. Solie. Berkeley ; London: University of California Press, 1993. 
+- ———. “Music and Social Categories.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Sholl, Robert. Messiaen Studies. Cambridge : Cambridge University Press, 2007. [Link](http://www.loc.gov/catdir/enhancements/fy0834/2008272517-t.html)
+- Shusterman, Richard. “Somaesthetics: A Disciplinary Proposal.” The Journal of Aesthetics and Art Criticism Vol. 57, No. 3 (1999): 299-313. 
+- ———. Pragmatist Aesthetics. Maryland: Rowan and Littlefield, 2000. 
+- Sill, Gertrude Grace. A Handbook of Symbols in Christian Art. New York: Macmillan, 1975. 
+- Simeone, Nigel. Paris--a Musical Gazetteer. New Haven [Conn.]: Yale University Press, 2000. 
+- Simmons, J. Aaron and Bruce Ellis Benson, eds. The New Phenomenology : A Philosophical Introduction., 2013. 
+- Simms, Bryan R. Music of the Twentieth Century. New York: Schirmer Books, 1996. 
+- FARINA, Simone CAMPANINI and Angelo. “A New Audacity Feature: Room Objective Acustical Parameters Calculation Module.” (2009) [Link](http://lac.linuxaudio.org/2009/cdm/Friday/08_Campanini/08.pdf)
+- Simpsons. “Beethoven and Minimalism.” 
+- Singer, Peter. The Expanding Circle: Ethics and Sociobiology. New York: Meridian, 1981. 
+- Slaboda, John A. “Mozart in Psychology.” Music Performance Research Vol 1.1 (2007): 66-75. 
+- Slobin, Mark. “The Destiny of “diaspora” in Ethnomusicology.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Slobin, Mark. Folk Music : A Very Short Introduction. New York: Oxford University Press, 2011. 
+- Small, Christopher. Musicking: The Meanings of Performance and Listening. Middletown, Connecticut: Wesleyan University Press, 1998. 
+- Smith, Christopher. “A Sense of the Possible: Miles Davis and the Semiotics of Improvised Performance.” TDR.1988- (1995): 41-55. [Link](http://www.jstor.org/stable/1146463)
+- Smith, F. Joseph. “Music Theory and the History of Ideas.” In Search of Musical Method. Ed. F.J. Smith. London: Gordon and Breach, 1976. 125-49. 
+- ———. “Jacques De Liege: The Modes as Musical Patterns.” Revue belge de Musicologie / Belgisch Tijdschrift voor Muziekwetenschap Vol. 34 (1981): 22-43. [Link](http://www.jstor.org/stable/3685906)
+- Smith, James K.A. The Fall of Interpretation. Grand Rapids: Intervarsity Press, 2000. 
+- ———. “Faith in the Flesh in American Beauty: Christian Reflection on Film.” Imagination and Interpretation: Christian Perspectives. Ed. Hans Boersma. Vancouver: Regent College Publishing, 2005. 
+- Smith, Martin. John Coltrane : Jazz, Racism and Resistance. London: Redwords, 2003. 
+- Smith, Nick. “Adorno Vs. Levinas: Evaluating Points of Contention.” Continental Philosophy Review (2006)
+- Snyder, Timothy. “Holocaust: The Ignored Reality.” The New York Review of Books Volume 56, Number 12.July 16 (2009)
+- Solie, Ruth A. “Music.” The Cambridge Companion to Victorian Culture. Ed. %. Cambridge UP, 2006. 
+- Solie, Ruth A., ed. Musicology and Difference. Berkeley: University of California Press, 1993. 
+- Solomon, Robert C. Introducing Philosophy. New York: Harcourt Brace Jovanovich Inc., 1977. 
+- Sorrell, Neil. “Improvisation.” Companion to Contemporary Musical Thought. Ed. Tim Howell John Paynter, Richard Orton & Seymour, Peter. London: Routledge, 1992. 776-86. 
+- Spargo, R. Clifton & Ream, Anne K. “Bob Dylan and Religion.” The Cambridge Companion to Bob Dylan. Ed. Kevin J. H. Dettmar. Cambridge: Cambridge University Press, 2009. 
+- Sparrow, Tom. The End of Phenomenology : Metaphysics and the New Realism. Edinburgh: Edinburgh University Press, 2014. 
+- Spinoza, Benedict. Ethics. Chatham, Kent: Wordsworth, 2001. 
+- Sporre, Dennis J. Perceiving the Arts : An Introduction to the Humanities. 5th ed. ed., Upper Saddle River, N.J.: Prentice Hall, 1997. 
+- ———. The Creative Impulse : An Introduction to the Arts. 8th ed. ed., Upper Saddle River, NJ: Pearson Prentice Hall, 2009. [Link](http://www.loc.gov/catdir/toc/ecip085/2007048415.html)
+- ———. Reality Through the Arts. 8th ed. ed., Upper Saddle River, N.J.: Pearson Prentice Hall, 2013. 
+- Athanasius, St. On the Incarnation. 
+- Staehler, Tanja. Plato and Levinas: The Ambiguous Out-Side of Ethics. Routledge, 2010. 
+- Stambler, Irwin. Encyclopedia of Pop, Rock & Soul. Rev. ed. ed., New York: St. Martin’s Press, 1989. 
+- Stankievech, Charles. “From Stethoscopes to Headphones: An Acoustic Spatialization of Subjectivity.” Leonardo Music Journal 17 (2007): 55-59. [Link](http://www.jstor.org/stable/10.2307/4540638?ref=search-gateway:6986d0b760053a18877cc7d6d199f21f)
+- Stanley, Jason. “The	Emergency Manager: Strategic	Racism,	Technocracy,	and	the	Poisoning	of	Flint’s	Children.” The Good Society 2016 
+- Starr, Larry, and Christopher Alan Waterman. American Popular Music : From Minstrelsy to Mp3. Fourth edition. ed., 2013. 
+- Starr, Larry., and Christopher Alan Waterman. American Popular Music : From Minstrelsy to Mtv. Oxford ; New York: Oxford University Press, 2003. [Link](http://www.loc.gov/catdir/enhancements/fy0612/2002000699-d.html
+http://www.loc.gov/catdir/enhancements/fy0612/2002000699-t.html)
+- Steinbeck, Paul. “Improvisation, Identity, Analysis, Performance.” American Music Review Vol. XLIV, No. 1 (2014)
+- ———. “Improvisational Fictions.” Volume 19, Number 2 (2013)
+- Steinfels, Peter. “Obituary: Emmanuel Levinas, 90, French Ethical Philosopher.” The New York Times December 27 (1995) [Link](http://www.nytimes.com/1995/12/27/world/emmanuel-levinas-90-french-ethical-philosopher.html)
+- Stenmark, Mikael. “Ways of Relating Science and Religion.” Cambridge Companion to Science and Religion. Ed. %. Cambridge UP, 2006. 
+- Pinker, Stephen. How the Mind Works. New York: Norton, 1997. 
+- Stephens, William O. “Stoic Ethics.” Internet Encyclopedia of Philosophy  [Link](http://www.iep.utm.edu/stoiceth/)
+- Sterne, Jonathan. The Sound Studies Reader. New York: Routledge, 2012. 
+- Lawhead, Steve. “Rock Reconsidered: A Christian Looks At Contemporary Music.” 
+- Stevens, Denis. A History of Song. [1st American ed.] ed., New York: W. W. Norton, 1961. 
+- Stevens, Wallace. “The Man With the Blue Guitar.” Theme and Image, Book 1. Ed. Carole Gillanders. Toronto: Copp Clark Pitman, 1976. 
+- Stewart, Alexander. “‘Funky Drummer’: New Orleans, James Brown and the Rhythmic Transformation of American Popular Music.” Popular Music Vol. 19, Oct.3 (2000): 293-318. [Link](http://www.jstor.org/stable/853638)
+- Stobart, Henry. “Ringing Rocks and Roosters: Communicating With the Landscape in the Bolivian Andes.” (2008) [Link](http://www.st-andrews.ac.uk/soundanth/work/stobart/)
+- Stokes, Martin. “Globalization and the Politics of World Music.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Storm, Christine, ed. Liberal Education and the Small University in Canada. McGill Queens Univ Press, 1996. 
+- Stout, David. “Improvisation With Laptops.” Contemporary Music Review Vol. 25, Nos. 5/6 (2006): 513-14. 
+- Straus, Joseph Nathan. Introduction to Post-Tonal Theory. 2nd ed. ed., Upper Saddle River, N.J.: Prentice Hall, 2000. 
+- Strunk, Oliver, Ed. Source Readings in Music History. New York: W.W. Norton and Company, 1950. 
+- Stuessy, Joe., and Scott David Lipscomb. Rock and Roll : Its History and Stylistic Development. 7th ed. ed., Boston: Pearson, 2013. 
+- Stumpf, Samuel Enoch. Socrates to Sartre: A History of Philosophy. New York: McGraw-Hill, 1975. 
+- Sturken, Marita & Cartwright, Lisa. Practices of Looking: An Introduction to Visual Culture. Oxford: Oxford UP, 2001. 
+- Sudnow, David. Ways of the Hand : The Organization of Improvised Conduct. London: Routledge and Kegan Paul, 1978. 
+- SUES. “The Study of Undergraduate Education At Stanford University (Sues).” 2012. [Link](http://www.stanford.edu/dept/undergrad/sues/SUES_Report.pdf)
+- Sullivan, Mark. “‘More Popular Than Jesus’: The Beatles and the Religious Far Right.” Popular Music Vol. 6, No. 3 (1987)
+- Sykes, Arcellus. “Funkentelechy Bass Transcription.” (2008) [Link](http://arcellussykes.com/transcription/parliament_funkentelechy.pdf)
+- Szatmary, David P. Rockin’ in Time : A Social History of Rock-and-roll. Eighth edition. ed., 2013. 
+- Szendy, Peter. “Translating Music.” Musicae Scientiae 2 (2001)
+- ———. Listen : A History of Our Ears. New York: Fordham University Press, 2008. [Link](http://www.loc.gov/catdir/toc/ecip084/2007046205.html)
+- Tacitus. Nero and the Burning of Rome. New York: Penguin, 1995. 
+- Lokki, Tapio. “Tasting Music Like Wine: Sensory Evaluation of Concert Halls.” Physics Today 67.1 (2014) [Link](http://dx.doi.org/10.1063/PT.3.2242)
+- Taylor, Charles. A Catholic Modernity? ed. James L. Heft, Oxford UP, 1999. 
+- ———. A Secular Age. Belknap Press of Harvard University Press, 2007. 
+- Taylor, Paul W. “Principles of Ethics: Ethical Relativism.” 
+- Temperley, Nicholas. “The Music of the English Church (Review).” The Musical Times Vol. 113, No. 1553 (1972): 708-9. 
+- Teodorescu-Ciocanea, Livia. “Timbre Versus Spectalism.” Contemporary Music Review Vol. 22, No. 1 (2003)
+- Tessman, Lisa. Moral Failure : On the Impossible Demands of Morality., 2015. 
+- Tharoor, Ishaan. “Are You a Jihadist? France’s Checklist Includes Questions About Diet, Wardrobe and Not Listening to Music.” Washington Post 2015, [Link](http://news.nationalpost.com/2015/01/30/are-you-a-jihadist-frances-checklist-includes-questions-about-diet-wardrobe-and-not-listening-to-music/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+NP_Top_Stories+%28National+Post+-+Top+Stories%29)
+- Tharp, Twyla. The Creative Habit. New York: Simon and Shuster, 2003. 
+- Thayer, P.B. “Retention of Students From First Generation and Low Income Backgrounds.” Opportunity Outlook (2000) [Link](http://eric.ed.gov/ERICWebPortal/recordDetail?accno=ED446633)
+- Team, The Billy Graham. “Crusader Hymns and Hymn Stories.” 
+- “The Father of the Digital Synthesizer.” http://priceonomics.com 
+- The Holy Bible English Standard Version. Crossway, 2011. 
+- Promise, The National Leadership Council for Liberal Education & America’s. College Learning for the New Global Century. Washington, DC: Association of American Colleges and Universities, 2007. [Link](http://www.aacu.org/leap/documents/GlobalCentury_final.pdf)
+- The Quest for the Modern Electric Bass. [Link](http://www.ashgate.com/isbn/9781472434821)
+- The Singing Church. Carol Stream, IL: Hope Publishing Co., 1985. 
+- Adorno, Theodor. “Education After Auschwitz.” (1966)
+- Hunefeldt, Thomas. “Semantic Dualism and Narrative Identity—paul Ricœur on the Cognitive Sciences.” (2005)
+- Thompson, Emily Ann. The Soundscape of Modernity : Architectural Acoustics and the Culture of Listening in America, 1900-1933. Cambridge, Mass.: MIT Press, 2002. [Link](http://pzacad.pitzer.edu/~mma/teaching/MS115/readings/thompson.pdf)
+- Thurlow, Jeremy. “Me ´ Taboles as a Fork in the Road: Twin Paths in Dutilleux’s Later Music.” Contemporary Music Review Vol. 29, No. 5 (2010): 485-96. 
+- Tillman, Frank A., Bernard Berofsky John O’Connor eds. Introductory Philosophy, 2nd Edition. New York: Harper and Row, 1971. 
+- Time. “Swinging Priests.” Time April 1 (1957) [Link](http://www.time.com/time/magazine/article/0,9171,867594,00.html)
+- Morton, Timothy. “Here Comes Everything: The Promise of Object-Oriented Ontology.” forthcoming in Qui Parle 
+- Tinnell, Roger D. “Spanish Music and Cultural Identity.” Cambridge Companion to Modern Spanish Culture. Ed. %. Cambridge UP, 2006. 
+- Titon, Jeff Todd. “Textual Analysis or Thick Description?” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Todd, Sharon. Learning From the Other: Levinas, Psychoanalysis, and Ethical Possibilities in Education. New York: SUNY, 2003. 
+- Tolstoy, Leo. “Art as the Communication of Feeling.” The Nature of Art: An Anthology. Ed. Thomas Wartenberg. New York: Harcourt College Publishers, 2001. 98-106. 
+- ———. War and Peace. London: Penguin, 2007. 
+- Tolstoy, Leo. What is Art? New York: Penguin Books, 1995. 
+- Allen, Tom. Rock-N-roll: The Bible and the Mind. 
+- Tomlinson, Gary. “Cultural Dialogics and Jazz: A White Historian Signifies.” Black Music Research Journal Vol. 11, Autumn.2 (1991): 229-64. [Link](http://www.jstor.org/stable/779268)
+- ———. “The Jazz Canon as Monological Canon.” Riffs and Choruses : A New Jazz Anthology. Ed. Andrew Clark. London: Continuum, 2001. 486. 
+- ———. “Music, Anthropology, History.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Tomlinson, Gary. A Million Years of Music : The Emergence of Human Modernity. First edition. ed., 2015. 
+- Toop, David. “The Evolving Language of Rap.” The Cambridge Companion to Singing. 
+- Topolski, Anya. Arendt, Levinas and a Politics of Relationality., 2015. 
+- Toumayan, Alain. Encountering the Other: The Artwork and the Problem of Difference in Blanchot and Levinas. Pittsburgh: Duquense University Press, 2004. 
+- Toynbee, Jason. Making Popular Music : Musicians, Creativity and Institutions. London: Arnold, 2000. 
+- ———. “Music, Culture, Creativity.” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Treitler, Leo. “The Historiography of Music: Issues of Past and Present.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 356-77. 
+- Trifonova, Temenuga. “Is There a Subject in Hyperreality?” Postmodern Culture Vol. 13, No. 3 (2003) [Link](http://www.iath.virginia.edu/pmc/issue.503/13.3trifonova.html)
+- Tuan, Yi-fu. Space and Place : The Perspective of Experience. Minneapolis: University of Minnesota Press, 1977. [Link](http://danm.ucsc.edu/~dustin/library/tuan%20space%20and%20place.pdf)
+- Tucker, Robert C., ed. The Marx-Engels Reader. New York: W.W. Norton and Co., 1978. 
+- Turner, Steve. Imagine: A Vision for Christians in the Arts. Downers Grove, Illinois: Intervarsity Press, 2001. 
+- TWU. “Successful Grantwriting Workshop.” (2008)
+- Tym, C., R. McMillion et al. “First-Generation College Students: A Literature Review (Research and Analytic Services).” Texas Round Rock, TX: Texas Guaranteed Student Loan Corporation (2004) [Link](http://www.tgslc.org/pdf/first_generation.pdf)
+- Tzu, Sun. The Art of War. London: Oxford University Press, 1971. 
+- Schneider, Ulrich Johannes. “Review of Julian Bourg, From Revolution to Ethics: May 1968 and Contemporary French Thought.” French Politics, Culture & Society 28 (2010): 135-38. 
+- “Unesco International Jazz Day, 30 April 2012.” 8 June 2012. [Link](http://www.unesco.org/new/en/unesco/events/prizes-and-celebrations/celebrations/international-days/jazz-day/)
+- Nations, United. “Universal Declaration of Human Rights.” 
+- Urban, Linwood. A Short History of Christian Thought. Rev. and expanded ed. ed., New York: Oxford University Press, 1995. [Link](http://www.loc.gov/catdir/enhancements/fy0603/94025731-d.html
+http://www.loc.gov/catdir/enhancements/fy0603/94025731-t.html)
+- Van den Berg, J. H. The Phenomenological Approach to Psychiatry: An Introduction to Recent Phenomenological Psychopathology. Springfield, IL: Charles C. Thomas, 1955. 
+- van der Heiden, Gert-Jan. The Truth (and Untruth) of Language: Heidegger, Ricoeur and Derrida on Disclosure and Displacement. Duquesne University Press, 2010. 
+- Van Leeuwen, Theo. “Music and Ideology: Notes Towards a Sociosemiotics of Mass Media Music.” Popular Music and Society Winter (1998)
+- van Maas, Sander. The Reinvention of Religious Music: Olivier Messiaen’s Breakthrough Toward the Beyond. New York: Fordham University Press, 2009. 
+- Vaneigem, Raoul. The Revolution of Everyday Life. 2nd ed. ed., London: Rising Free Collective, 1979. 
+- Varga, Somogy. Authenticity as an Ethical Ideal. New York : Routledge, 2012. 
+- Various. “Ams Pac-Nw Conference.” (2008)
+- ———. “Congress.” (2008)
+- ———. “Enmr Cremona.” (2008)
+- ———. “The Musician as Listener.” (2008)
+- Vattimo, Gianni. The End of Modernity : Nihilism and Hermeneutics in Post-Modern Culture. Baltimore: John Hopkins University Press, 1988. 
+- ———. “Ethics Without Transcendence?” Common Knowledge V 9:3 (2003): 399-405. 
+- Vernallis, Carol. “The Aesthetics of Music Video: An Analysis of Madonna’s ‘Cherish’.” Popular Music 17 (1998): 153-85. [Link](http://www.jstor.org/stable/853454)
+- Tayl, Victor E. “A Conversation With Jean-Luc Marion.” JCRT Vol. 7 No. 2 (2006)
+- Vilaros, Teresa M. “A Cultural Mapping of Catalonia.” Cambridge Companion to Modern Spanish Culture. Ed. %. Cambridge UP, 2006. 
+- Villar, and JuAN DAVID LuJÁN. “Scenarios of No-War: The Role of Music in the Transformation of Societies in Conflict.” CS No 19 (2016): 167 - 199. [Link](http://dx.doi.org/10.18046/recs.i19.2171)
+- Lerins, Vincent of. “?” A Commonitory. Ed. ? ?: ?, ? 
+- Volk, Terese M. “Little Red Songbooks: Songs for the Labor Force of America.” Journal of Research in Music Education 49 (2001): 33-48. [Link](http://www.jstor.org/stable/3345808)
+- Vries, Hent de. Minimal Theologies : Critiques of Secular Reason in Adorno and Levinas. Baltimore: Johns Hopkins University Press, 2005. [Link](http://www.loc.gov/catdir/bios/jhu051/2004005543.html
+http://www.loc.gov/catdir/description/jhu051/2004005543.html)
+- Wackenroder, Wilhelm Heinrich. Werke Und Briefe. Ed. Friedrick von Derrida Leyen: Jena, 1910. 
+- Walser, Robert. “Heavy Metal Appropriations of Classical Virtuosity.” Popular Music Vol. 11, No. 3 (1992): 263-308. 
+- ———. Running With the Devil: Power, Gender, and Madness in Heavy Metal Music. Middletown, CT: Wesleyan University Press, 1993. 
+- ———. “Rhythm, Rhyme, and Rhetoric in the Music of Public Enemy.” Ethnomusicology: Journal of the Society for Ethnomusicology 39 (1995): 193-217. [Link](http://www.jstor.org/stable/924425)
+- Walther, Johann. “Wittemberg Gesangbuch.” Source Readings in Music History. Ed. Oliver Strunk. New York: W.W. Norton & Co., 1950. 
+- Wanderley, Marcelo M. & Vines, Bradley W. “Origins and Functions of Clarinettists’ Ancillary Gestures.” Music and Gesture. Ed. Anthony & King Gritten, Elaine. Aldershot: Ashgate, 2006. 
+- Wannamaker, R.A. “The Spectral Music of James Tenney.” Contemporary Music Review 27.1 (2008): 91-130. [Link](http://www.tandfonline.com/doi/abs/10.1080/07494460701671558)
+- Ward, Geoffrey C. Jazz : A History of America’s Music. London: Pimlico, 2001. 
+- Wark, McKenzie. The Beach Beneath the Street : The Everyday Life and Glorious Times of the Situationist International. London ; New York: Verso, 2011. [Link](http://www.loc.gov/catdir/enhancements/fy1312/2011284614-b.html
+http://www.loc.gov/catdir/enhancements/fy1312/2011284614-d.html)
+- Warnock, Mary. Ethics Since 1900. 2nd ed. ed., London, New York [etc.]: Oxford U. P., 1966. 
+- Warren, Jeff R. “Ph.d Supervision Notes.” 
+- ———. “Music and Meaning: Towards an Ethical-Hermeneutics of Music.” Trinity Western University, 2003. 
+- ———. “Towards an Ethical-Hermeneutics.” European Journal of Psychotherapy, Counselling and Health Vol. 7, No. 1-2 (2005): 17-28. [Link](http://dl.dropbox.com/u/12162202/Warren%202005%20-%20Towards%20and%20Ethical-Herm%20-%20REJP108696.pdf)
+- ———. “Ethics and Experiencing the Other.” The International Journal of Interdisciplinary Social Sciences Vol. 1, no. 3 (2006): 109-14. 
+- ———. “Improvising Music / Improvising Relationships: Musical Improvisation and Inter-Relational Ethics.” New Sound No. 32 (2009) [Link](http://www.newsound.org.rs/en/pdfs/ns32/8%20%20Jeff%20Warren.pdf)
+- ———. “Introduction: On the Verge.” Verge: a journal of the arts and Christian faith No. 1 (2011) [Link](https://journal.twu.ca/index.php/verge/article/view/5/23)
+- ———. “Review of Music and Ethics By Marcel Cobussen and Nanette Nielsen.” New Sound No. 40 (2013) [Link](http://www.newsound.org.rs/en/pdfs/ns40/New_Sound_40.229-232.pdf)
+- ———. “Breath and Improvisation.” Soundweaving: Writings on Improvisation. Newcastle upon Tyne: Cambridge Scholars Publishing, 2014. 121-36. [Link](http://www.cambridgescholars.com/soundweaving-8)
+- ———. Music and Ethical Responsibility. Cambridge University Press, 2014. [Link](http://www.cambridge.org/us/academic/subjects/music/music-criticism/music-and-ethical-responsibility)
+- Wartenberg, Thomas, ed. The Nature of Art: An Anthology. New York: Harcourt College Publishers, 2001. 
+- Watanabe, Yoshio. “Analytical Study of Acoustic Mechanism of ‘Suikinkutsu’.” Japanese Journal of Applied Physics Vol. 43, No. 9A (2004)
+- Bowman, Wayne. “Music as Ethical Encounter.” Bulletin of the Council for Research in Music Education No. 151 (2001): 11-20. 
+- Webb, Clement C. J. A History of Philosophy. London: Oxford UP, 1915. 
+- Weber, Max. The Protestant Ethic and the Spirit of Capitalism. New York: Charles Scribner’s Sons, 1958. 
+- Weber, William. “Learned and General Musical Taste in Eighteenth-Century France.” Past and Present 89 (1980): 58-85. 
+- ———. “The History of Musical Canon.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 336-55. 
+- Wegman, Rob. “Historical Musicology: Is it Still Possible?” The Cultural Study of Music : A Critical Introduction. Ed. Trevor Herbert & Middleton Martin Clayton, Richard. New York ; London: Routledge, 2003. 368. 
+- Weinsheimer, Joel. Gadamer’s Hermeneutics : A Reading of Truth and Method. New Haven: Yale University Press, 1985. 
+- Weiss, Gail. Intertwinings : Interdisciplinary Encounters With Merleau-Ponty. Albany: State University of New York Press, 2008. [Link](http://www.loc.gov/catdir/toc/ecip086/2007049730.html)
+- Wellesz, Egon. A History of Byzantine Music and Hymnography. Oxford: Oxford University Press, 1962. 
+- Wellmer, Albrecht. “On Spirit as a Part of Nature.” Constellations Vol. 16, No. 2 (2009): 213-26. 
+- Wells, Samuel. Improvisation: The Drama of Christian Ethics. Brozos Press, 2004. 
+- Wenner, Jann. 20 Years of Rolling Stone : What a Long, Strange Trip it’s Been. New York City: Friendly Press, 1987. 
+- Westbury, Ian and Purves, Alan C., eds. Cultural Literacy and the Idea of General Education (National Society for the Study of Education Yearbooks) (Pt. 2). 1 ed., The National Society For The Study Of Ed, 1988. [Link](http://www.amazon.com/Cultural-Literacy-Education-National-Yearbooks/dp/0226601471%3FSubscriptionId%3D0NM5T5X751JWT17C4GG2%26tag%3Dsonnysoftware%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0226601471)
+- Westby, Erik L. & Dawson, V.L. “Creativity: Asset or Burden in the Classroom?” Creativity Research Journal Vol. 8, No. 1 (1995): 1-10. 
+- Westerkamp, Hildegard. “Soundwalking.” Sound Heritage Vol. 3, No. 4 (1974) [Link](http://www.sfu.ca/~westerka/writings%20page/articles%20pages/soundwalking.html)
+- Westfall, William. Two Worlds : The Protestant Culture of Nineteenth-Century Ontario. Vol. McGill-Queen’s studies in the history of religion ; 2 Kingston, Ont.: McGill-Queen’s University Press, 1989. 
+- Wharram, Barbara. [from old catalog]. Elementary Rudiments of Music. Oakville, Ont.: F. Harris Music Co., 1969. 
+- Wheatland, Thomas. The Frankfurt School in Exile. Minneapolis: University of Minnesota Press, 2009. 
+- White, I. “Student Interest in Academic Issues During Orientation.” Annual Higher Education Research and Development Society of Australasia (HERDSA) Conference, Melbourne, July. 1999. [Link](http://www.herdsa.org.au/wp-content/uploads/conference/1999/pdf/White.PDF)
+- White, Morton & White, Lucia. The Intellectual Versus the City. Toronto: Mentor Books, 1962. 
+- Whitebread, David. A Report on the Value of Children’s Play With a Series of Policy Recommendations., 2 0 1 2. 
+- ———. “School Starting Age: The Evidence.” [Link](http://www.cam.ac.uk/research/discussion/school-starting-age-the-evidence)
+- Whittall, Arnold. “Autonomy/heteronomy: The Contexts of Musicology.” Rethinking Music. Ed. Nicholas & Everist Cook, Mark. Oxford: Oxford University Press, 1999. 
+- ———. “Subjectivity, Synthesis, and Hermeneutic Narrative: Dissenting Voices.” The Musical Times Vol. 141, Winter.1873 (2000): 7-14. [Link](http://www.jstor.org/stable/1004729)
+- Whyton, Tony. “Deconstructing the Jazz Tradition.” (2008)
+- Wilde, Oscar. An Ideal Husband. New York: Dover Publications, 2000. 
+- McClay, Wilfred. “The Legacy of “the Closing of the American Mind”.” The Imaginative Conservative (2015) [Link](http:/ /www.theimaginativeconservative.org/2015/05/legacy-closing-of-the-american-mind.html)
+- Wilkinson, Stephen. Choosing Tomorrow’s Children: The Ethics of Selective Reproduction. Oxford: Oxford University Press, 2010. 
+- Schrimshaw, Will. “Non-Cochlear Sound : On Affect and Exteriority.” Sound, Music, Affect Theorizing Sonic Experience. Ed. Marie Thompson And Ian Biddle. Bloomsbury Academic, 2013. 
+- Shaw, William H. “Utilitarianism and the Ethics of War.” (2016): 183. 
+- Williams, Bernard. Ethics and the Limits of Philosophy. Cambridge, Mass.: Harvard University Press, 1985. 
+- Willson, Rachel Beckles. “Music Theory and Analysis.” An Introduction to Music Studies. Ed. Jim & Harper-Scott Samson, J.P.E. Cambridge: Cambridge UP, 2009. 
+- ———. “The Parallax Worlds of the West-Eastern Divan Orchestra.” Journal of the Royal Musical Association V 134:2 (2009): 319-47. 
+- ———. “Whose Utopia? Perspectives on the West-Eastern Divan Orchestra.” Music & Politics Vol. 3, No. 2 (2009): 1-21. [Link](https://quod.lib.umich.edu/m/mp/9460447.0003.201/--whose-utopia-perspectives-on-the-west-eastern-divan?rgn=main;view=fulltext)
+- ———. “Whose Utopia? Perspectives on the West-Eastern Divan Orchestra.” Music and Politics (2009)
+- Wilson-Bokowiec, Julie, Mark Alexander Bokowiec. “Kinaesonics: The Intertwining Relationship of Sound and Body.” Contemporary Music Review Vol. 25, No. 1/2 : 2006. 
+- Wilson, Ian. The Bleeding Mind : An Investigation Into the Mysterious Phenomenon of Stigmata. London: Paladin, 1991. 
+- Winkler, Allan M. To Everything There is a Season : Pete Seeger and the Power of Song. Oxford ; New York: Oxford University Press, 2009. [Link](http://www.loc.gov/catdir/enhancements/fy0914/2008043379-b.html
+http://www.loc.gov/catdir/enhancements/fy0914/2008043379-d.html
+http://www.loc.gov/catdir/enhancements/fy0914/2008043379-t.html)
+- Wittgenstein, Ludwig. Tractatus Logico-Philosophicus. London: Routledge and Kegan Paul Ltd, 1922. 
+- ———. Lectures and Conversations on Aesthetics, Psychology, and Religious Belief. Los Angeles: University of California Press, 1967. 
+- ———. Culture and Values. Chicago: University of Chicago Press, 1984. 
+- ———. Philosophical Investigations. Oxford: Blackwell, 2001. 
+- ———. “I: A Lecture on Ethics.” The Philosophical Review Vol 74, No 1 (1965) [Link](http://www.jstor.org/stable/2183526)
+- Witzleben, J. Lawrence. “Music in the Hong Kong Handover Ceremonies: A Community Re-Imagines Itself.” Enthomusicology 46, No. 1 (2002): 120-31. 
+- Wokler, Robert. Rousseau : A Very Short Introduction. Vol. Very short introductions ; 48 Oxford ; New York: Oxford University Press, 2001. [Link](http://www.loc.gov/catdir/enhancements/fy0613/2002277109-d.html
+http://www.loc.gov/catdir/enhancements/fy0722/2002277109-b.html)
+- Wolfe, C. “‘Gospel Boogie’: White Southern Gospel Music in Transition, 1945–55.” Popular Music 1.1 (1981): 73-82. 
+- Wolters, Eugene. “Letters Between Adorno and Marcuse Debate 60s Student.” Critical-Theory.com (2013) [Link](http://www.critical-theory.com/letters-adorno-marcuse-discuss-60s-student-activism/)
+- Woods, Michael. “Musical Meaning: Reference and Symbol.” AE: Canadian Aesthetics Journal Vol 13 (2007) [Link](http://www.uqtr.ca/AE/Vol_13/libre/Woods.htm)
+- WorldHealthOrganization. “Occupational and Community Noise Fact Sheet.” 2009. [Link](http://www.who.int/mediacentre/factsheets/fs258/en/)
+- Wyschogrod, Edith. “Levinas’s Other and the Culture of the Copy.” Yale French Studies No. 104 (2004)
+- Wyschorgrod, Edith & Levinas, Emmanuel. “Interview With Emmanuel Levinas: December 31, 1982.” Philosophy and Theology 4 (1989)
+- Wyton, Alec. “Church Music of Our Time.” The Musical Times Vol. 101, No. 1404 (1960): 106-7. 
+- Xenakis, Iannis. Formalized Music : Thought and Mathematics in Composition. Rev. ed. ed., Vol. Harmonologia series ; no. 6 Stuyvesant, NY: Pendragon Press, 1992. 
+- XIII, Pope Gregory. “Brief on the Reform of the Chant.” Source Readings in Music History. Ed. Oliver Strunk. New York: W.W. Norton and Co., 1950. 
+- Yaffe, David. “Bob Dylan and the Anglo-American Tradition.” The Cambridge Companion to Bob Dylan. Ed. %. Cambridge UP, 2009. 15-27. 
+- Yingshou Xing, Yang Xia, Keith Kendrick, Xiuxiu Liu, Maosen Wang, Dan Wu, Hua Yang, Wei Jing, Daqing Guo & Dezhong Yao. “Mozart, Mozart Rhythm and Retrograde Mozart Effects: Evidences From Behaviours and Neurobiology Bases.” 
+- Yoshikawac, Isao. Elements of Japanese Gardens. Tokyo: Graphic-sha Publishing Co., 1990. 
+- Young, James O. & Matheson, Carl. “The Metaphysics of Jazz.” The Journal of Aesthetics and Art Criticism Vol. 58, No. 2 (2000): 125-33. 
+- Young, Phillip T. The Look of Music : Rare Musical Instruments, 1500-1900. Vancouver Seattle, Wash.: Vancouver Museums & Planetarium Association Distributed in the U.S. by the University of Washington Press, 1980. 
+- Freedom, Youth Who Have Found. “How to Conquer the Addiction of Rock Music.” 
+- Yule, Z. “Some Thoughts on Emergent Curriculum.” Paper presented at the Forum for Integrated Education and Educational Reform sponsored by the Council for Global Integrative Education, Santa Cruz, CA, October 28-30. 2004. 
+- Z, Pamela. “On Improvisation.” Contemporary Music Review Vol. 25, Nos. 5/6 (2006): 587-89. 
+- Zak, Albin J. “Bob Dylan and Jimi Hendrix: Juxtaposition and Transformation ‘All Along the Watchtower’.” Journal of the American Musicological Society Vol. 56, No. 3 (2004)
+- Zelanski, Paul., and Mary Pat Fisher. The Art of Seeing. 8th ed. ed., Upper Saddle River, NJ: Prentice Hall, 2011. 
+- Zimmerman, Jens. “Ignoramus: Gadamer’s ‘Religious Turn’.” Symposium Vol. 6, No. 2 (2002)
+- ———. Recovering Theological Hermeneutics. Grand Rapids: Baker Academic, 2004. 
+- Zizek, Slavoj. The Parallax View. Vol. Short circuits Cambridge, Mass.: MIT Press, 2006. 
+- Žižek, Slavoj. “Sinicisation.” London Review of Books (2015) [Link](http://www.lrb.co.uk/v37/n14/slavoj-zizek/sinicisation)
+- ŽiŽek, Slavoj. “The Ambiguous Legacy of ‘68.” 2008. In These Times. [Link](http://inthesetimes.com/article/3751/the_ambiguous_legacy_of_68)
+- Zolten, Jerry. “Movin’ the Mountains: An Overview of Rhythm and Blues and Its Presence in Appalachia.” Black Music Research Journal Vol. 23, No. 1/2 (2003)
+- Zuidervaart, Lambert. Art in Public: Politics, Economics, and a Democratic Culture. Cambridge UP, 2011. 
