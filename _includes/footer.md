@@ -3,8 +3,7 @@ professor of music and humanities
 quest university canada     
 squamish, bc
 
-{% social envelope-o mailto:jeff.warren@questu.ca Email Jeff %} 
-{% social twitter http://www.twitter.com/drjeffrwarren Follow Jeff on Twitter %}
+[email](mailto:jeff.warren@questu.ca) | [twitter](http://www.twitter.com/drjeffrwarren)
 
 [![Book cover](http://ecx.images-amazon.com/images/I/614vCEgsbBL._SY344_BO1,204,203,200_.jpg)](http://jeffrwarren.sitebox.io/research/music-and-ethical-responsibility)
 
