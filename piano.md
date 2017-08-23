@@ -1,14 +1,14 @@
+---
+layout: default
 title: Quest Piano and Recording Studio
 subtitle: Waivers for accessing these spaces
 description: 
 image: http://l.120-bal.ru/pars_docs/refs/8/7979/7979_html_3ab7366c.jpg
-position: 10
+---
 
-{{ well }}
 For Quest students to be able to use either the grand piano in the MPR or to use the recording studio, please follow the instructions below. Check back soon, as more details will be here soon.
 
 Students interested in using the grand piano in the MPR or using the recoding studio will require some brief training on proper usage of these high cost instruments/equipment and will also need to sign a usage agreement. To better track who has access to these spaces, we’re asking previous users of these spaces to re-register to use them.
-{{ end }}
 
 # Grand Piano Use Agreement
 
@@ -24,7 +24,6 @@ There is no formal sign-up process.  Simply call Campus Security a few minutes b
 **Can I invite other musicians to rehearse/jam with me even if they’re not approved piano users?**
 Absolutely!  But you are responsible for making sure they also follow the rules.  If they cause any damage, it will be billed to your account.
 
-{{ well }}
 ## Agreement of Responsibility
 
 I hereby agree to abide by the following regulations with respect to the use of the Quest University grand piano:
@@ -41,14 +40,12 @@ I hereby agree to abide by the following regulations with respect to the use of 
 10.	I will never leave the piano with an unapproved user.  If I do not know whether they have been approved, I will check with Security.
 11.	I understand that, in addition to payment for repairs, I will be fined $25.00 for each infraction of any of the above regulations, even if the piano has not sustained any damage.
 12.	This agreement of responsibility may be updated, and I will check back to be aware of any changes in the agreement
-{{ end }}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEQ7UNoY_OwgZA_fR0SKURLMOcs9xACFSkY0O3Lju3AaB6tQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 # Recording studio use agreement
 The Quest Recording Studio is a space designed to allow students to produce various audio projects. This room is a communal space and must be treated with respect. From time to time it is used for courses (for example, in block 4 of fall 2016, the studio will be fully booked for Songwriting and Recording), but any other time it is available for student use. To access the studio, begin by signing the agreement of responsibility below. You will then be contacted by the work study student in charge of the studio to arrange a studio orientation. Once you have been oriented, you will receive access to the studio booking form and to the key code for the studio.
 
-{{ well }}
 ## Agreement of Responsibility
 
 I hereby agree to abide by the following regulations with respect to the use of the Quest Recording Studio:
@@ -62,18 +59,6 @@ I hereby agree to abide by the following regulations with respect to the use of 
 - I will sign in and out of the studio
 - I will respect studio bookings from other students and academic classes
 - This agreement of responsibility may be updated, and I will check back to be aware of any changes in the agreement
-{{ end }}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeQgd6Dx2rNI1ihvB5L-ujkXosTR_wDA18-uMthCoxzlNxgzQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-<!--
-{{ form }}
-{{ string 'Name' }}
-{{ string 'Email Address' }}
-{{ string 'Date' }}
-{{ radio? 'I am applying for access to use the:', 'Recording studio', 'MPR grand piano' }}
-By pressing submit, you indicating that you understand and agree to the relevant statement above. 
-{{ submit 'Submit' }}
-{{ success 'Thanks! If requesting access to the piano, your details will be made available to security within a couple of days. If requesting access to the recording studio, you will soon be contacted for a studio orientation before you are given access to the key code and booking page'}}
-{{ end }}
--->

@@ -5,24 +5,8 @@ subtitle: with Dr. Jeff R. Warren
 image: //upload.wikimedia.org/wikipedia/commons/4/42/Doublebass_scroll.jpg
 ---
 
-This page has information about mentoring. If you would like to meet with me, please [sign up for a appointment.](http://jeffrwarren.sitebox.io/teaching/meet-with-jeff)
+This page has information about mentoring. If you would like to meet with me, please [sign up for a appointment.](https://jeffrwarren.github.io/meet)
 
-<!--
-If you are a current mentee and would like to track your progress, please check your personal progress page, which can be found at the following address: http://jeffwarren.pancakeapps.com/advising/[your last name here]
-
-
-# Meeting record
-Each time you meet with me, please fill out this form so that we both have a record of the outcomes of the meeting.
-
-{{ form }}
-{{ string 'Name' }}
-{{ string 'A summary of what we discussed' }}
-{{ string 'List any action items - things you or I need to do' }}
-{{ submit 'Submit to Jeff' }}
-{{ end }}
--->
-
-{{ well }}
 # Milestones for Mentees
 *Below are expectations for completion of degree requirements for my mentees. Mentees may propose an alternative schedule, but it must be proposed and accepted in advance of deadlines.*
 
@@ -30,9 +14,7 @@ Each time you meet with me, please fill out this form so that we both have a rec
 - by June 1: submit a revised version of your Question Proposal (ideally, you will also have passed your Question SPG). 
 - Complete at least 2 of your Touchstone readings. Please submit a 1-2 page reflection on each reading by September 1.
 
-<!--
 For guidance on writing a good proposal, please look at the [Question proposal writer’s guide](http://jeffwarren.pancakeapps.com/question/proposalguide/guidemain).
--->
 
 ## 3rd year
 - January 10: deadline for the first draft of your Experiential Learning Proposal. Deadlines for subsequent drafts will be set after receipt of your proposal.  The final draft should be ready to go before February 1.
@@ -43,11 +25,7 @@ For guidance on writing a good proposal, please look at the [Question proposal w
 - September 1, 2014: complete the rest of your Touchstone readings. Please submit a 1-2 page reflection on each reading.
 - January 10: First draft of your Keystone
 - March 1: Complete draft of your Keystone. 
-
-<!--
-See [here](http://jeffwarren.pancakeapps.com/question/proposalguide/keystone) for details on entering Keystone block.
--->
-{{ end }}
+- See [here](http://jeffwarren.pancakeapps.com/question/proposalguide/keystone) for details on entering Keystone block.
 
 # Mentoring with Jeff
 *Please take a look at the information below and then set up a meeting if you are interested in having Jeff as your mentor.*
@@ -55,12 +33,7 @@ See [here](http://jeffwarren.pancakeapps.com/question/proposalguide/keystone) fo
 ## About Jeff
 * PhD (Music and Philosophy), MA (Religion, Culture, and Ethics), BA (Music)
 * My main research question: How does music change the ways people relate to each other?
-* Before coming to meet with me, take a look at the following links to get some ideas about points of contact between my expertise/interests and your question/interests: 
-	* [short biography](http://jeffrwarren.sitebox.io/bio)
-	* [written scholarship](http://jeffrwarren.sitebox.io/research/music-and-ethical-responsibility)
-	* [artistic work](http://jeffrwarren.sitebox.io/research/sound-art)
-	* [current research](http://jeffrwarren.sitebox.io/research/the-ethics-of-timbre)
-	* [the courses I teach](http://jeffrwarren.sitebox.io/teaching/courses), which includes: Musical Improvisation, Songwriting & Recording, Phenomenology Education Place, Ethics, The Phenomenon of Music, Music in the 20th Century.
+* Before coming to meet with me, take a look at [my website](http://www.jeffrwarren.com)to get some ideas about points of contact between my expertise/interests and your question/interests. You'll find details about my written scholarship, artistic work, current research, and the courses I teach (which includes: Musical Improvisation, Songwriting & Recording, Phenomenology Education Place, Ethics, The Phenomenon of Music, Music in the 20th Century).
 
 ## Areas of Interest
 * I’m especially interested in mentoring students interested in:
@@ -77,7 +50,6 @@ I want to spend my time with you discussing your question, from the big ideas to
 
 -----
 
-{{ well }}
 # Frequently Asked Questions
 *Below are some questions I am often asked. If you have further questions, please feel free to contact me.*
 
@@ -124,4 +96,3 @@ Yes. If you plan on doing so, please propose alternative dates for the completio
 
 ### What are some characteristics of your favourite mentees? 
 I most enjoy working with mentees who are innately curious, intrinsically motivated, and who care about their own academic success. You will develop some of your own ideas about how to move your progress forward. You will occasionally surprise me with the intellectual connections that you make and the novel ways to approach problems. You will be aware of what the next few steps are, and always be working towards the next accomplishment. You will arrive at our meetings prepared, and on time, and we will engage in interesting and challenging discussions about your question. You will consider my advice and incorporate the ideas that are relevant, and you will carefully consider, but reject my other ideas. You will introduce me to the relevant literature and thinking about your question. When you are creatively or intellectually blocked, you will present several options for moving forward, and I will help you decide which option is best. We will talk about other interesting things, unrelated to your question, and we will get to know each other as people.
-{{ end }}

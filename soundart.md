@@ -1,8 +1,10 @@
+---
+layout: default
 title: Sound art
 subtitle: Jeff's art installations and sound sculptures
 description: Sound installation and soundscape work by Jeff R Warren
 image: http://jeffrwarren.files.wordpress.com/2011/07/dpp_0010.jpg?w=300&h=205
-position: 4
+---
 
 I've been involved in many different music projects and sound art projects. Some of them are detailed on this page.
 
