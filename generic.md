@@ -4,6 +4,7 @@ title: Better title
 subtitle: better subtitle
 ---
 
+<html>
 <!-- Header -->
 	<header id="header">
 		<h1><a href="index.html">Jeff R Warren</a></h1>
@@ -22,6 +23,7 @@ subtitle: better subtitle
 			</ul>
 		</nav>
 	</header>
+</html>
 
 # test
 
@@ -31,6 +33,7 @@ Again. [Link](it is a link)
 * List1
 * now Again
 
+<html>
 <!-- Scripts -->
 <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -46,3 +49,4 @@ Again. [Link](it is a link)
 	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 	<script src="assets/js/main.js"></script>
 </script>
+</html>
