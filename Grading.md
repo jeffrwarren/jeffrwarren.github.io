@@ -1,7 +1,9 @@
+---
+layout: default
 title: Grading and Rhetoric Lexicon
 subtitle: Paper grading standards, rhetoric lexicon, marking shorthand
 image: //upload.wikimedia.org/wikipedia/commons/4/42/Doublebass_scroll.jpg
-position: 11
+---
 
 # Rhetoric Lexicon
 *The following is based on the Princeton Writing Program Writing Lexicon, by Kerry Walk and Judith A. Swan. It is available [here](http://www.princeton.edu/writing/university/resources/lexicon.pdf).*

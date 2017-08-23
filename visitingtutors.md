@@ -1,8 +1,9 @@
+---
+layout: default
 title: Visiting Tutors
 subtitle: in the Arts & Humanities division at Quest University
-description: 
 image: http://randomdescent.files.wordpress.com/2013/12/800px-boger_sigurdur_olafsson.jpg
-position: 10
+---
 
 ## About Quest and Visiting Tutors
 Quest University is an innovative undergraduate university.[Details of Quest's curriculum can be found here.](https://questu.ca/academics/the-block-plan/)

@@ -1,7 +1,9 @@
+---
+layout: default
 title: Mentoring
 subtitle: with Dr. Jeff R. Warren
 image: //upload.wikimedia.org/wikipedia/commons/4/42/Doublebass_scroll.jpg
-position: 9
+---
 
 This page has information about mentoring. If you would like to meet with me, please [sign up for a appointment.](http://jeffrwarren.sitebox.io/teaching/meet-with-jeff)
 

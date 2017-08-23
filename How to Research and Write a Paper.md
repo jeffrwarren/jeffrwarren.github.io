@@ -1,8 +1,10 @@
+---
+layout: default
 title: Research and Writing
 subtitle: How to research and write a paper
 description: Resource for students on researching and writing academic essays by Dr. Jeff R Warren, Quest University Canada
 image: //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Typewriters.jpg/320px-Typewriters.jpg
-position: 7
+---
 
 # How to Research and Write a Paper
 The following process is intended as a tool for undergraduate students researching and writing a paper in the arts and humanities. This process in not unique to undergraduates, as it is the same process that I (and others) use when working on larger scholarly projects. There is also advice on researching for a project when the outcome is in a creative medium (painting or piece of music) rather than a written paper.
