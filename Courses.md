@@ -1,7 +1,10 @@
+---
+layout: default
 title: Courses
 subtitle: Taught by Dr. Jeff R. Warren
 description: Courses taught by Dr Jeff R Warren, Quest University Canada
 image: //upload.wikimedia.org/wikipedia/commons/4/42/Doublebass_scroll.jpg
+---
 position: 6
 
 *This page lists courses that I have taught and plan to teach in the future.*
@@ -59,7 +62,7 @@ position: 6
 - block 4: Songwriting and Recording II (concentration, Apr4-27)
 
 ### Fall 2014:
-* Block 1: Songwriting and Recording (Concentration, Sept 1-24). 
+* Block 1: Songwriting and Recording (Concentration, Sept 1-24).
 * Block 2: Rhetoric (Sep 29 - Oct 22; 13th off for Thanksgiving)
 * Block 3: Scholarship: Musical experience (arts & humanities foundation, Oct 27 - Nov 19)
 * Block 4: not teaching
@@ -88,8 +91,8 @@ position: 6
 * Arts, Media, and Culture travel study to London and Paris (4th year)
 * Music and Culture (3rd year)
 * Aural skills (2nd year)
-* Jazz Combo Ensembles 
-* Applied Lessons in Double and Electric Bass	
+* Jazz Combo Ensembles
+* Applied Lessons in Double and Electric Bass
 * Fundamentals of Music (1st year)
 * Introduction to Fine Arts (1st year)
 * New Music Ensemble
@@ -98,7 +101,7 @@ position: 6
 <!--
 Jeff’s current continuing course list
 
-Scholarship: The Phenomenon of Music 
+Scholarship: The Phenomenon of Music
 Scholarship: Ethics
 Songwriting and Recording I
 Songwriting and Recording II
@@ -153,8 +156,8 @@ Popular Music in North America
 * Arts, Media, and Culture travel study to London and Paris (4th year)
 * Music and Culture (3rd year)
 * Aural skills (2nd year)
-* Jazz Combo Ensembles 
-* Applied Lessons in Double and Electric Bass	
+* Jazz Combo Ensembles
+* Applied Lessons in Double and Electric Bass
 * Fundamentals of Music (1st year)
 * Introduction to Fine Arts (1st year)
 * New Music Ensemble
