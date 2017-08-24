@@ -5,7 +5,6 @@ subtitle: Taught by Dr. Jeff R. Warren
 description: Courses taught by Dr Jeff R Warren, Quest University Canada
 image: //upload.wikimedia.org/wikipedia/commons/4/42/Doublebass_scroll.jpg
 ---
-position: 6
 
 *This page lists courses that I have taught and plan to teach in the future.*
 
