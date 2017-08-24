@@ -1,8 +1,10 @@
-]title: Artists in Residence
+---
+layout: default
+title: Artists in Residence
 subtitle: Artist in Residence Program at Quest University
 description: Artist in Residence Quest University Canada
 image: //upload.wikimedia.org/wikipedia/commons/4/42/Doublebass_scroll.jpg
-position: 10
+---
 
 ## What is the Quest Artist in Residence program?
 Founded in 2014, Quest’s Artist in Residence program brings to campus distinguished practicing artists of all types for a period of six or twelve weeks to teach courses to students, provide campus events for the university and local community, and share their artwork with our community. The artists we bring to campus are skilled educators and active practitioners in artistic disciplines including but not limited to photography, theatre, performance art, film, visual art, creative writing, poetry, sculpture, mixed media, and painting. With this program, we give our students direct access to artists of all types, provide our campus with an infusion of interesting artwork, activities and conversations, and provide artists with an opportunity to do their work in the beautiful setting of our campus. We also provide opportunities for the campus and Squamish community to engage with the work of student artists and our Artists in Residence. In 2016, TD Bank made a $100,000 contribution to the Artist in Residence program.

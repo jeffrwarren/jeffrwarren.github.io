@@ -1,10 +1,12 @@
+---
+layout: default
 title: Ethics map
 subtitle: a map of some main ideas and thinkers in morals and ethics
 description: Major arguments in morals and ethics. A map of ethical ideas compiled by Dr. Jeff R Warren, Quest University Canada
 image: http://www.dmu.ac.uk/webimages/Research/Research-ethics-and-governance/research-ethic-and-governance-bnr.jpg
-Position: 3
+---
 
-# Major arguments in morals and [ethics](http://www.iep.utm.edu/ethics/) 
+# Major arguments in morals and [ethics](http://www.iep.utm.edu/ethics/)
 Overarching questions include: what should I do? What sort of person should I be? How do I respond to others? What is the good life? What is the good? What is virtue? [What is the difference between moral and ethics? (Adorno)](https://www.dropbox.com/s/69nv9x30df4it80/Adorno%20-%20moral%20philosophy%20lectures%201-2.pdf?dl=0)
 
 - Three short books introducing issues in ethics (with my comments):
@@ -32,7 +34,7 @@ Teleological; moral status determines by consequences; reason usually the instru
 	* Machiavelli; Nietzsche; Phillippa Foot
 * **Utilitarian**: Do the best for the happiness of all by quantifying consequences. A response to 18th-19th C law, where acts of great human suffering had little penalty, but small suffering (e.g. prostitution) had huge penalty. Applies Enlightenment science ideal to quantify happiness, which leads to problems. [A video introduction to utilitarianism](https://www.youtube.com/watch?v=uvmz5E75ZIA)
 	* **Act**: act in a way to maximize the intrinsically valuable. Can lead to justification of slavery and other problems. (supported by R. M. Hare)
-	* **Rule**: A set of rules to maximize the intrinsically valuable. Can lead to rule worship. 
+	* **Rule**: A set of rules to maximize the intrinsically valuable. Can lead to rule worship.
 	* Bentham initiator of utilitarianism (perhaps hints of it in Aristotle). Hedonistic: pleasure = good. Asks us to imagine all the actions possible, predict consequences for everyone, select the ‘most good’.
 	* [Mill: *Utilitarianism* (1861)](https://www.marxists.org/reference/archive/mill-john-stuart/1863/utility/ch01.htm). Not all pleasure is equal. Virtue, not pleasure, is good.
 
@@ -57,7 +59,7 @@ Teleological; moral status determines by consequences; reason usually the instru
 	* Rousseau:[*The Social Contract* (1762)](http://www.earlymoderntexts.com/assets/pdfs/rousseau1762.pdf)
 	* Rawls: [*A theory of Justice* (1971)](https://www.uta.edu/philosophy/faculty/burgess-jackson/A%20Theory%20of%20Justice%20(Excerpts).pdf): ‘veil of ignorance’; ‘justice as fairness’ (has been called Kantian contractarianism)
 		* Read the highlighted sections from [this Rawls excerpt](https://www.dropbox.com/s/x1ytvt1emomdhy2/Rawls%20-%20A%20Theory%20of%20Justice%20%28Excerpts%29.pdf?dl=0)
-		- Discuss: 
+		- Discuss:
 			- Are you convinced by the ‘justice as fairness’ argument? Why are why not?
 			- What are the advantages of the ‘veil of ignorance’? Disadvantages?
 			- To what challenges is this argument susceptible to?
@@ -77,7 +79,7 @@ Exploring the meaning, ontological commitments, and justification of ethical dis
 Ethical discourse has cognitive content. Often based on ideas attainable moral knowledge based on facts that have truth values.
 
 * **Subjectivism**: Normativity/fact based upon choice/preferences
-	* Individual 
+	* Individual
 		* relativism (Harman; WT Stace)
 		* Existentialism
 			* Sartre: [“Existentialism is a Humanism”](http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm)
@@ -87,7 +89,7 @@ Ethical discourse has cognitive content. Often based on ideas attainable moral k
 		* Sumner: [Selections from *Folkways*](http://www.douglasficek.com/teaching/phil-2222/sumner.pdf)
 		* Rachels: [“The Challenge of Cultural Relativism”](http://www.douglasficek.com/teaching/phil-2222/rachels.pdf)
 			* Read quickly by reading the introduction, conclusion, and main ideas as laid out in numbered or titled sections.
-			- Discuss: 
+			- Discuss:
 				- What are the challenges of moral relativism?
 				- What solutions does Rachels provide? Are these solutions adequate?
 				- Are there other solutions to moral relativism we’ve encountered in this course?
@@ -98,7 +100,7 @@ Ethical discourse has cognitive content. Often based on ideas attainable moral k
 		* Spinoza: [*The Ethics*](http://www.gutenberg.org/files/3800/3800-h/3800-h.htm)
 		* [Dewey’s pragmatic stance](http://plato.stanford.edu/entries/dewey-moral/#2) in [*Theory of Values*](https://archive.org/details/theoryofvaluatio032168mbp): values can be tested, but can change depending on societal changes.
 	* **[Non-naturalism](http://plato.stanford.edu/entries/moral-non-naturalism)**: Moral discourse cannot be reduced to natural facts. Ethical terms are primitive and cannot be reduced.
-		* GE Moore: [Principia Ethica (1903)](http://fair-use.org/g-e-moore/principia-ethica). ‘good is good’ and ‘good cannot be defined’. Ethical terms cannot be translated into other term. 
+		* GE Moore: [Principia Ethica (1903)](http://fair-use.org/g-e-moore/principia-ethica). ‘good is good’ and ‘good cannot be defined’. Ethical terms cannot be translated into other term.
 		* Supernaturalism: Normativity from a God. The good is what god commands or what he would command
 		* Intuitionism: Ethical judgements are found within intuition (Richard Price; Robert Audi)
 
@@ -113,14 +115,14 @@ There can be no moral knowledge. There is no cognitive element in ethics. With n
 	* Deleuze and Guttari: [Desiring Machines](http://lavachequilit.typepad.com/files/deleuze-guattari---the-anti-oedipus.pdf)
 * **Factors beyond human control**
 	* Biological determinism (Dawkins)
-	* Moral Luck: [Video on moral luck](https://www.youtube.com/watch?v=HvqJ-s26ol4); Nagel: [“Moral Luck”](https://www.dropbox.com/s/g60su8chvcjccq4/Nagel%20-%20Moral%20Luck.pdf?dl=0); 
+	* Moral Luck: [Video on moral luck](https://www.youtube.com/watch?v=HvqJ-s26ol4); Nagel: [“Moral Luck”](https://www.dropbox.com/s/g60su8chvcjccq4/Nagel%20-%20Moral%20Luck.pdf?dl=0);
 		* Discuss: how does the argument about moral luck relate to the theories we’ve discussed thus far in the course? How might these other approaches (for example, Kantian deontology) respond to the problem of moral luck? How might you apply moral luck to the ethical problem of poverty? (or to an applied ethical problem of your choosing?)
 * **Nihilism**: There are no values, morals or ethics. Anything is permitted and all actions equal (As explored in Dostoevsky’s [Grand Inquisitor](http://www.gutenberg.org/files/8578/8578-h/8578-h.htm))
-* **Ethics beyond or before knowledge** 
+* **Ethics beyond or before knowledge**
 	* Wittgenstein: ethics cannot be spoken of. [A Lecture on Ethics](http://www.jstor.org/stable/2183526)
 	* [Levinasian Ethics](http://plato.stanford.edu/entries/levinas/): Ethics comes from an encounter with another person; (See [Levinas’s obituary](http://www.nytimes.com/1995/12/27/world/emmanuel-levinas-90-french-ethical-philosopher.html)). *Ethics and Infinity*: [the face and responsibility](https://www.dropbox.com/s/hbjizbfyd356jl4/Levinas%20-%20Ethics%20and%20Infinity%20-%20the%20face%20and%20responsibility.pdf?dl=0)
 	* Event Ethics: events create truths that require one to be responsible to. Badiou: [Ethics : An Essay on the Understanding of Evil](https://unmtheorygroup.files.wordpress.com/2010/08/badiou-ethics-an-essay-on-the-understanding-of-evil.pdf)
-		- The problems: individual rights, even human rights, ‘identity politics’ (the problem of Lévinas turning into the issues of ‘difference’ but what is really interesting is when we come together). 
+		- The problems: individual rights, even human rights, ‘identity politics’ (the problem of Lévinas turning into the issues of ‘difference’ but what is really interesting is when we come together).
 		- These all assume a standard way of the way the world works (job, private property, ‘growth’, etc), thus placing those things as normal with an unspoken power. They don’t allow the possibility for another possible world (which might be better).
 		- His solution: ‘The Event’ (love, art, math, politics) that creates a new truth.
 		- Ethics is living in constant response to that truth.
@@ -143,7 +145,7 @@ There can be no moral knowledge. There is no cognitive element in ethics. With n
 		- [Don Marquis, “An Argument that Abortion is Wrong”](http://www.douglasficek.com/teaching/phil-2222/marquis.pdf)
 		- [“A Defense of Abortion” by Judith Jarvis Thomson](http://www.douglasficek.com/teaching/phil-2222/thomson.pdf)
 			- Comparison of Marquis and Thomson
-		- Foot, “The Problem of Abortion and the Doctrine of the Double Effect” 
+		- Foot, “The Problem of Abortion and the Doctrine of the Double Effect”
 		- [“On the Moral and Legal Status of Abortion” by Mary Anne Warren](http://www.douglasficek.com/teaching/phil-2222/warren.pdf)
 		- Michael Tooley
 	- Race
@@ -166,8 +168,8 @@ There can be no moral knowledge. There is no cognitive element in ethics. With n
 - Animals
 	- Kant, “We Have No Duties to Animals”
 	- [Singer, “All Animals Are Equal”](http://spot.colorado.edu/~heathwoo/phil1200,Spr07/singer.pdf)
-	- Feinberg, “The Rights of Animals and Unborn Generations” 
-	- [Eating animals video](https://www.youtube.com/watch?v=3HAMk_ZYO7g) 
+	- Feinberg, “The Rights of Animals and Unborn Generations”
+	- [Eating animals video](https://www.youtube.com/watch?v=3HAMk_ZYO7g)
 - bioethics
 	- Euthanasia / doctor assisted suicide
 		- [Canada Feb 2016](http://www.cbc.ca/news/politics/doctor-assisted-death-minors-1.3466769?cmp=rss)

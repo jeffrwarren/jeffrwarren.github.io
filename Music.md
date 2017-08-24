@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Musicf
+title: Music
 subtitle: Jeff's composition and performance
 description: The jazz and composition of Jeff R Warren
 image: http://jeffrwarren.files.wordpress.com/2011/07/dpp_0010.jpg?w=300&h=205
