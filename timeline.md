@@ -1,8 +1,10 @@
+---
+layout: default
 title: Timeline
 subtitle: a brief timeline of western arts and ideas
 description: a brief timeline of western arts and ideas, compiled for students by Dr. Jeff R Warren, Quest University Canada
 image: http://upload.wikimedia.org/wikipedia/commons/9/9d/Holbein-ambassadors.jpg
-position: 12
+---
 
 *Below is a timeline that includes some key events in pertinent to the history of the Western arts and ideas. This timeline is not anywhere close to complete, but attempts to provide a listing of significant events and movements that are referenced in arts and humanities history. This timeline provides a bit of grounding to references you may run across in arts and humanities courses.*
 
@@ -56,7 +58,7 @@ position: 12
 * 1517 [Luther](http://en.wikipedia.org/wiki/Martin_Luther) and the [Protestant Reformation](http://en.wikipedia.org/wiki/Protestant_Reformation) begins
 * 1545 Catholic [Counter-reformation](http://en.wikipedia.org/wiki/Counter-reformation) begins
 * 1526-1594 [Palestrina](http://en.wikipedia.org/wiki/Palestrina)
-* 1590s [Shakespeare](http://en.wikipedia.org/wiki/Shakespeare) 
+* 1590s [Shakespeare](http://en.wikipedia.org/wiki/Shakespeare)
 
 ## Baroque (1600-1750)
 * Music: [common practice era](http://en.wikipedia.org/wiki/Common_practice_period) (1600-1910)
@@ -66,18 +68,18 @@ position: 12
 * 1577-1640 [Rubens](http://en.wikipedia.org/wiki/Rubens)
 * 1606-1669 [Rembrandt](http://en.wikipedia.org/wiki/Rembrandt)
 * 1641 Descartes [Meditations on First Philosophy](http://plato.stanford.edu/search/searcher.py?query=Descartes)
-* 1669-85 [Versailles expansion](http://en.wikipedia.org/wiki/Palace_of_Versailles) (France) 
+* 1669-85 [Versailles expansion](http://en.wikipedia.org/wiki/Palace_of_Versailles) (France)
 * Late 1600s rise of [ballet](http://en.wikipedia.org/wiki/History_of_ballet) (France)
-* 1675-1710 [Christopher Wren](http://en.wikipedia.org/wiki/Christopher_Wren)'s St. Paul's in London 
+* 1675-1710 [Christopher Wren](http://en.wikipedia.org/wiki/Christopher_Wren)'s St. Paul's in London
 * 1727 [Bach](http://en.wikipedia.org/wiki/Bach) (1685-1750) [St. Matthew Passion](http://m.youtube.com/watch?v=bFnW_CrPUlA)
 * 1725 [Vivaldi](http://en.wikipedia.org/wiki/Vivaldi)'s '[Four Seasons](http://m.youtube.com/watch?v=nbpAFzyrx5o&desktop_uri=%2Fwatch%3Fv%3DnbpAFzyrx5o)'
 * 1742 [Handel](http://en.wikipedia.org/wiki/Handel)'s '[Messiah](http://m.youtube.com/watch?v=ZuGSOkYWfDQ&desktop_uri=%2Fwatch%3Fv%3DZuGSOkYWfDQ)'
 
 ## [Enlightenment](http://plato.stanford.edu/entries/enlightenment/) (Classical in music / Neo-Classical in visual art)
 * [Links to many full Enlightenment texts](http://www.fordham.edu/halsall/mod/modsbook10.asp)
-* 1717 [Watteau](http://en.wikipedia.org/wiki/Watteau) ([rococo](http://en.wikipedia.org/wiki/Rococo)) 
+* 1717 [Watteau](http://en.wikipedia.org/wiki/Watteau) ([rococo](http://en.wikipedia.org/wiki/Rococo))
 * 1721 Montesquieu's *Persian Letters*
-* 1733-4 [Hogarth's 'the rake's progress'](http://en.wikipedia.org/wiki/A_Rake's_Progress) 
+* 1733-4 [Hogarth's 'the rake's progress'](http://en.wikipedia.org/wiki/A_Rake's_Progress)
 * 1748 Excavation of [Pompeii](http://en.wikipedia.org/wiki/Pompeii)
 * 1751 [Voltaire](http://plato.stanford.edu/entries/voltaire/)'s (1694-1778) [Encyclopedie](http://en.wikipedia.org/wiki/Encyclop%C3%A9die)
 * 1750-1830 [Music's classical period ](http://en.wikipedia.org/wiki/Classical_period_(music))
@@ -87,7 +89,7 @@ position: 12
 * 1769 Watt's [steam engine](http://en.wikipedia.org/wiki/Steam_engine)
 * 1785 Kant (1724-1804) [The Groundwork of the Metaphysics of Morals](http://plato.stanford.edu/entries/kant-moral/)
 * 1789 Start of the [French Revolution](http://www.britannica.com/EBchecked/topic/219315/French-Revolution)
-* 1789 [David](http://en.wikipedia.org/wiki/Jacques-Louis_David) (1780-1820) 
+* 1789 [David](http://en.wikipedia.org/wiki/Jacques-Louis_David) (1780-1820)
 * 1791 [Mozart](http://en.wikipedia.org/wiki/Mozart)' *Magic Flute* (1756-91) [Requiem](http://m.youtube.com/watch?v=sPlhKP0nZII)
 * 1808/1824[Beethoven](http://en.wikipedia.org/wiki/Beethoven) (1770-1827) [Symphony 5](http://m.youtube.com/watch?v=6z4KK7RWjmk&desktop_uri=%2Fwatch%3Fv%3D6z4KK7RWjmk) [Symphony 9](http://m.youtube.com/watch?v=t3217H8JppI&desktop_uri=%2Fwatch%3Fv%3Dt3217H8JppI)
 
@@ -98,7 +100,7 @@ position: 12
 * 1800-1850 Romantic visual art
 * 1815-1910 Music's [romantic era ](http://en.wikipedia.org/wiki/Romantic_music)
 * 1818 [Caspar David Friedrich](http://en.wikipedia.org/wiki/Caspar_David_Friedrich) [Wanderer above the Sea of Fog](http://en.wikipedia.org/wiki/Wanderer_above_the_Sea_of_Fog)
-* 1830 Delacroix [Liberty leading the people](http://en.wikipedia.org/wiki/Liberty_Leading_the_People) 
+* 1830 Delacroix [Liberty leading the people](http://en.wikipedia.org/wiki/Liberty_Leading_the_People)
 * Hegel [some texts]((http://www.marxists.org/reference/archive/hegel/))
 * 1830 [Chopin](http://en.wikipedia.org/wiki/Chopin)'s [revolutionary etude](http://am.youtube.com/watch?v=Mk1JQk90UbY&desktop_uri=%2Fwatch%3Fv%3DMk1JQk90UbY)
 * 1840-1870 [Realism in visual art](http://en.wikipedia.org/wiki/Realism_(arts))
@@ -114,10 +116,10 @@ position: 12
 * 1913 [Stravinsky's 'Rite of Spring' ](http://m.youtube.com/watch?v=jF1OQkHybEQ&desktop_uri=%2Fwatch%3Fv%3DjF1OQkHybEQ)
 * 1914-1918 WWI
 * 1910s onward: blues
-* 1920s [Tin Pan Alley](http://en.wikipedia.org/wiki/Tin_Pan_Alley) 
+* 1920s [Tin Pan Alley](http://en.wikipedia.org/wiki/Tin_Pan_Alley)
 * [Expressionism](http://en.wikipedia.org/wiki/Expressionism)
 * 1915 '[Birth of a nation](http://m.youtube.com/watch?v=iEznh2JZvrI&desktop_uri=%2Fwatch%3Fv%3DiEznh2JZvrI)' (first full length film)
-* [Dada](http://en.wikipedia.org/wiki/Dada) 
+* [Dada](http://en.wikipedia.org/wiki/Dada)
 * [Surrealism](http://en.wikipedia.org/wiki/Surrealism)
 * [Cubism](http://en.wikipedia.org/wiki/Cubism) ([Picasso](http://www.picasso.fr/us/picasso_page_index.php))
 * 1927 '[The jazz singer](http://m.youtube.com/watch?v=PIaj7FNHnjQ&desktop_uri=%2Fwatch%3Fv%3DPIaj7FNHnjQ)' (first sound film)
@@ -129,5 +131,3 @@ position: 12
 * 1960s [John Cage](http://johncage.org/)
 * 1960s [Pop art](http://en.wikipedia.org/wiki/Pop_art)
 * 1960s-70s [concept albums](http://en.wikipedia.org/wiki/Concept_album), [soul](http://en.wikipedia.org/wiki/Soul_music), [funk](http://en.wikipedia.org/wiki/Funk), [hip-hop](http://en.wikipedia.org/wiki/Hip_hop_music)
-
-

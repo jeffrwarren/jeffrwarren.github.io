@@ -48,7 +48,7 @@ With an increased number of digital resources, your search for sources does not 
 	* E-books: many libraries now have access to a growing collection of books in electronic format. For many of them you can even download a few relevant pages in PDF format. One of the more helpful collections are the 'Cambridge Companions' (Quest has access to the Cambridge Companions to music).
 	* Open access journal lists: More and more academic journals are launching as freely accessible to all (also called open access). The quality of open access journals is maintained by having a quality editorial board. [Here][6] is one example. Some are listed in library databases, and some are not.
 	* Interlibrary Loan: For all those sources the library does not have, you can either drive to a library that does have it, buy it, or for a low cost and less effort order it through the library's interlibrary loan. Note that it can takes a couple week to get your sources, so plan ahead.
-	
+
    [3]: http://www.jstor.org/
    [4]: http://www.rilm.org/
    [5]: http://www.vergearts.com
@@ -148,7 +148,7 @@ I usually accompany these questions with a face to face discussion about the pro
 	- I want to research John Cage and how he was influenced by Henry Cowell in his composition style.
 	- During the Baroque period, the Greek tragic operas of L’Orfeo by Claudio Monterverdi and Armide by John-Baptiste Lully use music, dance and drama to convey emotion.
 	- The western concert flute is a versatile instrument, the potential of which has not been adequately explored until the 20th century.
-	
+
 - *Example of a good topic that still requires an approach/argument:*
 	- I would like to explore the idea of music being used in the late 20th century as a tool for bringing “peace” between ethnic groups. This paper will focus primarily on the vision of Daniel Barenboim and Edward Said’s orchestra project: the West-Eastern Divan Orchestra.
 
@@ -180,12 +180,12 @@ Write the draft, and then leave it for a short period of time. If you have done 
 One thing that I often am asked by first year students is what voice to write in. You are writing the paper, so make it clear when *you* are saying something and when you are drawing from another source. *Always* cite your sources, and be clear when you are making an evaluation based upon your research. Do not try and overreach by making claims that cannot be sustained. Don't be afraid to make big claims, but back them up if you do. The world is a complex place, and you will not solve all of its problems in one paper. You are able to enter into a larger scholarly dialogue through your paper. Use a citation anytime you draw information from a source or directly quote the source.
 
 ### Revision and Editing
-This is the most undervalued step in undergraduate writing, and will likely improve your mark by a letter grade. Revision (seeing your work again) could involve major changes, while editing usually focuses on smaller mechanical changes. Most students only edit, but good writers do significant revision. Re-read your draft and ask yourself: 
+This is the most undervalued step in undergraduate writing, and will likely improve your mark by a letter grade. Revision (seeing your work again) could involve major changes, while editing usually focuses on smaller mechanical changes. Most students only edit, but good writers do significant revision. Re-read your draft and ask yourself:
 
 * Does it flow? How well do the sections transition? Does the argument flow logically? Could the argument be better structured?
 	* Does the end of each paragraph or section summarize what was presented and relate it back to the overall argument? Adding transition and summary sentences can really improve a paper.
-* Could something be expressed more clearly? 
-	* If you find long or complex sentences, simplify them. 
+* Could something be expressed more clearly?
+	* If you find long or complex sentences, simplify them.
 	* One thing that can increase clarity is make sure to be specific. Sentence that start with 'This' (eg 'This means that...') are often extremely vague. Specific the 'this' (eg. 'This evidence of connection between Van Halen and Baroque music means that...'). Certain instanced of the word 'it' can also be made more clear.
 * Did I do what I set out to do?
 	* If you are writing an argumentative paper, do you think your argument might convince a skeptical reader?
