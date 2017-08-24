@@ -17,7 +17,7 @@ The Arts & Humanities division covers a wide range of disciplines. The two main 
 
 General information and policies about Quest can be found [here](https://questu.ca/academics/catalogue-calendar-policies/).
 
-All students have taken a course in Rhetoric as their second course at Quest, and in the process have learned several terms that you can reinforce in your course. You can find those terms [here](http://jeffrwarren.sitebox.io/teaching/grading).
+All students have taken a course in Rhetoric as their second course at Quest, and in the process have learned several terms that you can reinforce in your course. You can find those terms [here](https://jeffrwarren.github.io/grading).
 
 Those who have been offered positions will receive (or have already received) a detailed document from human resources that includes specifics about accommodation, deadlines for entering grades, advice for teaching at Quest, and other issues that apply to all visiting tutors. This resource augments those materials with details specific to teaching Arts & Humanities division courses.
 
