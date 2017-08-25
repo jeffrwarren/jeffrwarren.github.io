@@ -25,7 +25,7 @@ Professor of Music and Humanities, Quest University | [jeff.warren@questu.ca](je
 
 ## PRESENTATIONS AND PUBLICATIONS
 ### PUBLICATIONS
-
+- Warren, Jeff R. "Music Ethics Politics." *New Sound*, Forthcoming
 - Warren, Jeff R. *Music and Ethical Responsibility.* Cambridge University Press, 2014. [Link](http://www.cambridge.org/us/academic/subjects/music/music-criticism/music-and-ethical-responsibility)
 - Warren, Jeff R. “Breath and Improvisation.” *Soundweaving: Writings on Improvisation.* Newcastle upon Tyne: Cambridge Scholars Publishing, 2014. 121-36. [Link](http://www.cambridgescholars.com/soundweaving-8)
 - Warren, Jeff R. “Review of Music and Ethics By Marcel Cobussen and Nanette Nielsen.” *New Sound* No. 40 (2013) [Link](http://www.newsound.org.rs/en/pdfs/ns40/New_Sound_40.229-232.pdf)
