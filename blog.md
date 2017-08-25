@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Blog
 subtitle: Some things Jeff writes sometimes
 ---
