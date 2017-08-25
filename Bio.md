@@ -17,13 +17,7 @@ I grew up in Ottawa, ON. Music was a part of my life early on, and my dad sang i
 
 My applied musical work is quite varied, from studio session work to a new country band to the West Coast Symphony the nuevo flamenco group De La Terra. Jazz is the genre I perform most at present. At TWU I built and directed the jazz combo program. Then I spent a few years spending more time on creating sound installations for art galleries. I have also taught private lessons in my home studio, TWU, and Kwantlen Polytechnic University on double and electric bass, guitar, music theory, history, and composition. Since moving to Squamish, I have spent more time on other work, but I still play with a couple of different groups.
 
-<img src="images/fam.jpg" alt="Drawing" style="width: 200px;"/>
-
-![](./pic/pic1s.png =250x)
-
-<img src="images/fam.jpg" width="400" height="300">
-
-![family](https://jeffrwarren.github.io/images/fam.jpg =200x)
+<img src="images/fam.jpg" alt="Family" style="width: 400px;"/>
 
 I currently reside in Squamish, British Columbia with my wife, two daughters, and little dog. I like to pretend I surf, but it is hard to really be a surfer when you only go a couple times a year, and the past few surf trips have ended with broken boards and feet full of urchins. Since moving to Squamish I mountain bike and ski, apparent requisites of living here.
 
@@ -31,6 +25,6 @@ You can take a look at a short version of my curriculum vitae [here](http://jeff
 
 You can view my Quest University faculty bio [here](http://www.questu.ca/academics/faculty/jeff_warren.php).
 
-![ski](https://jeffrwarren.github.io/images/ski.jpg)
+<img src="images/ski.jpg" alt="skiing" style="width: 400px;"/>
 
-![revy](https://jeffrwarren.github.io/images/revy.jpg)
+<img src="images/revy.jpg" alt="biking" style="width: 400px;"/>
