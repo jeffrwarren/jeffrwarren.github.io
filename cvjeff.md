@@ -1,3 +1,9 @@
+---
+layout: default
+title: Curriculum Vitae
+subtitle: Jeff R. Warren, PhD
+---
+
 # Jeff R. Warren, PhD
 Professor of Music and Humanities, Quest University | [jeff.warren@questu.ca](jeff.warren@questu.ca) | [jeffrwarren.com](www.jeffrwarren.com)
 
@@ -35,8 +41,9 @@ Professor of Music and Humanities, Quest University | [jeff.warren@questu.ca](je
 - Warren, Jeff R. “Towards an Ethical-Hermeneutics.” *European Journal of Psychotherapy, Counselling and Health* Vol. 7, No. 1-2 (2005): 17-28. [Link](http://dl.dropbox.com/u/12162202/Warren%202005%20-%20Towards%20and%20Ethical-Herm%20-%20REJP108696.pdf)
 
 ### SELECTED PRESENTATIONS AND OTHER PUBLICATIONS
--
-- “Improvisation and the Analysis of Breath” SMT Improvisation interest group, American Musicological Society / Society for Music Theory joint conference, Vancouver, November 2016.
+- "On the ‘instrumental’: music, bodies, and objects", Presentation at American Musicology Society conference, Rochester, November 2017.
+- "Performances of Spirituality and Relationality in Contemporary Worship Music", presentation at Arts and Spirituality conference, Trinity Western University, September 2017.
+- “Improvisation and the Analysis of Breath”, Presentation at SMT Improvisation interest group, American Musicological Society / Society for Music Theory joint conference, Vancouver, November 2016.
 - “Musical relations and ethical responsibility” Invited presentation at the symposium [‘Religiosity, relationality, and musicality in the 21st century’](http://ism.yale.edu/event/symposium-religiosity-relationality-and-musicality-twenty-first-century), Yale University, Institute of Sacred Music, April 2016
 - “Ethics and other people’s music” Presentation at Royal Musicology Association’s Music and Philosophy Conference, London, July 2015.
 - “Composition as Research: IRCAM and Spectralism” Presentation at Arts and Research Conference, Trinity Western University, October 2014.
