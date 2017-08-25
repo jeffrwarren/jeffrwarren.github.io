@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Curriculum Vitae
-subtitle: Jeff R. Warren, PhD
+subtitle: Jeff R Warren, PhD
 ---
 
 # Jeff R. Warren, PhD
