@@ -13,14 +13,18 @@ I've taught all sorts of different courses, including: popular music history, 20
 
 I grew up in Ottawa, ON. Music was a part of my life early on, and my dad sang in a semi-professional choral group. After mixed experiences with the piano and trumpet, I picked up the bass guitar at age 15 for the reason most bass players get started: I wanted to start a band and I was the worst guitar player among my friends. That band eventually found its way on to a record small label in Kingston, ON. That group’s future was cut short for schooling, as I traveled across the country to study the double bass at Trinity Western University in Langley, B.C. I also played varsity volleyball, and after receiving his BA, I was offered to come and play a fifth year of volleyball. During that year I started an interdisciplinary MA in Religion, Culture, and Ethics. After completing that degree, I had the opportunity to teach and remained at TWU for nine years. Once I figured out that I enjoyed researching and writing about music as much as playing it, I decided to do a PhD at Royal Holloway, University of London in music and philosophy. I studied with Andrew Bowie and Nicholas Cook and my thesis title was “Musical Experience and Human Relationships: Meaning, Improvisation, and Ethics in Music”.
 
-My applied musical work is quite varied, from studio session work to a new country band to the West Coast Symphony the nuevo flamenco group De La Terra. Jazz is the genre I perform most at present. At TWU I built and directed the jazz combo program. In the past few years I have spent more time on creating sound installations for art galleries. Details of my recent work are on my website. Over the past ten years I have also taught private lessons in my home studio, TWU, and Kwantlen Polytechnic University on double and electric bass, guitar, music theory, history, and composition.
-
 ![Jeff in one of my few gigs on the guitar](http://jeffrwarren.files.wordpress.com/2011/07/jeffltwedding.jpg?w=300&h=200)
 
-I currently reside in Squamish, British Columbia with my wife, two daughters, and a little dog. I like to pretend I surf, but it is hard to really be a surfer when you only go a couple times a year. I broke my board the last time I surfed. Now that I live in Squamish I mountain bike, an apparent requisite of living here.
+My applied musical work is quite varied, from studio session work to a new country band to the West Coast Symphony the nuevo flamenco group De La Terra. Jazz is the genre I perform most at present. At TWU I built and directed the jazz combo program. Then I spent a few years spending more time on creating sound installations for art galleries. I have also taught private lessons in my home studio, TWU, and Kwantlen Polytechnic University on double and electric bass, guitar, music theory, history, and composition. Since moving to Squamish, I have spent more time on other work, but I still play with a couple of different groups.
 
-You can take a look at a short version of my curriculum vitae [here](http://jeffwarren.pancakeapps.com/blog/cvjeffshort). There are also links to some of my publications.
+![family](https://jeffrwarren.github.io/images/fam.jpg)
+
+I currently reside in Squamish, British Columbia with my wife, two daughters, and little dog. I like to pretend I surf, but it is hard to really be a surfer when you only go a couple times a year, and the past few surf trips have ended with broken boards and feet full of urchins. Since moving to Squamish I mountain bike and ski, apparent requisites of living here.
+
+You can take a look at a short version of my curriculum vitae [here](http://jeffwarren.github.io/cvjeff). There are also links to some of my publications.
 
 You can view my Quest University faculty bio [here](http://www.questu.ca/academics/faculty/jeff_warren.php).
 
+![ski](https://jeffrwarren.github.io/images/ski.jpg)
 
+![revy](https://jeffrwarren.github.io/images/revy.jpg)
