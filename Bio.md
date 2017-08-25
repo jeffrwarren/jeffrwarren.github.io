@@ -5,6 +5,16 @@ subtitle: Jeff R. Warren
 image: http://jeffrwarren.files.wordpress.com/2011/07/jeffltwedding.jpg?w=300&h=200
 ---
 
+
+<h1>{{ page.title }}</h1>
+<ul class="posts">
+
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
 I am a Professor of Music and Humanities at [Quest University Canada](www.questu.ca) in Squamish, British Columbia. My book, Music and Ethical Responsibility, is published by Cambridge University Press. The book examines how musical experience creates encounters with other people that leads to ethical responsibilities. My main research interests include music and ethics, musical improvisation, meaning in music, soundscape, modern European philosophy, and psychology. I also do creative work including jazz composition, performance on double bass, and sound installations. One of my current research projects is called The Ethics of Timbre, which is funded by the Social Sciences and Humanities Research Council of Canada. Other recent work includes a sound sculpture commissioned for the London 2012 Cultural Olympiad. I have also done consulting in interdisciplinary and general education curriculum design. My PhD is in music and philosophy from Royal Holloway, University of London. Before moving to Quest in 2013, I spent nine years at [Trinity Western University](http://twu.ca/directory/faculty/jeff-warren.html), where I continue with the title of Adjunct Professor of Music and Interdisciplinary Arts.
 
 <img src="http://jeffrwarren.files.wordpress.com/2013/08/photo-1.jpg?w=288&h=288" alt="headshot" style="width: 300px;"/>
