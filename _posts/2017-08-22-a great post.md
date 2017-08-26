@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultj
 title: "Test post 2"
 date: 2017-08-22
 ---
