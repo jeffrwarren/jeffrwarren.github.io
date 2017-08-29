@@ -13,11 +13,11 @@ I've been involved in many different music projects and sound art projects. Some
 ### Evergreen Cultural Centre, Coquitlam, BC
 Sound installation, in collaboration with Doris Auxier and Suzanne Northcott, reflecting on the Langley Bog and Colony Farm in Coquitlam.
 
-![evergreen installation](http://jeffrwarren.files.wordpress.com/2013/08/evergreen.jpeg?w=240&h=360)
+<img src="images/warrenevergreen.jpg" alt="Evergreen" style="width: 400px;"/>
 
 ## CEREMONIAL CLEANSE (June 2010)
 
-### Sound Sculpture, Royal Holloway, University of London, Egham, England 
+### Sound Sculpture, Royal Holloway, University of London, Egham, England
 A sculptural installation that alters both the auditory and visual space of its surroundings. Conceptually, the installation explores water and ritual, drawing inspiration from ritual elements of the Olympic games and the ritualized usage of water in the suikinkutsu(Japanese water harp) and tea ceremony. Commissioned by ‘Creative Campus Initiatives’, part of the 2012 London cultural Olympiad. Video of sculture below:
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/_FCogXu-Z5w" frameborder="0" allowfullscreen></iframe>
@@ -28,6 +28,8 @@ A sculptural installation that alters both the auditory and visual space of its 
 * Water sounds: At many points in music history sounds of water are imitated or used as inspiration in composition. In the mid-twentieth century, the sounds of actual water made their way into music, mostly through electronic media. In this piece I have only altered the small sounds of water by physical means. It is my most low-tech piece thus far.
 * Acoustic ecology: The question that motivates much of my artistic and research work is how music and sounds alter the ways that people interact. In my work, I ask the reader/viewer/listener to consider the sounds around us and how those sounds and our concepts of them help or hinder social relationships. For me, the interest in Ceremonial Cleanse is not just in the sounds of the piece, but in the way it asks the viewer to attune her listening. In listening to the sculpture, viewers will also hear other sounds from other people, nature, and industry. The Olympics as an event alter interactions and the ways people think about places and people. Like sounds, this can have positive and negative results.
 * Performance and Participation: One of the justifications for the Olympics is the inspiration it provides others to live active lifestyles. The Olympics are thus one big performance, experienced through single events and broadcast throughout the world, and participatory. People are asked to both respond to the Olympics and participate as viewers. Likewise, Ceremonial Cleanse demands its viewers be participants. Viewers must gather water from the stream and pour it onto the rocks. To hear the sound loudest they must bend down.
+
+<img src="images/warrencleansepromosmall.jpg" alt="cleanse" style="width: 400px;"/>
 
 ## BOG:TRANSFORMATION AND MEMORY (August 2009)
 

@@ -27,4 +27,6 @@ You can view my Quest University faculty bio [here](http://www.questu.ca/academi
 
 <img src="images/ski.jpg" alt="skiing" style="width: 400px;"/>
 
-<img src="images/revy.jpg" alt="biking" style="width: 400px;"/>
+<img src="images/revy2.jpg" alt="biking" style="width: 400px;"/>
+
+<img src="images/biking1.jpg" alt="biking" style="width: 400px;"/>
