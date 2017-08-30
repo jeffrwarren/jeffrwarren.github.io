@@ -6,7 +6,7 @@ image: http://randomdescent.files.wordpress.com/2013/12/800px-boger_sigurdur_ola
 ---
 
 ## About Quest and Visiting Tutors
-Quest University is an innovative undergraduate university.[Details of Quest's curriculum can be found here.](https://questu.ca/academics/the-block-plan/)
+Quest University is an innovative undergraduate university. There are no majors. Instead, students take two years of courses across the arts and sciences and then create an individual question that guides them through the rest of their degree. Our classes are taught on the block system. Each course is 3 1/2 weeks long, and students spend three hours each day in class and four to six hours each day working outside of class. Maximum class size is 20. [More details about Quest's curriculum can be found here.](https://questu.ca/academics/the-block-plan/)
 
 In addition to our continuing faculty, Visiting Tutors teach single blocks to supplement the capacity and expertise of our faculty.[Details on applying to Quest as a Visiting Tutor can be found here](https://questu.ca/about/employment/visiting-tutors/). Feel free to be in contact with me [directly](mailto:jeff.warren@questu.ca) as well.
 
