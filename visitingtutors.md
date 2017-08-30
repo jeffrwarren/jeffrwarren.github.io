@@ -11,13 +11,13 @@ Quest University is an innovative undergraduate university.[Details of Quest's c
 In addition to our continuing faculty, Visiting Tutors teach single blocks to supplement the capacity and expertise of our faculty.[Details on applying to Quest as a Visiting Tutor can be found here](https://questu.ca/about/employment/visiting-tutors/). Feel free to be in contact with me [directly](mailto:jeff.warren@questu.ca) as well.
 
 ## Some Resources for future Visiting Tutors in the Arts & Humanities division
-I (Jeff Warren) am currently the division coordinator for the Arts & Humanities division. What follows is primarily for those preparing to teach courses at Quest, but may also be useful for those considering applying to teach at Quest. If you have any further questions or ideas about how I can improve this page, please [contact me](mailto:jeffrwarren@gmail.com). 
+I (Jeff Warren) am currently the division coordinator for the Arts & Humanities division. What follows is primarily for those preparing to teach courses at Quest, but may also be useful for those considering applying to teach at Quest. If you have any further questions or ideas about how I can improve this page, please [contact me](mailto:jeffrwarren@gmail.com).
 
 The Arts & Humanities division covers a wide range of disciplines. The two main types of courses offered by visiting tutors are foundation courses (mostly 1st and 2nd year students) and concentration courses (mostly 3rd and 4th year students). Concentration courses may cover any topic in the division, so long as it complements other course offerings. Foundation courses in the Arts & Humanities division are of three types: Texts, Culture, and Scholarship. All students must take one of each of these types of courses, and each course has their own set of learning outcomes, which you can read more about [here](/files/humfoundation.pdf). The learning outcomes for these courses are primarily skills and big idea based, so many different courses can be created to fill the learning outcomes of each type.
 
 General information and policies about Quest can be found [here](https://questu.ca/academics/catalogue-calendar-policies/).
 
-All students have taken a course in Rhetoric as their second course at Quest, and in the process have learned several terms that you can reinforce in your course. You can find those terms [here](https://jeffrwarren.github.io/grading).
+All students have taken a course in Rhetoric as their second course at Quest, and in the process have learned several terms that you can reinforce in your course. You can find those terms [here](/Grading).
 
 Those who have been offered positions will receive (or have already received) a detailed document from human resources that includes specifics about accommodation, deadlines for entering grades, advice for teaching at Quest, and other issues that apply to all visiting tutors. This resource augments those materials with details specific to teaching Arts & Humanities division courses.
 
