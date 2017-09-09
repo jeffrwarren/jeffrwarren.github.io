@@ -11,7 +11,7 @@ This page has information about mentoring. If you would like to meet with me, pl
 *Below are expectations for completion of degree requirements for my mentees. Mentees may propose an alternative schedule, but it must be proposed and accepted in advance of deadlines.*
 
 ## Summer after 2nd year
-- by June 1: submit a revised version of your Question Proposal (ideally, you will also have passed your Question SPG). 
+- by June 1: submit a revised version of your Question Proposal (ideally, you will also have passed your Question SPG).
 - Complete at least 2 of your Touchstone readings. Please submit a 1-2 page reflection on each reading by September 1.
 
 For guidance on writing a good proposal, please look at the [Question proposal writer’s guide](http://jeffwarren.pancakeapps.com/question/proposalguide/guidemain).
@@ -24,7 +24,7 @@ For guidance on writing a good proposal, please look at the [Question proposal w
 ## 4th year
 - September 1, 2014: complete the rest of your Touchstone readings. Please submit a 1-2 page reflection on each reading.
 - January 10: First draft of your Keystone
-- March 1: Complete draft of your Keystone. 
+- March 1: Complete draft of your Keystone.
 - See [here](http://jeffwarren.pancakeapps.com/question/proposalguide/keystone) for details on entering Keystone block.
 
 # Mentoring with Jeff
@@ -68,10 +68,10 @@ I expect you to pursue your chosen Question and educational path with diligence,
 
 Failure to complete requirements by agreed upon deadlines or meet the expectations above will jeopardize our mentee/mentor relationship.
 
-### What happens at a Question SPG? 
+### What happens at a Question SPG?
 A Question SPG is a meeting between you, me, and another tutor. This is where you present and defend Question Proposal. Tutors recommend changes as necessary; sometimes major, sometimes minor. Rarely do we pass something without some revision. Once the proposal has been revised and resubmitted, you pass through the gates, learn the secret handshake, and enter your Concentration program.
 
-### How do I plan my Question SPG? 
+### How do I plan my Question SPG?
 Your QSPG should be done before the end of the April block of the year you take Question, preferably sooner. In certain circumstances this can be delayed to the summer or, at the latest, the following September block.
 To make arrangements for your SPG, follow these simple steps:
 
@@ -82,17 +82,17 @@ To make arrangements for your SPG, follow these simple steps:
 - once a time is established, send a confirmation email to all parties, and include the latest version of your Question Proposal.
 
 
-### What do I do with my Question Proposal once I’ve passed my Question SPG, and made all the necessary revisions? 
-I recommend that you upload your plan in your Quest OneDrive account, and share the link with me. You should keep your plan up to date (adjust your course schedule as you go, revisit your academic statement as your thinking changes, etc.). By sharing this document with me, I can always check and see what you are up to, and keep abreast of your plans (as they inevitably change). You will have to update your Question Plan during the Keystone block anyways, so you might as well keep it up to date. 
+### What do I do with my Question Proposal once I’ve passed my Question SPG, and made all the necessary revisions?
+I recommend that you upload your plan in your Quest OneDrive account, and share the link with me. You should keep your plan up to date (adjust your course schedule as you go, revisit your academic statement as your thinking changes, etc.). By sharing this document with me, I can always check and see what you are up to, and keep abreast of your plans (as they inevitably change). You will have to update your Question Plan during the Keystone block anyways, so you might as well keep it up to date.
 
-### What are your expectations for my Experiential Learning? 
-There are many ways to achieve a meaningful EL experience. Regardless of what your Question is, we will need to decide which opportunities are right for you, what you will do, and what the deliverables are. You are expected to arrange your own EL, but I will send any meaningful opportunities your way as I encounter them. I require that you put me in touch with your on-site supervisor before your EL commences, and that they write me a short (less than 1-page) evaluation of your performance of your EL duties. If I don’t get this letter, you don’t pass your EL. Other typical deliverables include: a daily journal/log of what you did during your EL, a summary report of what you learned, and other relevant information.
+### What are your expectations for my Experiential Learning?
+There are many ways to achieve a meaningful EL experience. Regardless of what your Question is, we will need to decide which opportunities are right for you, what you will do, and what the deliverables are. You are expected to arrange your own EL, but I will send any meaningful opportunities your way as I encounter them, and at very least I can discuss opportunities and approaches to EL with you. I require that you put me in touch with your on-site supervisor before your EL commences, and that they write me a short (less than 1-page) evaluation of your performance of your EL duties, asking questions including: what did the student do during the EL? How many hours were worked? What did the student do well? In which areas might the student improve upon? If I don’t get this email, you don’t pass your EL. Other typical deliverables include: a daily journal/log of what you did during your EL, a summary report of what you learned, and other relevant information. When you craft your EL syllabus, you should set learning outcomes and align your deliverables with your learning outcomes.
 
 ### How do I set up an Independent Study?  
 Refer to [this video](https://www.youtube.com/watch?v=VXio9ao954o) for a description of Independent Studies at Quest. To develop an Independent Study with me, you should start by asking if I am willing and available to supervise your Independent Study. Then, you will need to write a syllabus for your course, including: a course description, a list of learning objectives, a list of readings, clear and specific assignments with due dates, and an overall timeline for the course. Independent Studies cannot be developed at the last minute. You’ll need at least 1.5 months advance notice: 3 weeks to develop your syllabus, and the mandatory 3-week University paperwork deadline before the beginning of your Independent study. The Independent Study Application form can be found on the Portal. Note that unless the Independent Study is key to your Question plan and you have shown yourself to be a responsible independent learner, I am unlikely to agree to an Independent Study.
 
-### Can I take longer than four academic years to finish my degree? 
+### Can I take longer than four academic years to finish my degree?
 Yes. If you plan on doing so, please propose alternative dates for the completion of your Milestones (see above)
 
-### What are some characteristics of your favourite mentees? 
+### What are some characteristics of your favourite mentees?
 I most enjoy working with mentees who are innately curious, intrinsically motivated, and who care about their own academic success. You will develop some of your own ideas about how to move your progress forward. You will occasionally surprise me with the intellectual connections that you make and the novel ways to approach problems. You will be aware of what the next few steps are, and always be working towards the next accomplishment. You will arrive at our meetings prepared, and on time, and we will engage in interesting and challenging discussions about your question. You will consider my advice and incorporate the ideas that are relevant, and you will carefully consider, but reject my other ideas. You will introduce me to the relevant literature and thinking about your question. When you are creatively or intellectually blocked, you will present several options for moving forward, and I will help you decide which option is best. We will talk about other interesting things, unrelated to your question, and we will get to know each other as people.
