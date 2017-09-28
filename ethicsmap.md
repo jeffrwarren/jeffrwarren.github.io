@@ -6,7 +6,7 @@ description: Major arguments in morals and ethics. A map of ethical ideas compil
 image: http://www.dmu.ac.uk/webimages/Research/Research-ethics-and-governance/research-ethic-and-governance-bnr.jpg
 ---
 
-# Major arguments in morals and [ethics](http://www.iep.utm.edu/ethics/)
+## Major arguments in morals and [ethics](http://www.iep.utm.edu/ethics/)
 Overarching questions include: what should I do? What sort of person should I be? How do I respond to others? What is the good life? What is the good? What is virtue? [What is the difference between moral and ethics? (Adorno)](https://www.dropbox.com/s/69nv9x30df4it80/Adorno%20-%20moral%20philosophy%20lectures%201-2.pdf?dl=0)
 
 - Three short books introducing issues in ethics (with my comments):
@@ -28,9 +28,7 @@ Teleological; moral status determines by consequences; reason usually the instru
 * **Situational Ethics**: The good depends upon the context of the situation (Tillich, Bonhoeffer)
 * **Egoism**: Do only what is in your self interest
 	* [Plato’s Ring of Gyges in the *Republic*](http://philosophy.lander.edu/intro/articles/gyges-a.pdf) ([further discussion of the text](https://www.youtube.com/watch?v=oZ21P2csEV0))
-		* discuss the merit of the argument (note that Plato refutes Glaucon’s argument)
 	* [Ayn Rand: ‘the virtue of selfishness’](http://www.douglasficek.com/teaching/phil-2222/rand.pdf)
-		* debate: ‘Greed is good’ - is it? (feel free to consider examples from economics and elsewhere)
 	* Machiavelli; Nietzsche; Phillippa Foot
 * **Utilitarian**: Do the best for the happiness of all by quantifying consequences. A response to 18th-19th C law, where acts of great human suffering had little penalty, but small suffering (e.g. prostitution) had huge penalty. Applies Enlightenment science ideal to quantify happiness, which leads to problems. [A video introduction to utilitarianism](https://www.youtube.com/watch?v=uvmz5E75ZIA)
 	* **Act**: act in a way to maximize the intrinsically valuable. Can lead to justification of slavery and other problems. (supported by R. M. Hare)
