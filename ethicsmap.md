@@ -9,9 +9,10 @@ image: http://www.dmu.ac.uk/webimages/Research/Research-ethics-and-governance/re
 ## Major arguments in morals and [ethics](http://www.iep.utm.edu/ethics/)
 Overarching questions include: what should I do? What sort of person should I be? How do I respond to others? What is the good life? What is the good? What is virtue? [What is the difference between moral and ethics? (Adorno)](https://www.dropbox.com/s/69nv9x30df4it80/Adorno%20-%20moral%20philosophy%20lectures%201-2.pdf?dl=0)
 
-- Three short books introducing issues in ethics (with my comments):
+- Some short books introducing issues in ethics (with my comments):
 	- Blackburn, Simon. *Ethics : A Very Short Introduction*. University Press, 2003. (topically organized; starts with challenges to ethics-including relativism-, then moves to some issues in applied ethics, and finishes with ethical theories. Little engagement with continental philosophy. Not a comprehensive mapping of the field)
 	- Bowie, Andrew. German Philosophy: A Very Short Introduction. Oxford University Press, 2010. (confined to thinkers from Germany, but includes some heavyweight ethical thinkers. Does justice to the analytic/continental split. Excellent summaries of the philosophers included)
+	- Taylor, Charles. *The Ethics of Authenticity*. Cambridge, Mass.: Harvard University Press, 1992.(You can also [listen to the CBC Massey lectures called 'The Malaise of Modernity' that led to the book](http://www.cbc.ca/radio/ideas/the-1991-cbc-massey-lectures-the-malaise-of-modernity-1.2946849). Looks at some contemporary worries and traces them to the ethical implications of individualism and authenticity)
 	- MacIntyre, Alasdair C. A Short History of Ethics : A History of Moral Philosophy From the Homeric Age to the Twentieth Century. 2nd ed. ed., Notre Dame, Ind.: University of Notre Dame Press, 1998. (takes a historical approach to ethical ideas. Less emphasis on 20th C and continental views)
 
 See where some of these ideas fit on an [arts and ideas timeline](http://jeffrwarren.sitebox.io/teaching/arts-timeline).
@@ -183,6 +184,13 @@ There can be no moral knowledge. There is no cognitive element in ethics. With n
 	- [Nestle and bottled water](http://www.cbc.ca/news/canada/british-columbia/nestlé-faces-renewed-criticism-as-b-c-drought-continues-1.3145929)
 	- [Hardt and Negri’s *Declaration*](https://antonionegriinenglish.files.wordpress.com/2012/05/93152857-hardt-negri-declaration-2012.pdf)
 	* [Is there such a thing as ethical capitalism?](https://pocket.co/sMZCh7)
+- War (is there ‘just war’ or just war?)
+	- Drone warfare: [Nagel on drone warfare](http://www.lrb.co.uk/v38/n05/thomas-nagel/really-good-at-killing)
+- religious freedom/rights
+- Historical studies in ethics and morals
+	- Bourg, Julian. *From Revolution to Ethics : May 1968 and Contemporary French Thought.* Montreal: McGill-Queen’s University Press, 2007.
+
+
 
 <!--
 - Professional ethical codes
@@ -195,10 +203,6 @@ There can be no moral knowledge. There is no cognitive element in ethics. With n
 	- [Canadian military police](http://laws.justice.gc.ca/eng/regulations/SOR-2000-14/page-1.html)
 	- [Tongue and cheek look at popularly used terms by businesses](http://www.theguardian.com/sustainable-business/ng-interactive/2015/nov/13/corporate-values-company-dictionary-interactive)
 -->
-
-- War (is there ‘just war’ or just war?)
-	- Drone warfare: [Nagel on drone warfare](http://www.lrb.co.uk/v38/n05/thomas-nagel/really-good-at-killing)
-- religious freedom/rights
 
 <!--
 	- religious rights versus social rights
