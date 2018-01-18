@@ -15,6 +15,8 @@ Sound installation, in collaboration with Doris Auxier and Suzanne Northcott, re
 
 <img src="images/warrenevergreen.jpg" alt="Evergreen" style="width: 400px;"/>
 
+<img src="images/jeffltwedding.jpg" alt="Guitar" style="width: 400px;"/>
+
 ## CEREMONIAL CLEANSE (June 2010)
 
 ### Sound Sculpture, Royal Holloway, University of London, Egham, England

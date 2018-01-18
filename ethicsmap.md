@@ -87,8 +87,7 @@ Ethical discourse has cognitive content. Often based on ideas attainable moral k
 		* Coherentist argument that beliefs justified if they cohere with the beliefs of others (Geoffrey Sayre-McCord)
 		* Sumner: [Selections from *Folkways*](http://www.douglasficek.com/teaching/phil-2222/sumner.pdf)
 		* Rachels: [“The Challenge of Cultural Relativism”](http://www.douglasficek.com/teaching/phil-2222/rachels.pdf)
-			* Read quickly by reading the introduction, conclusion, and main ideas as laid out in numbered or titled sections.
-			- Discuss:
+			- Discussion questions:
 				- What are the challenges of moral relativism?
 				- What solutions does Rachels provide? Are these solutions adequate?
 				- Are there other solutions to moral relativism we’ve encountered in this course?
