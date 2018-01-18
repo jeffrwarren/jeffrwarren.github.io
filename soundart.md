@@ -13,7 +13,7 @@ I've been involved in many different music projects and sound art projects. Some
 ### Evergreen Cultural Centre, Coquitlam, BC
 Sound installation, in collaboration with Doris Auxier and Suzanne Northcott, reflecting on the Langley Bog and Colony Farm in Coquitlam.
 
-<img src="images/warrenevergreen.jpg" alt="Evergreen" style="width: 400px;"/>
+<img src="images/warrenevergreen.jpeg" alt="Evergreen" style="width: 400px;"/>
 
 <img src="images/jeffltwedding.jpg" alt="Guitar" style="width: 400px;"/>
 
@@ -31,7 +31,7 @@ A sculptural installation that alters both the auditory and visual space of its 
 * Acoustic ecology: The question that motivates much of my artistic and research work is how music and sounds alter the ways that people interact. In my work, I ask the reader/viewer/listener to consider the sounds around us and how those sounds and our concepts of them help or hinder social relationships. For me, the interest in Ceremonial Cleanse is not just in the sounds of the piece, but in the way it asks the viewer to attune her listening. In listening to the sculpture, viewers will also hear other sounds from other people, nature, and industry. The Olympics as an event alter interactions and the ways people think about places and people. Like sounds, this can have positive and negative results.
 * Performance and Participation: One of the justifications for the Olympics is the inspiration it provides others to live active lifestyles. The Olympics are thus one big performance, experienced through single events and broadcast throughout the world, and participatory. People are asked to both respond to the Olympics and participate as viewers. Likewise, Ceremonial Cleanse demands its viewers be participants. Viewers must gather water from the stream and pour it onto the rocks. To hear the sound loudest they must bend down.
 
-<img src="images/warrencleansepromosmall.jpg" alt="cleanse" style="width: 400px;"/>
+<img src="images/Warrencleansepromosmall.jpg" alt="cleanse" style="width: 400px;"/>
 
 ## BOG:TRANSFORMATION AND MEMORY (August 2009)
 
