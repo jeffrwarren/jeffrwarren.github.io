@@ -9,18 +9,18 @@ image: //upload.wikimedia.org/wikipedia/commons/4/42/Doublebass_scroll.jpg
 ## What is the Quest Artist in Residence program?
 Founded in 2014, Quest’s Artist in Residence program brings to campus distinguished practicing artists of all types for a period of six or twelve weeks to teach courses to students, provide campus events for the university and local community, and share their artwork with our community. The artists we bring to campus are skilled educators and active practitioners in artistic disciplines including but not limited to photography, theatre, performance art, film, visual art, creative writing, poetry, sculpture, mixed media, and painting. With this program, we give our students direct access to artists of all types, provide our campus with an infusion of interesting artwork, activities and conversations, and provide artists with an opportunity to do their work in the beautiful setting of our campus. We also provide opportunities for the campus and Squamish community to engage with the work of student artists and our Artists in Residence. In 2016, TD Bank made a $100,000 contribution to support the Artist in Residence program for two years.
 
-A couple of events linked to the Artist in Residence program can be found [here](https://questu.ca/category/artists-in-residence/).
+A couple of events linked to the Artist in Residence program can be found [here](https://questu.ca/artist-in-residence/).
 
-[More on Quest's curriculum can be found here.](https://questu.ca/academics/the-block-plan/)
+[More on Quest's curriculum can be found here.](https://questu.ca/academics/)
 
-[Artist in Residence application instructions can be found here.](https://questu.ca/about/employment/artist-in-residence-apply/)
+[Artist in Residence application instructions can be found here.](https://questu.ca/artist-in-residence/)
 
 For more information on the artist in residence program, please contact [Jeff Warren](mailto:jeff.warren@questu.ca).
 
 ## Impact upon students
 Courses taught by Quest artists in residence provide opportunities for students to learn through artistic practice. Some students take these courses as electives to examine other ways of knowing, and for other students these courses are absolutely key to their personal research questions. A growing number of students are interested in [research creation](http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/definitions-eng.aspx#a22). Artist in Residence courses are sought after by students, and at times the waitlists to get into the courses had more people on them then can actually enrol in the course. Some Artists in Residence have returned to teach their course again, or teach another course as a visiting tutor.
 
-In addition to artist in residence courses, arts courses are also taught by visiting and full time continuing tutors. For example, [Jamie Kemp](https://questu.ca/directory/faculty/jamie-kemp/) teaches courses in visual arts, [Ahalya Satkunaratnam](https://questu.ca/directory/faculty/ahalya-satkunaratnam/) teaches courses in dance and feminist arts practices, [Fei Shi](http://www.questu.ca/fei_shi.html) teaches theatre courses, and [Jeff Warren](http://www.questu.ca/jeff_warren.html) teaches music courses. In fall 2018, James McKinnon will join as a continuing faculty member in theatre.
+In addition to artist in residence courses, arts courses are also taught by visiting and full time continuing tutors. For example, [Jamie Kemp](https://questu.ca/directory/faculty/jamie-kemp/) teaches courses in visual arts, [Ahalya Satkunaratnam](https://questu.ca/academics/faculty/ahalya-satkunaratnam/) teaches courses in dance and feminist arts practices, [James McKinnon](https://questu.ca/academics/faculty/james-mckinnon/) teaches theatre courses, and [Jeff Warren](https://questu.ca/academics/faculty/jeff-warren/) teaches music courses.
 
 Artist in residence courses provide valuable opportunities for students whose personal questions focus on a number of disciplines. Below are just a few examples of students who have benefitted from their experience with Quest’s Artists in Residence:
 
@@ -50,6 +50,10 @@ Many residencies bear fruit beyond the time the artists are on campus. Elaine Av
 
 # Artist in Residence Course Archive
 Below is a list of course descriptions of past courses.
+
+# 2018-2019 artists in residence
+* James Stewart 
+* Amara Hark-Weber
 
 ## 2017-2018 artists in residence
 * Teresa Vander Meer-Chasse: Beadwork and Social Activism during Times of Unrest
@@ -120,8 +124,7 @@ Jeff Warren and Jamie Kemp are Co-Coordinators of the Artist in Residence progra
 You have been hired because we think you will offer an interesting course for students! There are several stages leading up to the delivery of your course:
 
 - **Course title and description**: This is usually discussed with Jeff and Jamie directly after you are offered your position. Timeline: 4-12 months prior to course. Required so that students can register for your course.
-- **New course proposal**: As your course will be new to Quest, it requires approval from the university's Curriculum Committee. This also provides an opportunity for you to think more carefully about your course and receive some feedback from Quest tutors. Please [download this form](https://www.dropbox.com/s/e20xhq1wna7z7xi/Quest%20University%20new%20course%20proposal%20form%20for%20visiting%20tutors.docx?dl=0), fill it out, and return it to Jeff and Jamie. Timeline: new courses require approval before student register for them. Ideally this proposal is submitted along with the course title and description.
-- **Syllabus**: You should work closely with the Artist in Residence Coordinators on your syllabus. Timeline: It needs final approval from the Coordinators a minimum of two weeks prior to the start of your course. Please send Jeff and Jamie your syllabus at least one month prior to the start of your course so that we can go back and forth a couple of times with comments and changes if necessary.
+- **Syllabus**: You should work closely with the Artist in Residence Coordinators on your syllabus. You should build your course around [this Artist in Residence syllabus template](https://www.dropbox.com/s/9e24d36swczvlbr/Artist%20in%20residence%20syllabus%20template.docx?dl=0) that has been developed by the coordinators and approved by the Curriculum Committee. Timeline: the syllabus needs final approval from the Coordinators a minimum of two weeks prior to the start of your course. Please send Jeff and Jamie your syllabus at least six weeks prior to the start of your course so that we can go back and forth a couple of times with comments and changes if necessary.
 - **Materials**: If you have any requirements about materials for the course, these details need to be in place at least one month before your course starts.
 - **Residency activities**: Artist in residence events are a key component to the Quest arts series. Before the start of the semester that you teach, we need an idea of what your residency events might be and when they might occur.
 
@@ -150,10 +153,10 @@ Quest syllabi have no required template to follow. However, since your syllabus 
 Please look at the following syllabi for examples, and feel free to use what is useful:
 
 - Jeff Warren’s [Songwriting and Recording](https://www.dropbox.com/s/pi9cim96ywnqbuk/f14%20Songwriting%20Syllabus.pdf?dl=0)
-- Laurel Terlesky’s [Art, Technology, and the Body](https://ln.sync.com/dl/9faae5020#vvhyqjg4-ukcf9kbr-8cxkwdyf-mrqt9nkm)
-- Lauren Marsden’s [Studio Art: Time Travel](https://ln.sync.com/dl/c4d1db670#ad4bm7i2-26sp8tqb-rrpu8by2-qyfj8bsj)
-- Amara Hark-Weber’s [Worn to be Seen: Sculptural Footwear](https://ln.sync.com/dl/e42aadec0#4es5cydw-bk8dkdjp-zts6v2pj-p4ubay3u)
-- Beatrix Gates’s [The Words to Say it: Poetry and Prose](https://ln.sync.com/dl/08e8be920#45xvqmgx-cfpkmma7-n6ixef4m-mujhcsqd)
+- Laurel Terlesky’s [Art, Technology, and the Body](https://www.dropbox.com/s/8ywa4383ua6zmic/ArtTechnologyTheBody-Syllabus.pdf?dl=0)
+- Lauren Marsden’s [Studio Art: Time Travel](https://www.dropbox.com/s/004pula5xt964y8/Marsden%20-%20Student%20Syllabus.docx?dl=0)
+- Amara Hark-Weber’s [Worn to be Seen: Sculptural Footwear](https://www.dropbox.com/s/4jsj5mevu6a0st9/Hark-Weber%20-%20Worn%20to%20be%20Seen%20Syllabus.pdf?dl=0)
+- Elaine Avila’s [Playwriting](https://www.dropbox.com/s/lc53zte0yv3e2g9/Playwriting%20Syllabus%2C%20Avila%20E%20Quest%20.pdf?dl=0)
 - Jeff Warren’s [Musical Improvisation](https://www.dropbox.com/s/ihuvvnhvjbz9zqw/f15%20improvisation.pdf?dl=0)
 
 ### Assessment
