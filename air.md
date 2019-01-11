@@ -148,9 +148,9 @@ Quest students will work hard, but they will also want to know *why* they are do
 There is no ‘standard’ way to structure a block. That said, several artist in residence courses have used a similar structure wherein the first two weeks includes smaller (1-2 day) projects that deal with specific skills or ideas, and the final week and a half is dedicated to a larger-scale project (see the syllabi linked below for examples).
 
 ### Syllabi
-Quest syllabi have no required template to follow. However, since your syllabus is your contract with your students, sufficient care should be made to include details of assessment, learning outcomes, and a schedule (even if the schedule does build in some flexibility).
+[The Artist in Residence syllabus template](https://www.dropbox.com/s/9e24d36swczvlbr/Artist%20in%20residence%20syllabus%20template.docx?dl=0)provides some learning outcomes and structures for all courses to follow, but also leaves significant space for you to develop the course. Since your syllabus is your contract with your students, sufficient care should be made to include details of assessment, learning outcomes, and a schedule (even if the schedule does build in some flexibility).
 
-Please look at the following syllabi for examples, and feel free to use what is useful:
+Please look at the following syllabi for examples, and feel free to use what is useful (note that these syllabi were developed before the Artist in Residence syllabus template was established):
 
 - Jeff Warren’s [Songwriting and Recording](https://www.dropbox.com/s/pi9cim96ywnqbuk/f14%20Songwriting%20Syllabus.pdf?dl=0)
 - Laurel Terlesky’s [Art, Technology, and the Body](https://www.dropbox.com/s/8ywa4383ua6zmic/ArtTechnologyTheBody-Syllabus.pdf?dl=0)
